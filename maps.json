@@ -1,0 +1,103 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "uuid": "7eaecc1b-4337-bbf6-6ab9-04b8f06b3319",
+            "displayName": "Ascent",
+            "coordinates": "45\u00b026'BF'N,12\u00b020'Q'E",
+            "displayIcon": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/displayicon.png",
+            "listViewIcon": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/listviewicon.png",
+            "splash": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/splash.png",
+            "assetPath": "ShooterGame/Content/Maps/Ascent/Ascent_PrimaryAsset",
+            "mapUrl": "/Game/Maps/Ascent/Ascent",
+            "xMultiplier": 7.0e-5,
+            "yMultiplier": -7.0e-5,
+            "xScalarToAdd": 0.813895,
+            "yScalarToAdd": 0.573242
+        },
+        {
+            "uuid": "d960549e-485c-e861-8d71-aa9d1aed12a2",
+            "displayName": "Split",
+            "coordinates": "35\u00b041'CD'N,139\u00b041'WX'E",
+            "displayIcon": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/displayicon.png",
+            "listViewIcon": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/listviewicon.png",
+            "splash": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/splash.png",
+            "assetPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_PrimaryAsset",
+            "mapUrl": "/Game/Maps/Bonsai/Bonsai",
+            "xMultiplier": 7.8e-5,
+            "yMultiplier": -7.8e-5,
+            "xScalarToAdd": 0.842108,
+            "yScalarToAdd": 0.648073
+        },
+        {
+            "uuid": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+            "displayName": "Bind",
+            "coordinates": "34\u00b02'A'N,6\u00b051'Z'W",
+            "displayIcon": "https://media.valorant-api.com/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba/displayicon.png",
+            "listViewIcon": "https://media.valorant-api.com/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba/listviewicon.png",
+            "splash": "https://media.valorant-api.com/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba/splash.png",
+            "assetPath": "ShooterGame/Content/Maps/Duality/Duality_PrimaryAsset",
+            "mapUrl": "/Game/Maps/Duality/Duality",
+            "xMultiplier": 6.7e-5,
+            "yMultiplier": -6.7e-5,
+            "xScalarToAdd": 0.587554,
+            "yScalarToAdd": 1.032058
+        },
+        {
+            "uuid": "2fb9a4fd-47b8-4e7d-a969-74b4046ebd53",
+            "displayName": "Breeze",
+            "coordinates": null,
+            "displayIcon": "https://media.valorant-api.com/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53/displayicon.png",
+            "listViewIcon": "https://media.valorant-api.com/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53/listviewicon.png",
+            "splash": "https://media.valorant-api.com/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53/splash.png",
+            "assetPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_PrimaryAsset",
+            "mapUrl": "/Game/Maps/Foxtrot/Foxtrot",
+            "xMultiplier": 7.0e-5,
+            "yMultiplier": -7.0e-5,
+            "xScalarToAdd": 0.465123,
+            "yScalarToAdd": 0.833078
+        },
+        {
+            "uuid": "e2ad5c54-4114-a870-9641-8ea21279579a",
+            "displayName": "Icebox",
+            "coordinates": "76\u00b044' A\"N 149\u00b030' Z\"E",
+            "displayIcon": "https://media.valorant-api.com/maps/e2ad5c54-4114-a870-9641-8ea21279579a/displayicon.png",
+            "listViewIcon": "https://media.valorant-api.com/maps/e2ad5c54-4114-a870-9641-8ea21279579a/listviewicon.png",
+            "splash": "https://media.valorant-api.com/maps/e2ad5c54-4114-a870-9641-8ea21279579a/splash.png",
+            "assetPath": "ShooterGame/Content/Maps/Port/Port_PrimaryAsset",
+            "mapUrl": "/Game/Maps/Port/Port",
+            "xMultiplier": 7.2e-5,
+            "yMultiplier": -7.2e-5,
+            "xScalarToAdd": 0.460214,
+            "yScalarToAdd": 0.304687
+        },
+        {
+            "uuid": "ee613ee9-28b7-4beb-9666-08db13bb2244",
+            "displayName": "The Range",
+            "coordinates": "45\u00b026'FF'N,12\u00b020'Q'E",
+            "displayIcon": null,
+            "listViewIcon": "https://media.valorant-api.com/maps/ee613ee9-28b7-4beb-9666-08db13bb2244/listviewicon.png",
+            "splash": "https://media.valorant-api.com/maps/ee613ee9-28b7-4beb-9666-08db13bb2244/splash.png",
+            "assetPath": "ShooterGame/Content/Maps/Poveglia/Poveglia_PrimaryAsset",
+            "mapUrl": "/Game/Maps/Poveglia/Range",
+            "xMultiplier": 0,
+            "yMultiplier": 0,
+            "xScalarToAdd": 0,
+            "yScalarToAdd": 0
+        },
+        {
+            "uuid": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+            "displayName": "Haven",
+            "coordinates": "27\u00b028'A'N,89\u00b038'WZ'E",
+            "displayIcon": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/displayicon.png",
+            "listViewIcon": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/listviewicon.png",
+            "splash": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/splash.png",
+            "assetPath": "ShooterGame/Content/Maps/Triad/Triad_PrimaryAsset",
+            "mapUrl": "/Game/Maps/Triad/Triad",
+            "xMultiplier": 7.5e-5,
+            "yMultiplier": -7.5e-5,
+            "xScalarToAdd": 1.09345,
+            "yScalarToAdd": 0.642728
+        }
+    ]
+}

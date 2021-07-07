@@ -1,0 +1,2402 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "uuid": "452194fb-4ebd-353a-2ff7-0e90cf5523f9",
+            "displayName": "Get Carried Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/452194fb-4ebd-353a-2ff7-0e90cf5523f9/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Backpack/GunBuddy_Backpack_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ba08f19b-496c-bc8d-45ff-c0a05759a0e6",
+                    "charmLevel": 1,
+                    "displayName": "Backpack",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/ba08f19b-496c-bc8d-45ff-c0a05759a0e6/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Backpack/GunBuddy_Backpack_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "d6f5e6a4-4d42-b56d-03c3-92955d294f54",
+            "displayName": "In A Bind Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/d6f5e6a4-4d42-b56d-03c3-92955d294f54/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/BindDiorama/GunBuddy_BindDiorama_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "633f5deb-41d2-b9d2-b099-0dbbfd7b3a69",
+                    "charmLevel": 1,
+                    "displayName": "In A Bind Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/633f5deb-41d2-b9d2-b099-0dbbfd7b3a69/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/BindDiorama/GunBuddy_BindDiorama_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "145da845-43f6-d4d4-d72d-53bd1d78cf28",
+            "displayName": "Year One Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/145da845-43f6-d4d4-d72d-53bd1d78cf28/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/BirthdayCake/GunBuddy_BirthdayCake_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "601fe0da-4562-550e-50e7-57b2a6402b5b",
+                    "charmLevel": 1,
+                    "displayName": "BirthdayCake",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/601fe0da-4562-550e-50e7-57b2a6402b5b/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/BirthdayCake/GunBuddy_BirthdayCake_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "853da947-486d-feb3-ec2d-8ba25a6b545b",
+            "displayName": "BlastX Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/853da947-486d-feb3-ec2d-8ba25a6b545b/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/BlastX/GunBuddy_BlastX_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "dadb46d4-4760-141f-aa50-948f3054006e",
+                    "charmLevel": 1,
+                    "displayName": "BlastX Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/dadb46d4-4760-141f-aa50-948f3054006e/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/BlastX/GunBuddy_BlastX_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "d400dd1a-4a81-1b26-b8f1-a994e13739b2",
+            "displayName": "Boba Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/d400dd1a-4a81-1b26-b8f1-a994e13739b2/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Boba/GunBuddy_Boba_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "58584a97-4839-3cb0-6f21-02809648df92",
+                    "charmLevel": 1,
+                    "displayName": "Boba",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/58584a97-4839-3cb0-6f21-02809648df92/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Boba/GunBuddy_Boba_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8fbf09a5-4ad2-46ca-d44e-26b46587a1bf",
+            "displayName": "Hammer Time Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "3b17210d-408b-e1f0-069b-fd8f6e61e90d",
+            "displayIcon": "https://media.valorant-api.com/buddies/8fbf09a5-4ad2-46ca-d44e-26b46587a1bf/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Breach/GunBuddy_Breach_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "98a2fa9e-4e66-eec9-8b13-298498862f28",
+                    "charmLevel": 1,
+                    "displayName": "Hammer Time Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/98a2fa9e-4e66-eec9-8b13-298498862f28/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Breach/GunBuddy_Breach_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "fedceff5-4a3e-0506-dbc0-8ba5b9cfd171",
+            "displayName": "Bullet Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "a081d668-4d28-1bf5-c7f8-9592ec8ad7f7",
+            "displayIcon": "https://media.valorant-api.com/buddies/fedceff5-4a3e-0506-dbc0-8ba5b9cfd171/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Bullet01/GunBuddy_Bullet01_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "8bd42b70-4f2f-5c7d-33d3-0f83521c8eb5",
+                    "charmLevel": 1,
+                    "displayName": "Bullet Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/8bd42b70-4f2f-5c7d-33d3-0f83521c8eb5/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Bullet01/GunBuddy_Bullet01_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "57bc159c-4bf9-1963-884a-a387e69013be",
+            "displayName": "Closed Beta Coin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "151e1837-47ef-27f5-74c8-d687cea2f1c5",
+            "displayIcon": "https://media.valorant-api.com/buddies/57bc159c-4bf9-1963-884a-a387e69013be/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/CB/GunBuddy_CB_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "cc4be40d-47e0-7f1e-2e30-9b90ce2607cd",
+                    "charmLevel": 1,
+                    "displayName": "Closed Beta Coin Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/cc4be40d-47e0-7f1e-2e30-9b90ce2607cd/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/CB/GunBuddy_CB_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "c8259af3-4720-5312-0ba1-f7b65ee39834",
+            "displayName": "VALORANT GO! Vol. 1 Cypher Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/c8259af3-4720-5312-0ba1-f7b65ee39834/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiCypher/GunBuddy_ChibiCypher_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "c8b53af9-4e6d-5599-f516-43a22c1048ab",
+                    "charmLevel": 1,
+                    "displayName": "ChibiCypher",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/c8b53af9-4e6d-5599-f516-43a22c1048ab/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiCypher/GunBuddy_ChibiCypher_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "c5cdbaa1-4518-22ea-2e35-2aa3ad55ce9f",
+            "displayName": "VALORANT GO! Vol. 1 Jett Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/c5cdbaa1-4518-22ea-2e35-2aa3ad55ce9f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiJett/GunBuddy_ChibiJett_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "0af0c7ca-4fb7-0410-5cc6-a5834d340c53",
+                    "charmLevel": 1,
+                    "displayName": "ChibiJett",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/0af0c7ca-4fb7-0410-5cc6-a5834d340c53/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiJett/GunBuddy_ChibiJett_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8e7b95e3-42d2-1b29-af2e-749c4ea24aa9",
+            "displayName": "VALORANT GO! Vol. 1 Killjoy Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/8e7b95e3-42d2-1b29-af2e-749c4ea24aa9/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiKilljoy/GunBuddy_ChibiKilljoy_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "b01739f3-4da9-0792-aa40-1094bc99e34d",
+                    "charmLevel": 1,
+                    "displayName": "ChibiKilljoy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/b01739f3-4da9-0792-aa40-1094bc99e34d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiKilljoy/GunBuddy_ChibiKilljoy_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "f1c7487e-4f9a-42d4-8704-0597d7146c26",
+            "displayName": "VALORANT GO! Vol. 1 Reyna Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/f1c7487e-4f9a-42d4-8704-0597d7146c26/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiReyna/GunBuddy_ChibiReyna_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "8975b579-4df4-4b31-4ff0-5db942480054",
+                    "charmLevel": 1,
+                    "displayName": "ChibiReyna",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/8975b579-4df4-4b31-4ff0-5db942480054/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiReyna/GunBuddy_ChibiReyna_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "919e0b68-4ac0-3ab4-0b1d-80b58103c844",
+            "displayName": "VALORANT GO! Vol. 1 Sage Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/919e0b68-4ac0-3ab4-0b1d-80b58103c844/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiSage/GunBuddy_ChibiSage_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "0af262b7-48a1-df12-d445-bd8747efc248",
+                    "charmLevel": 1,
+                    "displayName": "ChibiSage",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/0af262b7-48a1-df12-d445-bd8747efc248/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiSage/GunBuddy_ChibiSage_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "dabefcd9-4cc3-aee0-85fd-3cadff8d0096",
+            "displayName": "Origin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/dabefcd9-4cc3-aee0-85fd-3cadff8d0096/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Circle/GunBuddy_Circle_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "275af4d5-4636-8886-b246-8299defee60b",
+                    "charmLevel": 1,
+                    "displayName": "Circle",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/275af4d5-4636-8886-b246-8299defee60b/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Circle/GunBuddy_Circle_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "99813567-4b6a-47c2-d36f-0ba5bc89adac",
+            "displayName": "Blast Pin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "aeed5cc9-4686-9272-e76a-3a9092b5ce0e",
+            "displayIcon": "https://media.valorant-api.com/buddies/99813567-4b6a-47c2-d36f-0ba5bc89adac/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Clay/GunBuddy_Clay_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "7d1864a2-4796-ac3c-a49f-7588ae17ed18",
+                    "charmLevel": 1,
+                    "displayName": "Blast Pin Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/7d1864a2-4796-ac3c-a49f-7588ae17ed18/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Clay/GunBuddy_Clay_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "34b3cc0f-4ffe-e29e-f395-b5ba37e3e461",
+            "displayName": "Island Dreams Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/34b3cc0f-4ffe-e29e-f395-b5ba37e3e461/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/CoconutDrink/GunBuddy_CoconutDrink_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a3ab586e-42b5-c2e6-47b7-f18eae250c33",
+                    "charmLevel": 1,
+                    "displayName": "CoconutDrink",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/a3ab586e-42b5-c2e6-47b7-f18eae250c33/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/CoconutDrink/GunBuddy_CoconutDrink_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2fe275a6-41f2-bf54-7fb9-7593429ea675",
+            "displayName": "EP 1 // 1 Coin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "c913e306-4823-8abe-8dcc-eca89ee1cec0",
+            "displayIcon": "https://media.valorant-api.com/buddies/2fe275a6-41f2-bf54-7fb9-7593429ea675/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP1/GunBuddy_Coin_EP1_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "96502717-41f7-5d24-89a1-66aff04bbbbb",
+                    "charmLevel": 1,
+                    "displayName": "EP 1 // 1 Coin Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/96502717-41f7-5d24-89a1-66aff04bbbbb/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP1/GunBuddy_Coin_EP1_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2a1514dd-433d-c2e4-23a0-c1a75ccae00b",
+            "displayName": "EP 1 // 2 Coin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/2a1514dd-433d-c2e4-23a0-c1a75ccae00b/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP1_A2/GunBuddy_Coin_EP1_A2_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "deef49c1-432d-10f7-a750-90b323b079d2",
+                    "charmLevel": 1,
+                    "displayName": "EP 1 // 2 Coin Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/deef49c1-432d-10f7-a750-90b323b079d2/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP1_A2/GunBuddy_Coin_EP1_A2_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "64245bfe-4740-fc95-95a4-81b4ec4d3412",
+            "displayName": "EP 1 // 3 Coin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/64245bfe-4740-fc95-95a4-81b4ec4d3412/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP1_A3/GunBuddy_Coin_EP1_A3_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "0bd4e4b8-48bd-df5a-3af3-f49acf7913e1",
+                    "charmLevel": 1,
+                    "displayName": "EP 1 // 3 Coin Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/0bd4e4b8-48bd-df5a-3af3-f49acf7913e1/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP1_A3/GunBuddy_Coin_EP1_A3_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "15e4057c-4446-064d-98c7-249e479d8501",
+            "displayName": "EP 2 // 1 Coin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/15e4057c-4446-064d-98c7-249e479d8501/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP2_A1/GunBuddy_Coin_EP2_A1_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "826b3b8b-4fdc-c686-e5ec-ad917e22dbfe",
+                    "charmLevel": 1,
+                    "displayName": "Coin_EP2_A1",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/826b3b8b-4fdc-c686-e5ec-ad917e22dbfe/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP2_A1/GunBuddy_Coin_EP2_A1_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8374dfd2-4424-4805-e987-fd859b986d7a",
+            "displayName": "EP 2 // 2 Coin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/8374dfd2-4424-4805-e987-fd859b986d7a/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP2_A2/GunBuddy_Coin_EP2_A2_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "e9579f35-46c7-2ba1-bec7-739c0e2778fa",
+                    "charmLevel": 1,
+                    "displayName": "Coin_EP2_A2",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/e9579f35-46c7-2ba1-bec7-739c0e2778fa/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP2_A2/GunBuddy_Coin_EP2_A2_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "12b3da72-47ec-a773-5da4-a390e6321cb6",
+            "displayName": "EP 2 // 3 Coin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/12b3da72-47ec-a773-5da4-a390e6321cb6/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP2_A3/GunBuddy_Coin_EP2_A3_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "2030984a-4b8d-7cca-4eee-51aaa46b7712",
+                    "charmLevel": 1,
+                    "displayName": "Coin_EP2_A3",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/2030984a-4b8d-7cca-4eee-51aaa46b7712/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP2_A3/GunBuddy_Coin_EP2_A3_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "84953dce-470e-a3a2-30c1-569f960c50c3",
+            "displayName": "EP 3 // 1 Coin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/84953dce-470e-a3a2-30c1-569f960c50c3/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP3_A1/GunBuddy_Coin_EP3_A1_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "4fa5438c-44dd-a67f-c074-f8bb2d3c8473",
+                    "charmLevel": 1,
+                    "displayName": "Coin_EP3_A1",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/4fa5438c-44dd-a67f-c074-f8bb2d3c8473/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Coin_EP3_A1/GunBuddy_Coin_EP3_A1_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "7ac1f7db-42a7-bf5a-5b13-95b70e618f5e",
+            "displayName": "Chilly McFreeze Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/7ac1f7db-42a7-bf5a-5b13-95b70e618f5e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/CoolSnowman/GunBuddy_CoolSnowman_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "2179e882-430e-be93-b909-bba9568e66af",
+                    "charmLevel": 1,
+                    "displayName": "Chilly McFreeze Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/2179e882-430e-be93-b909-bba9568e66af/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/CoolSnowman/GunBuddy_CoolSnowman_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e0462e6c-4188-06cc-e28d-ac9abcc16bc2",
+            "displayName": "Crate Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "1480c950-441e-6548-d4ad-eea4c82f881e",
+            "displayIcon": "https://media.valorant-api.com/buddies/e0462e6c-4188-06cc-e28d-ac9abcc16bc2/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Crate1/GunBuddy_Crate1_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "0df7158a-46c6-eeb6-9561-e78165756b99",
+                    "charmLevel": 1,
+                    "displayName": "Crate Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/0df7158a-46c6-eeb6-9561-e78165756b99/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Crate1/GunBuddy_Crate1_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "0f1ce8ce-4615-637d-6772-0fa15b848fe4",
+            "displayName": "Radianite Crate Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "1062a169-4ddf-c074-b53c-829cf0da021f",
+            "displayIcon": "https://media.valorant-api.com/buddies/0f1ce8ce-4615-637d-6772-0fa15b848fe4/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/CrateKingdom/GunBuddy_CrateKingdom_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "31e2cc61-4d9e-2aa1-ff65-76a7a0a7bba1",
+                    "charmLevel": 1,
+                    "displayName": "Radianite Crate Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/31e2cc61-4d9e-2aa1-ff65-76a7a0a7bba1/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/CrateKingdom/GunBuddy_CrateKingdom_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "fe997250-41ef-444a-a12b-7ca8ca87cb40",
+            "displayName": "Red Alert Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/fe997250-41ef-444a-a12b-7ca8ca87cb40/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/CrimsonOps/GunBuddy_CrimsonOps_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "eea4991c-4b01-9dd1-5d3c-1cbbdc8e1b0b",
+                    "charmLevel": 1,
+                    "displayName": "Red Alert Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/eea4991c-4b01-9dd1-5d3c-1cbbdc8e1b0b/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/CrimsonOps/GunBuddy_CrimsonOps_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "271c1309-4185-d000-c8bf-56a170c17e1c",
+            "displayName": "Cup o' Crown Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/271c1309-4185-d000-c8bf-56a170c17e1c/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/CrownCoffee/GunBuddy_CrownCoffee_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "967652c0-48c5-1b18-ae3e-2bb066f2623d",
+                    "charmLevel": 1,
+                    "displayName": "Cup o' Crown Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/967652c0-48c5-1b18-ae3e-2bb066f2623d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/CrownCoffee/GunBuddy_CrownCoffee_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "c5bee9f1-4548-03c3-f88d-d7bf38d1943e",
+            "displayName": "Glitchpop Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "5b014f36-414b-4703-9c65-1876c630feaa",
+            "displayIcon": "https://media.valorant-api.com/buddies/c5bee9f1-4548-03c3-f88d-d7bf38d1943e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Cyberpunk/GunBuddy_Cyberpunk_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "e6eee5ec-4f6f-e764-1c4d-048ce271be27",
+                    "charmLevel": 1,
+                    "displayName": "Glitchpop Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/e6eee5ec-4f6f-e764-1c4d-048ce271be27/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Cyberpunk/GunBuddy_Cyberpunk_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "faca42f0-47d9-0fcb-116f-9e9b37060bd1",
+            "displayName": "Glitchpop, EP 2 Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/faca42f0-47d9-0fcb-116f-9e9b37060bd1/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Cyberpunk2/GunBuddy_Cyberpunk2_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "3da96301-4edd-0d74-492c-6e9d0766665a",
+                    "charmLevel": 1,
+                    "displayName": "Cyberpunk2",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/3da96301-4edd-0d74-492c-6e9d0766665a/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Cyberpunk2/GunBuddy_Cyberpunk2_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "d5b10115-43ea-42e7-8843-5bb5c1e73c6e",
+            "displayName": "Danger Lizard Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/d5b10115-43ea-42e7-8843-5bb5c1e73c6e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/DangerLizard/GunBuddy_DangerLizard_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "28227664-476a-72db-adaa-159084fbd149",
+                    "charmLevel": 1,
+                    "displayName": "Danger Lizard Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/28227664-476a-72db-adaa-159084fbd149/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/DangerLizard/GunBuddy_DangerLizard_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "b0e6b3db-45fe-f622-52f2-51811650560e",
+            "displayName": "Lucky Dice Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/b0e6b3db-45fe-f622-52f2-51811650560e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Dice/GunBuddy_Dice_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "f7005d97-4328-d473-dbb5-068a192f4f3a",
+                    "charmLevel": 1,
+                    "displayName": "Dice",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/f7005d97-4328-d473-dbb5-068a192f4f3a/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Dice/GunBuddy_Dice_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "42afb96b-4d11-e465-55a4-0b87bdfbf244",
+            "displayName": "Discotech Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/42afb96b-4d11-e465-55a4-0b87bdfbf244/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/DiscoBall/GunBuddy_DiscoBall_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "682a5c4e-4506-8d3a-82f9-6d87bd000dc7",
+                    "charmLevel": 1,
+                    "displayName": "Discotech Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/682a5c4e-4506-8d3a-82f9-6d87bd000dc7/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/DiscoBall/GunBuddy_DiscoBall_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "910ea2d6-4578-c826-2b06-1594769766fb",
+            "displayName": "Epilogue: Discotech Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/910ea2d6-4578-c826-2b06-1594769766fb/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/DiscoBallGold/GunBuddy_DiscoBallGold_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "8fae3ccd-44e0-42e6-d60c-a39e1471cdc9",
+                    "charmLevel": 1,
+                    "displayName": "Epilogue: Discotech Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/8fae3ccd-44e0-42e6-d60c-a39e1471cdc9/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/DiscoBallGold/GunBuddy_DiscoBallGold_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "26d1b452-461d-8d6f-526b-658c692e0f9e",
+            "displayName": "Donut Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "e2c217ac-46df-20cc-86c0-25b272ab7d3a",
+            "displayIcon": "https://media.valorant-api.com/buddies/26d1b452-461d-8d6f-526b-658c692e0f9e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Doughnut/GunBuddy_Doughnut_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "f3a3c59b-4bf3-461c-f956-d0bc7d95a742",
+                    "charmLevel": 1,
+                    "displayName": "Donut Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/f3a3c59b-4bf3-461c-f956-d0bc7d95a742/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Doughnut/GunBuddy_Doughnut_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "38a10a3b-495c-eeff-b8af-c3b2b5cdc3f9",
+            "displayName": "Elderflame Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "6245cbbc-4aa3-b339-0d2e-abb333f6c8c5",
+            "displayIcon": "https://media.valorant-api.com/buddies/38a10a3b-495c-eeff-b8af-c3b2b5cdc3f9/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Dragon/GunBuddy_Dragon_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "b2128a8c-49bd-09b1-7b4c-f2b9d2f92508",
+                    "charmLevel": 1,
+                    "displayName": "Elderflame Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/b2128a8c-49bd-09b1-7b4c-f2b9d2f92508/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Dragon/GunBuddy_Dragon_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2de08c48-4aa1-0c32-138d-4b834c21aee2",
+            "displayName": "Singularity Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/2de08c48-4aa1-0c32-138d-4b834c21aee2/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Edge/GunBuddy_Edge_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ed95e342-4116-f07c-88b9-368a5fadb224",
+                    "charmLevel": 1,
+                    "displayName": "Singularity Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/ed95e342-4116-f07c-88b9-368a5fadb224/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Edge/GunBuddy_Edge_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "3c9bfa19-4688-39ff-5377-3cac9d396a32",
+            "displayName": "Songsteel Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/3c9bfa19-4688-39ff-5377-3cac9d396a32/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Elven/GunBuddy_Elven_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "05b6bc52-4bc1-6568-1c1b-53830b2cf57e",
+                    "charmLevel": 1,
+                    "displayName": "Elven",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/05b6bc52-4bc1-6568-1c1b-53830b2cf57e/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Elven/GunBuddy_Elven_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "82bdb8b5-40bf-9b65-272e-4eb7dad1264e",
+            "displayName": "2021 VCT Masters Winner Buddy",
+            "isHiddenIfNotOwned": true,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/82bdb8b5-40bf-9b65-272e-4eb7dad1264e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/EsportsVCTPurple/GunBuddy_EsportsVCTPurple_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ef6ddfab-45f9-7938-7ff2-9588dec2f71d",
+                    "charmLevel": 1,
+                    "displayName": "EsportsVCTPurple",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/ef6ddfab-45f9-7938-7ff2-9588dec2f71d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/EsportsVCTPurple/GunBuddy_EsportsVCTPurple_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2d462f8e-47af-0678-dfa1-c3bc7c307ca7",
+            "displayName": "Good Boy, Bruno Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/2d462f8e-47af-0678-dfa1-c3bc7c307ca7/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Explorgi/GunBuddy_Explorgi_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "09f1c54f-4c4a-6338-424d-ef9378fe9885",
+                    "charmLevel": 1,
+                    "displayName": "Explorgi",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/09f1c54f-4c4a-6338-424d-ef9378fe9885/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Explorgi/GunBuddy_Explorgi_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "46841a97-48b1-3432-5b28-5ca47df923a9",
+            "displayName": "Nice Smile Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/46841a97-48b1-3432-5b28-5ca47df923a9/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/FaceMask/GunBuddy_FaceMask_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "cdab1aec-4c06-21be-133d-1c84a9765875",
+                    "charmLevel": 1,
+                    "displayName": "FaceMask",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/cdab1aec-4c06-21be-133d-1c84a9765875/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/FaceMask/GunBuddy_FaceMask_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "bcc2578f-46aa-c5a3-46bb-4ebfbbcf9b98",
+            "displayName": "Forsaken Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/bcc2578f-46aa-c5a3-46bb-4ebfbbcf9b98/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Fallen/GunBuddy_Fallen_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "4fc451ca-439f-f3f3-e8ac-81bec328744e",
+                    "charmLevel": 1,
+                    "displayName": "Fallen",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/4fc451ca-439f-f3f3-e8ac-81bec328744e/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Fallen/GunBuddy_Fallen_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "b9926112-49d0-b049-b078-798851912eb7",
+            "displayName": "Lunar Firework Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/b9926112-49d0-b049-b078-798851912eb7/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Fireworks/GunBuddy_Fireworks_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ffa13bca-4bb7-5f3e-48a3-4e96c05a2df9",
+                    "charmLevel": 1,
+                    "displayName": "Fireworks",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/ffa13bca-4bb7-5f3e-48a3-4e96c05a2df9/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Fireworks/GunBuddy_Fireworks_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "0262276c-4ede-a858-cad0-1ca4e877052b",
+            "displayName": "Ascent Rising Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "9d8cefa5-4fd7-7ad0-6639-61ae5728ff0c",
+            "displayIcon": "https://media.valorant-api.com/buddies/0262276c-4ede-a858-cad0-1ca4e877052b/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/FloatingIsland/GunBuddy_FloatingIsland_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "175d5ea6-43a6-1e39-e720-62805544f5d3",
+                    "charmLevel": 1,
+                    "displayName": "Ascent Rising Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/175d5ea6-43a6-1e39-e720-62805544f5d3/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/FloatingIsland/GunBuddy_FloatingIsland_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "b45b70fb-49d4-9d7f-afde-57a1ea79d9b5",
+            "displayName": "Froggie Hat Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/b45b70fb-49d4-9d7f-afde-57a1ea79d9b5/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/FroggyHat/GunBuddy_FroggyHat_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "6b26e5ca-4187-cb98-b7b2-9280343e32e3",
+                    "charmLevel": 1,
+                    "displayName": "Froggie Hat Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/6b26e5ca-4187-cb98-b7b2-9280343e32e3/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/FroggyHat/GunBuddy_FroggyHat_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "108a36d5-44ef-9b4c-b783-b29a6a9ae340",
+            "displayName": "Gelato Cutie Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "ea250fe3-4d6f-7271-0905-a387abc506f4",
+            "displayIcon": "https://media.valorant-api.com/buddies/108a36d5-44ef-9b4c-b783-b29a6a9ae340/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Gelato/GunBuddy_Gelato_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "461ee5bc-4325-67f1-9e3f-42952fb8f898",
+                    "charmLevel": 1,
+                    "displayName": "Gelato Cutie Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/461ee5bc-4325-67f1-9e3f-42952fb8f898/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Gelato/GunBuddy_Gelato_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "c839377c-4c9a-9562-28be-91805c2d94f9",
+            "displayName": "Tall Tales Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/c839377c-4c9a-9562-28be-91805c2d94f9/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Giraffe/GunBuddy_Giraffe_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "3b9e1d2c-4ba4-4fea-ceaa-dbb73a324a9a",
+                    "charmLevel": 1,
+                    "displayName": "Tall Tales Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/3b9e1d2c-4ba4-4fea-ceaa-dbb73a324a9a/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Giraffe/GunBuddy_Giraffe_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "11059586-411c-38e4-cc25-25aeb31eae02",
+            "displayName": "Give Back Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/11059586-411c-38e4-cc25-25aeb31eae02/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/GiveBackBundle/GunBuddy_GiveBackBundle_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "bdd36e5e-4574-85e3-6f64-62ba3319a9d1",
+                    "charmLevel": 1,
+                    "displayName": "GiveBackBundle",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/bdd36e5e-4574-85e3-6f64-62ba3319a9d1/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/GiveBackBundle/GunBuddy_GiveBackBundle_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "500e6c02-4005-ebb9-528b-219b57a9cfd2",
+            "displayName": "Caught Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/500e6c02-4005-ebb9-528b-219b57a9cfd2/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/GoldFish/GunBuddy_GoldFish_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "7fd3b058-4718-681b-4632-4990c7ad7e68",
+                    "charmLevel": 1,
+                    "displayName": "GoldFish",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/7fd3b058-4718-681b-4632-4990c7ad7e68/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/GoldFish/GunBuddy_GoldFish_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "41859a85-4344-aeee-483a-468bad39e5fd",
+            "displayName": "Ruin Watcher Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/41859a85-4344-aeee-483a-468bad39e5fd/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Gothic/GunBuddy_Gothic_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a7555579-4df9-6916-e15f-8381c11689a9",
+                    "charmLevel": 1,
+                    "displayName": "Ruin Watcher Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/a7555579-4df9-6916-e15f-8381c11689a9/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Gothic/GunBuddy_Gothic_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "7cec4eb4-4078-4dc4-7f00-d6b7348e347a",
+            "displayName": "Memory Chip Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/7cec4eb4-4078-4dc4-7f00-d6b7348e347a/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Grenadier/GunBuddy_Grenadier_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "473df037-45a2-43d6-4da1-8f99e220d0ad",
+                    "charmLevel": 1,
+                    "displayName": "Grenadier",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/473df037-45a2-43d6-4da1-8f99e220d0ad/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Grenadier/GunBuddy_Grenadier_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e4689a4b-4df6-86e8-8d34-a19bdc01afe7",
+            "displayName": "Hawko Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/e4689a4b-4df6-86e8-8d34-a19bdc01afe7/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/GuideBird/GunBuddy_GuideBird_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "10d781c0-4500-19eb-5000-c6afac6f2c58",
+                    "charmLevel": 1,
+                    "displayName": "Hawko Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/10d781c0-4500-19eb-5000-c6afac6f2c58/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/GuideBird/GunBuddy_GuideBird_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e058e4f5-40c4-a26a-e6c7-33a4baf2e21f",
+            "displayName": "White Hat Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "ca77e082-4c08-bf86-2d62-6a8628398615",
+            "displayIcon": "https://media.valorant-api.com/buddies/e058e4f5-40c4-a26a-e6c7-33a4baf2e21f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Gumshoe/GunBuddy_Gumshoe_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "abd3d1c7-42b6-46fc-35d2-ac9cf1f33607",
+                    "charmLevel": 1,
+                    "displayName": "White Hat Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/abd3d1c7-42b6-46fc-35d2-ac9cf1f33607/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Gumshoe/GunBuddy_Gumshoe_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "ae240163-4893-5d7e-9029-31a3ca2a9c84",
+            "displayName": "Safe Haven Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/ae240163-4893-5d7e-9029-31a3ca2a9c84/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/HavenDiorama/GunBuddy_HavenDiorama_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d606df6a-4f8a-1273-083a-5b925a178e36",
+                    "charmLevel": 1,
+                    "displayName": "Safe Haven Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d606df6a-4f8a-1273-083a-5b925a178e36/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/HavenDiorama/GunBuddy_HavenDiorama_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8848ff77-43b1-5f73-8106-778f1ea8593e",
+            "displayName": "Xpert Comms Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/8848ff77-43b1-5f73-8106-778f1ea8593e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Headset/GunBuddy_Headset_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ffa52256-404c-8c43-39e2-37aceda2bcb6",
+                    "charmLevel": 1,
+                    "displayName": "Headset",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/ffa52256-404c-8c43-39e2-37aceda2bcb6/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Headset/GunBuddy_Headset_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "ebbced2d-4851-6b5d-ff3f-5baaea322dbf",
+            "displayName": "Owl Charm Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "818fadb7-4dac-e808-60dd-95bc704a9395",
+            "displayIcon": "https://media.valorant-api.com/buddies/ebbced2d-4851-6b5d-ff3f-5baaea322dbf/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Hunter/GunBuddy_Hunter_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "011602d8-4078-c9b3-8a3e-ac9642d0417c",
+                    "charmLevel": 1,
+                    "displayName": "Owl Charm Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/011602d8-4078-c9b3-8a3e-ac9642d0417c/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Hunter/GunBuddy_Hunter_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8ac9948e-4c40-bcec-4f7d-e6bd5c8b349c",
+            "displayName": "Prime Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "9436fe00-4156-e115-b11f-f69cac91a6a5",
+            "displayIcon": "https://media.valorant-api.com/buddies/8ac9948e-4c40-bcec-4f7d-e6bd5c8b349c/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Hypebeast/GunBuddy_Hypebeast_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "80bbcdff-4b2c-2370-0806-498c0f4e1d06",
+                    "charmLevel": 1,
+                    "displayName": "Prime Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/80bbcdff-4b2c-2370-0806-498c0f4e1d06/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Hypebeast/GunBuddy_Hypebeast_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "32910c32-45e3-4959-9322-1a9fda1126ca",
+            "displayName": "Prime//2.0 Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/32910c32-45e3-4959-9322-1a9fda1126ca/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Hypebeast2/GunBuddy_Hypebeast2_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "bfa14167-42c6-a2e5-c406-1ea4289cc3d1",
+                    "charmLevel": 1,
+                    "displayName": "Hypebeast2",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/bfa14167-42c6-a2e5-c406-1ea4289cc3d1/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Hypebeast2/GunBuddy_Hypebeast2_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "90c69d6b-4cd2-9d0c-8c3f-ada26e881ea9",
+            "displayName": "Icy Crate Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/90c69d6b-4cd2-9d0c-8c3f-ada26e881ea9/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/IcyCrate/GunBuddy_IcyCrate_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "2497a841-4545-f706-f6a5-c086d0713a75",
+                    "charmLevel": 1,
+                    "displayName": "IcyCrate",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/2497a841-4545-f706-f6a5-c086d0713a75/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/IcyCrate/GunBuddy_IcyCrate_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e1f62dc9-4bd1-868e-3ca3-f7b51fd325fa",
+            "displayName": "Jack O' Lantern Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/e1f62dc9-4bd1-868e-3ca3-f7b51fd325fa/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/JackOLantern/GunBuddy_JackOLantern_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "eaf6e89a-46b6-83e3-2efb-eda4b0f3dd86",
+                    "charmLevel": 1,
+                    "displayName": "Jack O' Lantern Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/eaf6e89a-46b6-83e3-2efb-eda4b0f3dd86/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/JackOLantern/GunBuddy_JackOLantern_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "b39fbd41-4ec6-242d-02a6-dfbe7322c579",
+            "displayName": "The Key to Ancient Mysteries Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/b39fbd41-4ec6-242d-02a6-dfbe7322c579/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Key/GunBuddy_Key_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "87ccb8fc-4bf5-c8d6-3b3d-18b6a9827768",
+                    "charmLevel": 1,
+                    "displayName": "Key",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/87ccb8fc-4bf5-c8d6-3b3d-18b6a9827768/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Key/GunBuddy_Key_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "12372dbb-4f09-4b26-6fe5-779488aaa9f9",
+            "displayName": "Bot Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/12372dbb-4f09-4b26-6fe5-779488aaa9f9/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Killjoy/GunBuddy_Killjoy_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "f14d17fd-42a2-946f-21fb-1a815a6837bc",
+                    "charmLevel": 1,
+                    "displayName": "Bot Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/f14d17fd-42a2-946f-21fb-1a815a6837bc/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Killjoy/GunBuddy_Killjoy_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1e909ee9-4af5-5d50-aa27-2bb596187986",
+            "displayName": "Netter Treter Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/1e909ee9-4af5-5d50-aa27-2bb596187986/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/KilljoySneaker/GunBuddy_KilljoySneaker_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "5b863cb9-4e41-ec89-69ee-49a223d05ff1",
+                    "charmLevel": 1,
+                    "displayName": "Netter Treter Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/5b863cb9-4e41-ec89-69ee-49a223d05ff1/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/KilljoySneaker/GunBuddy_KilljoySneaker_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e89b2788-4b97-e144-4a62-9f8b4bbe8b2a",
+            "displayName": "Ruination Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/e89b2788-4b97-e144-4a62-9f8b4bbe8b2a/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/King/GunBuddy_RuinedKing_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d973d345-43f5-c1a3-e40e-b4a2a6f37ae5",
+                    "charmLevel": 1,
+                    "displayName": "King",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d973d345-43f5-c1a3-e40e-b4a2a6f37ae5/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/King/GunBuddy_King_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "33183192-4615-e538-d0ad-4682bce10cfe",
+            "displayName": "K/TAC Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/33183192-4615-e538-d0ad-4682bce10cfe/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Kingdom2/GunBuddy_Kingdom2_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "c05967e2-4426-9593-938e-3abd79766b66",
+                    "charmLevel": 1,
+                    "displayName": "Kingdom2",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/c05967e2-4426-9593-938e-3abd79766b66/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Kingdom2/GunBuddy_Kingdom2_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "15031b6f-47f4-d8e5-6025-4fb692c841a1",
+            "displayName": "Kingdom Logo Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/15031b6f-47f4-d8e5-6025-4fb692c841a1/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/KingdomK/GunBuddy_KingdomK_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "49ea4428-4511-ba9b-31db-64a9e552383f",
+                    "charmLevel": 1,
+                    "displayName": "Kingdom Logo Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/49ea4428-4511-ba9b-31db-64a9e552383f/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/KingdomK/GunBuddy_KingdomK_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "d8c85cae-44fd-8d97-a948-25acfe80b109",
+            "displayName": "GL Have Cat Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "af536ba4-45b3-c187-c8db-3088ce2a48a4",
+            "displayIcon": "https://media.valorant-api.com/buddies/d8c85cae-44fd-8d97-a948-25acfe80b109/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/LuckyCat/GunBuddy_LuckyCat_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "6f7b0b5b-470d-77b0-bd0d-7781ce5fdf07",
+                    "charmLevel": 1,
+                    "displayName": "GL Have Cat Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/6f7b0b5b-470d-77b0-bd0d-7781ce5fdf07/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/LuckyCat/GunBuddy_LuckyCat_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "9f6bada3-4911-7863-ff39-6984140e0201",
+            "displayName": "Celestial Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/9f6bada3-4911-7863-ff39-6984140e0201/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Lunar/GunBuddy_Lunar_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "e370d9f9-4deb-9ae4-a594-24947cb21b2d",
+                    "charmLevel": 1,
+                    "displayName": "Lunar",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/e370d9f9-4deb-9ae4-a594-24947cb21b2d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Lunar/GunBuddy_Lunar_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "7b7d715a-48ff-ce97-4d7f-6cb75d763f7f",
+            "displayName": "Magepunk Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/7b7d715a-48ff-ce97-4d7f-6cb75d763f7f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Magepunk/GunBuddy_Magepunk_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "03b6fbf7-4228-0712-3d91-da847f958b1b",
+                    "charmLevel": 1,
+                    "displayName": "Magepunk Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/03b6fbf7-4228-0712-3d91-da847f958b1b/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Magepunk/GunBuddy_Magepunk_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "f696f391-4b0e-804c-0069-02a0d67dd170",
+            "displayName": "Spline Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "55a92145-402f-5453-844b-40af300fc005",
+            "displayIcon": "https://media.valorant-api.com/buddies/f696f391-4b0e-804c-0069-02a0d67dd170/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/MagicSpline/GunBuddy_MagicSpline_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ec3745c4-432a-8173-8150-cfbb4841c121",
+                    "charmLevel": 1,
+                    "displayName": "Spline Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/ec3745c4-432a-8173-8150-cfbb4841c121/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/MagicSpline/GunBuddy_MagicSpline_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "bbd92afb-4a79-8b18-d723-78a169466703",
+            "displayName": "Mango Tango Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/bbd92afb-4a79-8b18-d723-78a169466703/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Mango/GunBuddy_Mango_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "55127784-49f1-afb7-a1ce-6699424088df",
+                    "charmLevel": 1,
+                    "displayName": "Mango",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/55127784-49f1-afb7-a1ce-6699424088df/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Mango/GunBuddy_Mango_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "d12a80c0-44a0-0549-cc1f-eeb83f7ad248",
+            "displayName": "Dallah Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/d12a80c0-44a0-0549-cc1f-eeb83f7ad248/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/MenaiPot/GunBuddy_MenaiPot_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "6fc24467-43fd-7c59-a531-94a1db4fdf75",
+                    "charmLevel": 1,
+                    "displayName": "Dallah Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/6fc24467-43fd-7c59-a531-94a1db4fdf75/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/MenaiPot/GunBuddy_MenaiPot_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "fbc2dfb9-4a95-aac5-85e0-69b405302ccf",
+            "displayName": "Mic Drop Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/fbc2dfb9-4a95-aac5-85e0-69b405302ccf/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Mic/GunBuddy_Mic_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "f4307224-4297-b7a7-caf0-1ba9dab5c855",
+                    "charmLevel": 1,
+                    "displayName": "Mic",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/f4307224-4297-b7a7-caf0-1ba9dab5c855/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Mic/GunBuddy_Mic_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "ea9729a1-4c95-4a3b-62c8-1684cdc2568e",
+            "displayName": "Salmon Nigiri Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/ea9729a1-4c95-4a3b-62c8-1684cdc2568e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Nigiri/GunBuddy_Nigiri_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "32647f2e-4b2f-fbc8-1e0c-80881f44feac",
+                    "charmLevel": 1,
+                    "displayName": "Nigiri",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/32647f2e-4b2f-fbc8-1e0c-80881f44feac/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Nigiri/GunBuddy_Nigiri_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1f2bf8a7-45a9-9969-7a55-01833ce34fb1",
+            "displayName": "Deadly Precision Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/1f2bf8a7-45a9-9969-7a55-01833ce34fb1/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/NinjaStar/GunBuddy_NinjaStar_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "7d6fc129-4d33-11ae-3e1e-faba40f7b77f",
+                    "charmLevel": 1,
+                    "displayName": "Deadly Precision Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/7d6fc129-4d33-11ae-3e1e-faba40f7b77f/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/NinjaStar/GunBuddy_NinjaStar_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2d28fbc9-4518-3432-d90d-de8bba571a93",
+            "displayName": "Ion Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/2d28fbc9-4518-3432-d90d-de8bba571a93/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Oblivion/GunBuddy_Oblivion_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "5dcdc42b-4398-0a62-1351-9b8cfdd2892c",
+                    "charmLevel": 1,
+                    "displayName": "Ion Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/5dcdc42b-4398-0a62-1351-9b8cfdd2892c/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Oblivion/GunBuddy_Oblivion_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e711c5ad-4f71-ff78-7868-eaa7182265c0",
+            "displayName": "Ancient Mysteries Revealed Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/e711c5ad-4f71-ff78-7868-eaa7182265c0/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Octopus/GunBuddy_Octopus_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "7484a99e-4f26-0b7d-d07d-75ab4fa1da7b",
+                    "charmLevel": 1,
+                    "displayName": "Octopus",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/7484a99e-4f26-0b7d-d07d-75ab4fa1da7b/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Octopus/GunBuddy_Octopus_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "ac72bb9a-4368-8502-5dac-698d72021c81",
+            "displayName": "VALORANT Coin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "59aa59b4-4aca-2a44-a9d4-a29dc69fdbfa",
+            "displayIcon": "https://media.valorant-api.com/buddies/ac72bb9a-4368-8502-5dac-698d72021c81/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Onboarding/GunBuddy_Onboarding_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "4b5417ed-49de-7076-e0fb-12a5b43957ce",
+                    "charmLevel": 1,
+                    "displayName": "VALORANT Coin Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/4b5417ed-49de-7076-e0fb-12a5b43957ce/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Onboarding/GunBuddy_Onboarding_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "57639cf0-4b2f-73f6-5c37-fe816fa560df",
+            "displayName": "Oni Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "8a34391f-4d1f-6b22-859f-628bff79d381",
+            "displayIcon": "https://media.valorant-api.com/buddies/57639cf0-4b2f-73f6-5c37-fe816fa560df/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Oni/GunBuddy_Oni_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d59590fa-4389-125a-6c53-c7bd026acb01",
+                    "charmLevel": 1,
+                    "displayName": "Oni Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d59590fa-4389-125a-6c53-c7bd026acb01/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Oni/GunBuddy_Oni_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "164a994d-45bf-573a-5322-70b8b1d57887",
+            "displayName": "Keep it Safe Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/164a994d-45bf-573a-5322-70b8b1d57887/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Padlock/GunBuddy_Padlock_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "73466a36-43e4-232f-63be-c390f8c5e139",
+                    "charmLevel": 1,
+                    "displayName": "Keep it Safe Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/73466a36-43e4-232f-63be-c390f8c5e139/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Padlock/GunBuddy_Padlock_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "bc76826c-4ac3-5c94-11af-1fb97ba3a835",
+            "displayName": "Venom Vial Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/bc76826c-4ac3-5c94-11af-1fb97ba3a835/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Pandemic/GunBuddy_Pandemic_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "b0e1c557-4c45-bdc7-3e02-1facc7b19182",
+                    "charmLevel": 1,
+                    "displayName": "Venom Vial Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/b0e1c557-4c45-bdc7-3e02-1facc7b19182/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Pandemic/GunBuddy_Pandemic_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "bd57203c-45d3-e5c0-7c61-6793f368de1a",
+            "displayName": "Dan the Penguin Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/bd57203c-45d3-e5c0-7c61-6793f368de1a/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Penguin/GunBuddy_Penguin_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "85569af3-4b78-8085-8325-8fa380a81845",
+                    "charmLevel": 1,
+                    "displayName": "Penguin",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/85569af3-4b78-8085-8325-8fa380a81845/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Penguin/GunBuddy_Penguin_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "b9feb6b6-493c-b76e-ce8e-6fb371ca2cf5",
+            "displayName": "Hot Bling Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/b9feb6b6-493c-b76e-ce8e-6fb371ca2cf5/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Phoenix/GunBuddy_Phoenix_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ec22d3c1-4df0-f0fe-a424-359627fb83ff",
+                    "charmLevel": 1,
+                    "displayName": "Hot Bling Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/ec22d3c1-4df0-f0fe-a424-359627fb83ff/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Phoenix/GunBuddy_Phoenix_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "b5d5b1f3-40a2-07dc-f111-3aa87c596d7c",
+            "displayName": "Old Salt Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/b5d5b1f3-40a2-07dc-f111-3aa87c596d7c/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/PirateHat/GunBuddy_PirateHat_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "e64b89a7-44ed-286e-08bf-0cb96fd2bfd2",
+                    "charmLevel": 1,
+                    "displayName": "PirateHat",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/e64b89a7-44ed-286e-08bf-0cb96fd2bfd2/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/PirateHat/GunBuddy_PirateHat_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "15bc068c-4b1e-dfbc-cfbb-9283a8d0e0ee",
+            "displayName": "Pizza Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "12142d3e-4bda-f937-bff4-a786da09fda2",
+            "displayIcon": "https://media.valorant-api.com/buddies/15bc068c-4b1e-dfbc-cfbb-9283a8d0e0ee/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Pizza/GunBuddy_Pizza_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "aa3661f1-4eef-e8dd-047b-e5b9ed61403b",
+                    "charmLevel": 1,
+                    "displayName": "Pizza Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/aa3661f1-4eef-e8dd-047b-e5b9ed61403b/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Pizza/GunBuddy_Pizza_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8bb77c22-4f90-ec3e-a2f7-16a2ddb064b2",
+            "displayName": "POLYfox Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/8bb77c22-4f90-ec3e-a2f7-16a2ddb064b2/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Polyfox/GunBuddy_Polyfox_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "456a7d74-4cf8-5cf7-7801-f2a0265da233",
+                    "charmLevel": 1,
+                    "displayName": "POLYfox Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/456a7d74-4cf8-5cf7-7801-f2a0265da233/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Polyfox/GunBuddy_Polyfox_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "9930bb0d-449e-d786-df6f-2bb97795edec",
+            "displayName": "Rubber Ducky Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/9930bb0d-449e-d786-df6f-2bb97795edec/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/PoolFloatDuck/GunBuddy_PoolFloatDuck_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "bab86473-44a1-cea6-f1b1-ecbf79646568",
+                    "charmLevel": 1,
+                    "displayName": "PoolFloatDuck",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/bab86473-44a1-cea6-f1b1-ecbf79646568/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/PoolFloatDuck/GunBuddy_PoolFloatDuck_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "f2b96400-4663-c2cf-699d-029e8b52836f",
+            "displayName": "Take on the Tundra Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/f2b96400-4663-c2cf-699d-029e8b52836f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/PortDiorama/GunBuddy_PortDiorama_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "c1c9ca0a-477f-3388-7198-6cb90c36e6ae",
+                    "charmLevel": 1,
+                    "displayName": "PortDiorama",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/c1c9ca0a-477f-3388-7198-6cb90c36e6ae/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/PortDiorama/GunBuddy_PortDiorama_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "839c6e7d-4821-157b-fd38-71b3debc874f",
+            "displayName": "Pay Respects Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/839c6e7d-4821-157b-fd38-71b3debc874f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/PressF/GunBuddy_PressF_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "56f98991-43f8-dcc8-189e-08b7ae6c42ad",
+                    "charmLevel": 1,
+                    "displayName": "Pay Respects Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/56f98991-43f8-dcc8-189e-08b7ae6c42ad/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/PressF/GunBuddy_PressF_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "ce82d434-477f-43a3-963b-95b6657c46b6",
+            "displayName": "One Direction Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/ce82d434-477f-43a3-963b-95b6657c46b6/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/PressW/GunBuddy_PressW_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "b7a05430-4ae1-b88e-0b0b-d6956bf7f9ad",
+                    "charmLevel": 1,
+                    "displayName": "PressW",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/b7a05430-4ae1-b88e-0b0b-d6956bf7f9ad/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/PressW/GunBuddy_PressW_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "42cb4b6a-45e3-8a83-2f52-0d90c7ca306d",
+            "displayName": "Lovebyte Gun Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/42cb4b6a-45e3-8a83-2f52-0d90c7ca306d/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/PurpleHeart/GunBuddy_PurpleHeart_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d88fa813-4ade-1585-0865-90be2c984214",
+                    "charmLevel": 1,
+                    "displayName": "PurpleHeart",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d88fa813-4ade-1585-0865-90be2c984214/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/PurpleHeart/GunBuddy_PurpleHeart_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "be53b9d4-41de-3917-8f43-e58024a6e0de",
+            "displayName": "Lucky Rabbit Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/be53b9d4-41de-3917-8f43-e58024a6e0de/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Rabbit/GunBuddy_Rabbit_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "86cd790e-4992-4095-8522-f797f4c5a8f8",
+                    "charmLevel": 1,
+                    "displayName": "Rabbit",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/86cd790e-4992-4095-8522-f797f4c5a8f8/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Rabbit/GunBuddy_Rabbit_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "abfe3887-40f8-d3c1-08bb-ab89dae2a399",
+            "displayName": "Radianite Crystal Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "cab8ec80-4a16-4f53-297f-d3b43faf6991",
+            "displayIcon": "https://media.valorant-api.com/buddies/abfe3887-40f8-d3c1-08bb-ab89dae2a399/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RadianiteDiamond/GunBuddy_RadianiteDiamond_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "77dc86dc-4d9c-df35-3921-d18d32355824",
+                    "charmLevel": 1,
+                    "displayName": "Radianite Crystal Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/77dc86dc-4d9c-df35-3921-d18d32355824/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RadianiteDiamond/GunBuddy_RadianiteDiamond_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "f74a52a2-4882-ee22-a26b-b0be558a6ced",
+            "displayName": "Late Night Calories Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/f74a52a2-4882-ee22-a26b-b0be558a6ced/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Ramen/GunBuddy_Ramen_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d04a8b93-48a1-9eba-9d16-67b2cd46223e",
+                    "charmLevel": 1,
+                    "displayName": "Ramen",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d04a8b93-48a1-9eba-9d16-67b2cd46223e/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Ramen/GunBuddy_Ramen_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "91697361-47ed-cc36-7c12-beb1d88c8631",
+            "displayName": "EP1: Bronze Buddy",
+            "isHiddenIfNotOwned": true,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/91697361-47ed-cc36-7c12-beb1d88c8631/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Bronze/GunBuddy_RankEP1_Bronze_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "671e7df6-41fa-9801-3f37-14864d2fc7cc",
+                    "charmLevel": 1,
+                    "displayName": "RankEP1_Bronze",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/671e7df6-41fa-9801-3f37-14864d2fc7cc/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Bronze/GunBuddy_RankEP1_Bronze_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "820b4f0c-4d1f-bb6a-397a-7b9f4b48fff9",
+            "displayName": "EP1: Diamond Buddy",
+            "isHiddenIfNotOwned": true,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/820b4f0c-4d1f-bb6a-397a-7b9f4b48fff9/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Diamond/GunBuddy_RankEP1_Diamond_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "9e1ff7bf-4189-06fa-d6d2-ecaa23a22863",
+                    "charmLevel": 1,
+                    "displayName": "RankEP1_Diamond",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/9e1ff7bf-4189-06fa-d6d2-ecaa23a22863/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Diamond/GunBuddy_RankEP1_Diamond_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e2a83cb9-4168-4e3a-4023-2da045cd4cb3",
+            "displayName": "EP1: Gold Buddy",
+            "isHiddenIfNotOwned": true,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/e2a83cb9-4168-4e3a-4023-2da045cd4cb3/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Gold/GunBuddy_RankEP1_Gold_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "044ac3d7-4035-2577-8b63-758584438bd0",
+                    "charmLevel": 1,
+                    "displayName": "RankEP1_Gold",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/044ac3d7-4035-2577-8b63-758584438bd0/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Gold/GunBuddy_RankEP1_Gold_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "59631503-4448-3448-c650-4cbc9470266f",
+            "displayName": "EP1: Immortal Buddy",
+            "isHiddenIfNotOwned": true,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/59631503-4448-3448-c650-4cbc9470266f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Immortal/GunBuddy_RankEP1_Immortal_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "069a6c90-4ae6-d05e-e203-74bdc4aa7ece",
+                    "charmLevel": 1,
+                    "displayName": "RankEP1_Immortal",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/069a6c90-4ae6-d05e-e203-74bdc4aa7ece/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Immortal/GunBuddy_RankEP1_Immortal_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "a749e586-440a-4085-a020-cbb03612053d",
+            "displayName": "EP1: Iron Buddy",
+            "isHiddenIfNotOwned": true,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/a749e586-440a-4085-a020-cbb03612053d/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Iron/GunBuddy_RankEP1_Iron_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "5a490584-4f37-63a2-d96f-2fa55ed4f209",
+                    "charmLevel": 1,
+                    "displayName": "RankEP1_Iron",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/5a490584-4f37-63a2-d96f-2fa55ed4f209/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Iron/GunBuddy_RankEP1_Iron_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "28b6dc7e-46a0-0baa-01fa-318e6c0d9f08",
+            "displayName": "EP1: Platinum Buddy",
+            "isHiddenIfNotOwned": true,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/28b6dc7e-46a0-0baa-01fa-318e6c0d9f08/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Platinum/GunBuddy_RankEP1_Platinum_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ff5ebb41-410f-3715-40a1-c4859ec912c2",
+                    "charmLevel": 1,
+                    "displayName": "RankEP1_Platinum",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/ff5ebb41-410f-3715-40a1-c4859ec912c2/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Platinum/GunBuddy_RankEP1_Platinum_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "6fd8192b-4045-a7c2-057f-6180c39b2545",
+            "displayName": "EP1: Radiant Buddy",
+            "isHiddenIfNotOwned": true,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/6fd8192b-4045-a7c2-057f-6180c39b2545/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Radiant/GunBuddy_RankEP1_Radiant_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d475f530-4a71-9165-953c-20b806c5d50e",
+                    "charmLevel": 1,
+                    "displayName": "RankEP1_Radiant",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d475f530-4a71-9165-953c-20b806c5d50e/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Radiant/GunBuddy_RankEP1_Radiant_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "f37c078d-4505-e27a-d3f4-77b15795bd32",
+            "displayName": "EP1: Silver Buddy",
+            "isHiddenIfNotOwned": true,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/f37c078d-4505-e27a-d3f4-77b15795bd32/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Silver/GunBuddy_RankEP1_Silver_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "35a7bbea-421e-40c1-9e11-4ca860420725",
+                    "charmLevel": 1,
+                    "displayName": "RankEP1_Silver",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/35a7bbea-421e-40c1-9e11-4ca860420725/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP1/RankEP1_Silver/GunBuddy_RankEP1_Silver_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2825a739-4ba5-bd24-db75-b2b3ee7e11a9",
+            "displayName": "EP2: Bronze Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/2825a739-4ba5-bd24-db75-b2b3ee7e11a9/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Bronze/GunBuddy_RankEP2_Bronze_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "2d00da4f-4020-4f85-6967-f5ae4802f58a",
+                    "charmLevel": 1,
+                    "displayName": "RankEP2_Bronze",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/2d00da4f-4020-4f85-6967-f5ae4802f58a/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Bronze/GunBuddy_RankEP2_Bronze_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "ccad7ab2-452f-1a82-4051-44ad305d0bee",
+            "displayName": "EP2: Diamond Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/ccad7ab2-452f-1a82-4051-44ad305d0bee/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Diamond/GunBuddy_RankEP2_Diamond_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "8031cc80-47d3-e0f5-4138-80842b532927",
+                    "charmLevel": 1,
+                    "displayName": "RankEP2_Diamond",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/8031cc80-47d3-e0f5-4138-80842b532927/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Diamond/GunBuddy_RankEP2_Diamond_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "f7bcb3d2-4590-a6fa-ec31-6e855d0e256f",
+            "displayName": "EP2: Gold Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/f7bcb3d2-4590-a6fa-ec31-6e855d0e256f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Gold/GunBuddy_RankEP2_Gold_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "9e9f1f82-4680-d77b-ba0a-e39af0d22373",
+                    "charmLevel": 1,
+                    "displayName": "RankEP2_Gold",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/9e9f1f82-4680-d77b-ba0a-e39af0d22373/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Gold/GunBuddy_RankEP2_Gold_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "753e0c8a-4002-08e3-12e8-1e99fd7656d6",
+            "displayName": "EP2: Immortal Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/753e0c8a-4002-08e3-12e8-1e99fd7656d6/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Immortal/GunBuddy_RankEP2_Immortal_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "86b2cafb-4d5e-3303-f716-e8a112c4b39d",
+                    "charmLevel": 1,
+                    "displayName": "RankEP2_Immortal",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/86b2cafb-4d5e-3303-f716-e8a112c4b39d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Immortal/GunBuddy_RankEP2_Immortal_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "7dce8de5-43d7-1b89-080b-209343ce2dcd",
+            "displayName": "EP2: Iron Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/7dce8de5-43d7-1b89-080b-209343ce2dcd/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Iron/GunBuddy_RankEP2_Iron_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "2e8f338b-48bb-3ac9-bfe3-89b76b12b319",
+                    "charmLevel": 1,
+                    "displayName": "RankEP2_Iron",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/2e8f338b-48bb-3ac9-bfe3-89b76b12b319/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Iron/GunBuddy_RankEP2_Iron_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "3ef28323-4d62-df8a-2fc0-22b900b5b723",
+            "displayName": "EP2: Platinum Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/3ef28323-4d62-df8a-2fc0-22b900b5b723/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Platinum/GunBuddy_RankEP2_Platinum_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "dfee041c-433a-1992-e003-d68492c6fae4",
+                    "charmLevel": 1,
+                    "displayName": "RankEP2_Platinum",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/dfee041c-433a-1992-e003-d68492c6fae4/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Platinum/GunBuddy_RankEP2_Platinum_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "a0d5de55-4f72-f0cf-046f-d8a872f631b3",
+            "displayName": "EP2: Radiant Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/a0d5de55-4f72-f0cf-046f-d8a872f631b3/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Radiant/GunBuddy_RankEP2_Radiant_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "91a1c8dc-4a58-0284-4f1d-adacd615e945",
+                    "charmLevel": 1,
+                    "displayName": "RankEP2_Radiant",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/91a1c8dc-4a58-0284-4f1d-adacd615e945/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Radiant/GunBuddy_RankEP2_Radiant_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8112cef9-4cbe-d544-4e2b-b1b7716567be",
+            "displayName": "EP2: Silver Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/8112cef9-4cbe-d544-4e2b-b1b7716567be/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Silver/GunBuddy_RankEP2_Silver_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d53852a0-498b-6d8c-3d61-3697c1a64432",
+                    "charmLevel": 1,
+                    "displayName": "RankEP2_Silver",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d53852a0-498b-6d8c-3d61-3697c1a64432/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/RankEP2/RankEP2_Silver/GunBuddy_RankEP2_Silver_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "90356707-45e1-5d0b-2b34-2d9aadf78b4e",
+            "displayName": "Gravitational Uranium Neuroblaster Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "ca390b2f-4f2e-12ac-c225-f28bd0f1fd45",
+            "displayIcon": "https://media.valorant-api.com/buddies/90356707-45e1-5d0b-2b34-2d9aadf78b4e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Raygun/GunBuddy_Raygun_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "2484e328-45e9-a5c0-960f-ad8b0f620d0e",
+                    "charmLevel": 1,
+                    "displayName": "Gravitational Uranium Neuroblaster Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/2484e328-45e9-a5c0-960f-ad8b0f620d0e/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Raygun/GunBuddy_Raygun_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "a1907073-46c5-6a62-17bb-a186d437a728",
+            "displayName": "Stardust Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/a1907073-46c5-6a62-17bb-a186d437a728/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Rift/GunBuddy_Rift_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d1472303-4e9c-2c04-0ab6-95b7f787612a",
+                    "charmLevel": 1,
+                    "displayName": "Rift",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d1472303-4e9c-2c04-0ab6-95b7f787612a/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Rift/GunBuddy_Rift_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1a838fd4-43c3-dad7-ad30-37b9240c1ce1",
+            "displayName": "Immortal Rose Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/1a838fd4-43c3-dad7-ad30-37b9240c1ce1/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Rose/GunBuddy_Rose_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "9ea89ec3-4cb5-40f1-27af-f3983af8ab4d",
+                    "charmLevel": 1,
+                    "displayName": "Immortal Rose Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/9ea89ec3-4cb5-40f1-27af-f3983af8ab4d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Rose/GunBuddy_Rose_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1ab94e60-428a-0037-53ba-c3b9da93a36b",
+            "displayName": "Salt Shaker Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/1ab94e60-428a-0037-53ba-c3b9da93a36b/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Saltshaker/GunBuddy_Saltshaker_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "cc03fd3e-470a-7d06-47ce-f3a01eee15c2",
+                    "charmLevel": 1,
+                    "displayName": "Salt Shaker Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/cc03fd3e-470a-7d06-47ce-f3a01eee15c2/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Saltshaker/GunBuddy_Saltshaker_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1c54de09-444d-61c3-11a8-47b94f22c05e",
+            "displayName": "Epilogue: Salt Shaker Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/1c54de09-444d-61c3-11a8-47b94f22c05e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/SaltshakerGold/GunBuddy_SaltshakerGold_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "6fcab0f4-4160-1a8d-a297-1cb73e8514b7",
+                    "charmLevel": 1,
+                    "displayName": "SaltshakerGold",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/6fcab0f4-4160-1a8d-a297-1cb73e8514b7/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/SaltshakerGold/GunBuddy_SaltshakerGold_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "721dd4f3-4217-7e78-4a02-b99097f4d457",
+            "displayName": "Ancient Inheritance Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/721dd4f3-4217-7e78-4a02-b99097f4d457/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Samurai/GunBuddy_Samurai_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "9fc93fe7-49da-859d-9bd8-5c875971703d",
+                    "charmLevel": 1,
+                    "displayName": "Samurai",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/9fc93fe7-49da-859d-9bd8-5c875971703d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Samurai/GunBuddy_Samurai_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "affee4fe-4b57-dddd-beb2-deaf0a641b25",
+            "displayName": "Dog Tags Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/affee4fe-4b57-dddd-beb2-deaf0a641b25/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Sarge/GunBuddy_Sarge_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a72a5cd8-4010-8e76-7f72-e1bdf663fa1c",
+                    "charmLevel": 1,
+                    "displayName": "Dog Tags Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/a72a5cd8-4010-8e76-7f72-e1bdf663fa1c/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Sarge/GunBuddy_Sarge_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e4267845-4725-ff8e-6c71-ae933844565f",
+            "displayName": "Snowbro Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/e4267845-4725-ff8e-6c71-ae933844565f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Snowglobe/GunBuddy_Snowglobe_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "097e59dd-42ae-d86a-1caa-159d1b2ee838",
+                    "charmLevel": 1,
+                    "displayName": "Snowglobe",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/097e59dd-42ae-d86a-1caa-159d1b2ee838/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Snowglobe/GunBuddy_Snowglobe_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "0eab96da-ed34-4bdb-978f-b02b2fb4ebcc",
+            "displayName": "Reaver Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "4479eea8-4820-c69b-3912-f5ac678fcedc",
+            "displayIcon": "https://media.valorant-api.com/buddies/0eab96da-ed34-4bdb-978f-b02b2fb4ebcc/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Soulstealer/GunBuddy_Soulstealer_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "f344bead-bb25-4226-a990-b5d9694d475d",
+                    "charmLevel": 1,
+                    "displayName": "Reaver Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/f344bead-bb25-4226-a990-b5d9694d475d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Soulstealer/GunBuddy_Soulstealer_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "a8e2dac4-4be6-75e7-bf76-1f9b5a6d5fb5",
+            "displayName": "Sovereign Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "975f7716-498d-8e0b-b7c7-02b507b8e14a",
+            "displayIcon": "https://media.valorant-api.com/buddies/a8e2dac4-4be6-75e7-bf76-1f9b5a6d5fb5/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Sovereign/GunBuddy_Sovereign_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "547c3aa6-4e86-199c-b190-01b75287f30b",
+                    "charmLevel": 1,
+                    "displayName": "Sovereign Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/547c3aa6-4e86-199c-b190-01b75287f30b/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Sovereign/GunBuddy_Sovereign_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "278e4d19-4026-02ac-263e-bca2b69df8fb",
+            "displayName": "Hot Take Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/278e4d19-4026-02ac-263e-bca2b69df8fb/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/SpicySauce/GunBuddy_SpicySauce_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "7a5b1b4d-4f41-474f-e52b-60b3d2db7a25",
+                    "charmLevel": 1,
+                    "displayName": "SpicySauce",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/7a5b1b4d-4f41-474f-e52b-60b3d2db7a25/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/SpicySauce/GunBuddy_SpicySauce_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "0ec28d81-498c-af58-722c-baa60a84151c",
+            "displayName": "The Spike Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/0ec28d81-498c-af58-722c-baa60a84151c/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Spike/GunBuddy_Spike_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "f7626cd3-411c-a4e6-754b-eb8ee06c8377",
+                    "charmLevel": 1,
+                    "displayName": "The Spike Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/f7626cd3-411c-a4e6-754b-eb8ee06c8377/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Spike/GunBuddy_Spike_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "134a2077-426b-c0ea-28bd-04b2cb0a1c72",
+            "displayName": "Spike Rush Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/134a2077-426b-c0ea-28bd-04b2cb0a1c72/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Spikerush/GunBuddy_Spikerush_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "7ea8a2f2-4727-b5c0-f193-94a921e22408",
+                    "charmLevel": 1,
+                    "displayName": "Spikerush",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/7ea8a2f2-4727-b5c0-f193-94a921e22408/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Spikerush/GunBuddy_Spikerush_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "4e32934e-4ae1-2223-b9e4-90be4bd9677e",
+            "displayName": "Split Decision Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/4e32934e-4ae1-2223-b9e4-90be4bd9677e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/SplitDiorama/GunBuddy_SplitDiorama_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "45db2427-4fec-75e1-da50-d286048dad53",
+                    "charmLevel": 1,
+                    "displayName": "Split Decision Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/45db2427-4fec-75e1-da50-d286048dad53/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/SplitDiorama/GunBuddy_SplitDiorama_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "547c6463-41b5-af1e-95ba-c690d734349c",
+            "displayName": "Battle Crab Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/547c6463-41b5-af1e-95ba-c690d734349c/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/SplitScuttlebug/GunBuddy_SplitScuttlebug_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "47b3b0d7-4bb7-8654-4371-d2875c13c986",
+                    "charmLevel": 1,
+                    "displayName": "SplitScuttlebug",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/47b3b0d7-4bb7-8654-4371-d2875c13c986/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/SplitScuttlebug/GunBuddy_SplitScuttlebug_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "db524f8d-46eb-6a7d-cc74-e9a0ccafeeee",
+            "displayName": "Dimensional Fragment Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/db524f8d-46eb-6a7d-cc74-e9a0ccafeeee/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Stealth/GunBuddy_Stealth_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "92d1dddf-4250-d0c7-d270-25b84990211d",
+                    "charmLevel": 1,
+                    "displayName": "Stealth",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/92d1dddf-4250-d0c7-d270-25b84990211d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Stealth/GunBuddy_Stealth_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "5de7339f-40fc-df25-1cf4-d3a5255ba1f7",
+            "displayName": "Cheesed Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "1248174a-47ec-70a0-346c-278ab65f6958",
+            "displayIcon": "https://media.valorant-api.com/buddies/5de7339f-40fc-df25-1cf4-d3a5255ba1f7/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/SwissCheese/GunBuddy_SwissCheese_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "e88f43b7-4b9a-1050-c1e7-d883a8f706f2",
+                    "charmLevel": 1,
+                    "displayName": "Cheesed Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/e88f43b7-4b9a-1050-c1e7-d883a8f706f2/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/SwissCheese/GunBuddy_SwissCheese_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2fbe33aa-4e7a-b601-5fa8-ce8fb6511113",
+            "displayName": "Bear Tactics Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/2fbe33aa-4e7a-b601-5fa8-ce8fb6511113/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Tactibear/GunBuddy_Tactibear_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "5224eeaf-4387-0750-eb5c-0da41a9b243c",
+                    "charmLevel": 1,
+                    "displayName": "Bear Tactics Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/5224eeaf-4387-0750-eb5c-0da41a9b243c/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Tactibear/GunBuddy_Tactibear_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1f99d997-4afb-ef4c-e754-caa0bf84fce1",
+            "displayName": "Squirrel Tactics Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/1f99d997-4afb-ef4c-e754-caa0bf84fce1/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Tactisquirrel/GunBuddy_Tactisquirrel_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "0b3f4807-4b50-2379-9690-398af0041dca",
+                    "charmLevel": 1,
+                    "displayName": "Squirrel Tactics Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/0b3f4807-4b50-2379-9690-398af0041dca/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Tactisquirrel/GunBuddy_Tactisquirrel_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "55702e59-4e3f-e2dd-2b31-91b1938cf0e1",
+            "displayName": "Potato Aim Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/55702e59-4e3f-e2dd-2b31-91b1938cf0e1/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Tader/GunBuddy_Tader_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "da8b0232-4ac3-fbec-9355-ef81db0e7437",
+                    "charmLevel": 1,
+                    "displayName": "Potato Aim Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/da8b0232-4ac3-fbec-9355-ef81db0e7437/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Tader/GunBuddy_Tader_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "cd1ef501-476d-e9fb-3944-a6b0e2a79878",
+            "displayName": "Radianite Orb Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "ee1e3f3c-4837-2330-5e1f-7ba1a6bb2950",
+            "displayIcon": "https://media.valorant-api.com/buddies/cd1ef501-476d-e9fb-3944-a6b0e2a79878/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Thorne/GunBuddy_Thorne_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "45d9b8f8-41a6-0ff5-01eb-7987fb000d31",
+                    "charmLevel": 1,
+                    "displayName": "Radianite Orb Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/45d9b8f8-41a6-0ff5-01eb-7987fb000d31/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Thorne/GunBuddy_Thorne_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "22481bd6-45d7-55a9-db2f-f4a7b86c0d05",
+            "displayName": "Toaster Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "5ef5c2fe-4db8-ebd7-5e9d-adbfab942dfa",
+            "displayIcon": "https://media.valorant-api.com/buddies/22481bd6-45d7-55a9-db2f-f4a7b86c0d05/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Toaster/GunBuddy_Toaster_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "7944b081-4b0f-81c8-e41f-3aa5c634b782",
+                    "charmLevel": 1,
+                    "displayName": "Toaster Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/7944b081-4b0f-81c8-e41f-3aa5c634b782/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Toaster/GunBuddy_Toaster_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "476e2d56-46a1-3607-aa61-3487cf9ae80f",
+            "displayName": "Scuttle Trash Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/476e2d56-46a1-3607-aa61-3487cf9ae80f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Trash/GunBuddy_Trash_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "00f129a0-47f3-27a8-5d5b-9fb07ce39a05",
+                    "charmLevel": 1,
+                    "displayName": "Scuttle Trash Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/00f129a0-47f3-27a8-5d5b-9fb07ce39a05/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Trash/GunBuddy_Trash_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "ad508aeb-44b7-46bf-f923-959267483e78",
+            "displayName": "Fist Bump Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/ad508aeb-44b7-46bf-f923-959267483e78/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/TrashGold/GunBuddy_TrashGold_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a57aa3d0-4ad0-b06a-6c54-338cb3ea6b41",
+                    "charmLevel": 1,
+                    "displayName": "TrashGold",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/a57aa3d0-4ad0-b06a-6c54-338cb3ea6b41/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/TrashGold/GunBuddy_TrashGold_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "82fe7bdf-4a0a-db13-72b4-b19bbf44619e",
+            "displayName": "No. 1 Fan Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/82fe7bdf-4a0a-db13-72b4-b19bbf44619e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/TwitchHand/GunBuddy_TwitchHand_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "6bcf274b-4699-bdf3-1c99-9aa673cba935",
+                    "charmLevel": 1,
+                    "displayName": "No. 1 Fan Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/6bcf274b-4699-bdf3-1c99-9aa673cba935/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/TwitchHand/GunBuddy_TwitchHand_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "43922614-4fe5-52c9-8d35-689db5ec4681",
+            "displayName": "Ego Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/43922614-4fe5-52c9-8d35-689db5ec4681/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Unstoppable/GunBuddy_Unstoppable_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d3759a6a-4d5c-a322-092f-7290b52566ef",
+                    "charmLevel": 1,
+                    "displayName": "Ego Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d3759a6a-4d5c-a322-092f-7290b52566ef/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Unstoppable/GunBuddy_Unstoppable_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "86bbce95-4b76-c933-9939-9aa0f0f2c169",
+            "displayName": "The Wheel of Steel Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/86bbce95-4b76-c933-9939-9aa0f0f2c169/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ValorantVinyl/GunBuddy_ValorantVinyl_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "b318af9c-4db8-e0cf-8bb1-bea643b1aa9c",
+                    "charmLevel": 1,
+                    "displayName": "The Wheel of Steel Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/b318af9c-4db8-e0cf-8bb1-bea643b1aa9c/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ValorantVinyl/GunBuddy_ValorantVinyl_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "c4f69de5-4440-19b5-8953-36b12ba42bb0",
+            "displayName": "Soul Capsule Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "2a5c2836-4f75-0a01-089d-eaaf43cc7d14",
+            "displayIcon": "https://media.valorant-api.com/buddies/c4f69de5-4440-19b5-8953-36b12ba42bb0/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Vampire/GunBuddy_Vampire_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "9a53cf84-4303-c623-b733-5787f8661404",
+                    "charmLevel": 1,
+                    "displayName": "Soul Capsule Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/9a53cf84-4303-c623-b733-5787f8661404/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Vampire/GunBuddy_Vampire_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "7cf1fc2c-4456-fa8f-b9f6-c9be7092163f",
+            "displayName": "Grim Delight Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/7cf1fc2c-4456-fa8f-b9f6-c9be7092163f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Wraith/GunBuddy_Wraith_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "cf194771-4eb6-053e-6c0c-5a80dab14f39",
+                    "charmLevel": 1,
+                    "displayName": "Grim Delight Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/cf194771-4eb6-053e-6c0c-5a80dab14f39/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Wraith/GunBuddy_Wraith_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "a2e04067-4ea8-ff47-be4a-f780bdf5e1f7",
+            "displayName": "Pocket Knife Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/a2e04067-4ea8-ff47-be4a-f780bdf5e1f7/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Wushu/GunBuddy_Wushu_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "cbc43eac-44f5-9bd6-f0dd-40954a12b709",
+                    "charmLevel": 1,
+                    "displayName": "Pocket Knife Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/cbc43eac-44f5-9bd6-f0dd-40954a12b709/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Wushu/GunBuddy_Wushu_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "4bfcc79c-4352-aa06-53de-259530012e45",
+            "displayName": "Zoomer Pop Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/4bfcc79c-4352-aa06-53de-259530012e45/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Zpop/GunBuddy_Zpop_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a20cf772-4d6a-d3c8-7e60-72bab4446f2f",
+                    "charmLevel": 1,
+                    "displayName": "Zpop",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/a20cf772-4d6a-d3c8-7e60-72bab4446f2f/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Zpop/GunBuddy_Zpop_Lv1_PrimaryAsset"
+                }
+            ]
+        }
+    ]
+}
