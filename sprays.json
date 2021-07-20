@@ -2510,6 +2510,25 @@
             ]
         },
         {
+            "uuid": "476820f7-4c57-41ca-ebb8-54a2828b4371",
+            "displayName": "Too Easy Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/476820f7-4c57-41ca-ebb8-54a2828b4371/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/476820f7-4c57-41ca-ebb8-54a2828b4371/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/476820f7-4c57-41ca-ebb8-54a2828b4371/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/PhoenixCollarPop/PhoenixCollarPop_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "2b72a735-44d7-e76f-ada8-d39166bdcfff",
+                    "sprayLevel": 1,
+                    "displayName": "PhoenixCollarPop",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/2b72a735-44d7-e76f-ada8-d39166bdcfff/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/PhoenixCollarPop/PhoenixCollarPop_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "3650047b-416a-589e-c28e-dea10e89ef59",
             "displayName": "Astral Plane Spray",
             "category": "EAresSprayCategory::Contextual",
@@ -2981,6 +3000,25 @@
                     "displayName": "Gravitational Uranium Neuroblaster Spray",
                     "displayIcon": "https://media.valorant-api.com/spraylevels/92d7a963-44ae-41c9-3d1b-b58c36eecd96/displayicon.png",
                     "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Raygun/Raygun_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "829a47d5-4580-8428-2437-8daffdbc52ac",
+            "displayName": "Sentinels of Light Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/829a47d5-4580-8428-2437-8daffdbc52ac/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/829a47d5-4580-8428-2437-8daffdbc52ac/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/829a47d5-4580-8428-2437-8daffdbc52ac/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Sol/Sol_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "5c7f1f29-4411-bb3d-d955-ab911d7c2149",
+                    "sprayLevel": 1,
+                    "displayName": "Sol",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/5c7f1f29-4411-bb3d-d955-ab911d7c2149/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Sol/Sol_Level1_PrimaryAsset"
                 }
             ]
         },

@@ -1413,6 +1413,23 @@
             ]
         },
         {
+            "uuid": "9e601160-4679-d2df-261b-56a398248271",
+            "displayName": "High Top Heat Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/9e601160-4679-d2df-261b-56a398248271/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/PhoenixSneaker/GunBuddy_PhoenixSneaker_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "041a43a4-46fe-dab7-c974-36bf91eab33d",
+                    "charmLevel": 1,
+                    "displayName": "PhoenixSneaker",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/041a43a4-46fe-dab7-c974-36bf91eab33d/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/PhoenixSneaker/GunBuddy_PhoenixSneaker_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "b5d5b1f3-40a2-07dc-f111-3aa87c596d7c",
             "displayName": "Old Salt Buddy",
             "isHiddenIfNotOwned": false,
@@ -2008,6 +2025,23 @@
             ]
         },
         {
+            "uuid": "72a48d20-40b8-8a99-1c96-c7a549af4640",
+            "displayName": "Sentinels of Light Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/72a48d20-40b8-8a99-1c96-c7a549af4640/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Sol/GunBuddy_Sol_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "4f22a129-48fa-c701-54e2-dbb01e5d1194",
+                    "charmLevel": 1,
+                    "displayName": "Sol",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/4f22a129-48fa-c701-54e2-dbb01e5d1194/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Sol/GunBuddy_Sol_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "0eab96da-ed34-4bdb-978f-b02b2fb4ebcc",
             "displayName": "Reaver Buddy",
             "isHiddenIfNotOwned": false,
@@ -2293,6 +2327,23 @@
                     "displayName": "No. 1 Fan Buddy",
                     "displayIcon": "https://media.valorant-api.com/buddylevels/6bcf274b-4699-bdf3-1c99-9aa673cba935/displayicon.png",
                     "assetPath": "ShooterGame/Content/Equippables/Buddies/TwitchHand/GunBuddy_TwitchHand_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8e992d1d-4e3e-627f-7e84-cc98963f304c",
+            "displayName": "Tower of Power Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/8e992d1d-4e3e-627f-7e84-cc98963f304c/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/TwitchPrime2/GunBuddy_TwitchPrime2_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "0c1e8e5f-4831-d3f0-f455-eeae63e4bfd7",
+                    "charmLevel": 1,
+                    "displayName": "TwitchPrime2",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/0c1e8e5f-4831-d3f0-f455-eeae63e4bfd7/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/TwitchPrime2/GunBuddy_TwitchPrime2_Lv1_PrimaryAsset"
                 }
             ]
         },

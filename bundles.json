@@ -362,6 +362,18 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_SakuraThemeBundle_DataAsset"
         },
         {
+            "uuid": "13d427c1-49d7-44f9-6576-27a9c83d787f",
+            "displayName": "Sentinels of Light",
+            "description": "Sentinels of Light",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/13d427c1-49d7-44f9-6576-27a9c83d787f/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/13d427c1-49d7-44f9-6576-27a9c83d787f/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/13d427c1-49d7-44f9-6576-27a9c83d787f/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_SolThemeBundle_DataAsset"
+        },
+        {
             "uuid": "81d85522-4651-4f66-72de-5fa057b3514c",
             "displayName": "Reaver",
             "description": "Reaver",

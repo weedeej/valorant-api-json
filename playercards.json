@@ -1399,6 +1399,17 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Miscellaneous/AfreecaTV/Playercard_AfreecaTV_PrimaryAsset"
         },
         {
+            "uuid": "cb7157ed-4fc7-a5c9-714b-1786ca3949f1",
+            "displayName": "Versus // Yoru vs. Phoenix Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/cb7157ed-4fc7-a5c9-714b-1786ca3949f1/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/cb7157ed-4fc7-a5c9-714b-1786ca3949f1/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/cb7157ed-4fc7-a5c9-714b-1786ca3949f1/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/cb7157ed-4fc7-a5c9-714b-1786ca3949f1/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Miscellaneous/PhoenixVsYoru/Playercard_PhoenixVsYoru_PrimaryAsset"
+        },
+        {
             "uuid": "bb5cedcd-4ed9-ee2e-f129-48bf60a8e540",
             "displayName": "Duality Card",
             "isHiddenIfNotOwned": false,
@@ -1738,6 +1749,17 @@
             "wideArt": "https://media.valorant-api.com/playercards/c2f90c55-49be-93a5-daf4-6393d9d3f6fc/wideart.png",
             "largeArt": "https://media.valorant-api.com/playercards/c2f90c55-49be-93a5-daf4-6393d9d3f6fc/largeart.png",
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Raygun/Playercard_Raygun_PrimaryAsset"
+        },
+        {
+            "uuid": "1e060f5a-4ce1-9109-3033-ed9aaaffb4ae",
+            "displayName": "Sentinels of Light Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/1e060f5a-4ce1-9109-3033-ed9aaaffb4ae/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/1e060f5a-4ce1-9109-3033-ed9aaaffb4ae/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/1e060f5a-4ce1-9109-3033-ed9aaaffb4ae/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/1e060f5a-4ce1-9109-3033-ed9aaaffb4ae/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Sol/Playercard_Sol_PrimaryAsset"
         },
         {
             "uuid": "8bbdc250-4ffc-f6ba-61a0-0d84c4756a4e",
