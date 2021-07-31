@@ -10467,7 +10467,7 @@
             "defaultSkinUuid": "3bf1e8e0-47e8-f27a-6054-929575f41a54",
             "displayIcon": "https://media.valorant-api.com/weapons/4ade7faa-4cf1-8376-95ef-39884480959b/displayicon.png",
             "killStreamIcon": "https://media.valorant-api.com/weapons/4ade7faa-4cf1-8376-95ef-39884480959b/killstreamicon.png",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/DMRPrimaryAsset",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/DMRPrimaryAsset",
             "weaponStats": {
                 "fireRate": 5.25,
                 "magazineSize": 12,
@@ -10511,7 +10511,7 @@
                 "image": null,
                 "newImage": "https://media.valorant-api.com/weapons/4ade7faa-4cf1-8376-95ef-39884480959b/shop/newimage.png",
                 "newImage2": null,
-                "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/DMRWeaponPurchase"
+                "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/DMRWeaponPurchase"
             },
             "skins": [
                 {
@@ -10520,7 +10520,7 @@
                     "themeUuid": "a574e9a3-4c83-2e59-7fb8-a9b7a7aba27e",
                     "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/2c32d9e3-42a1-7387-35ef-0c8eefacee1c/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Anime/DMR_Anime_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Anime/DMR_Anime_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "3628cc8a-4153-9561-74a3-ea8f1ac7e0e4",
@@ -10529,7 +10529,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/3628cc8a-4153-9561-74a3-ea8f1ac7e0e4/fullrender.png",
                             "swatch": null,
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Anime/Chromas/Standard/DMR_Anime_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Anime/Chromas/Standard/DMR_Anime_Standard_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10539,7 +10539,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/920d9d08-4f22-9f1e-b309-ddbbe5ecb91c/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Anime/Levels/DMR_Anime_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Anime/Levels/DMR_Anime_Lv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -10549,7 +10549,7 @@
                     "themeUuid": "7e1b7375-4b1d-9e2f-14f2-acb278400826",
                     "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/6141a40d-48cf-8466-6d46-558c0ff145ea/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Cosmos/DMR_Cosmos_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Cosmos/DMR_Cosmos_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "e6f6e321-4de6-5d25-69ea-baa30d693373",
@@ -10558,7 +10558,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e6f6e321-4de6-5d25-69ea-baa30d693373/fullrender.png",
                             "swatch": null,
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Cosmos/Chromas/Standard/DMR_Cosmos_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Cosmos/Chromas/Standard/DMR_Cosmos_Standard_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10568,7 +10568,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/bf6df430-4e46-5c51-df6f-c2bc3b1cb4fe/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Cosmos/Levels/DMR_CosmosLv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Cosmos/Levels/DMR_CosmosLv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -10578,7 +10578,7 @@
                     "themeUuid": "950c5b23-4a07-d8e9-9622-46b04592f430",
                     "contentTierUuid": null,
                     "displayIcon": "https://media.valorant-api.com/weaponskins/2d5e6025-4166-730e-1024-abb766d19568/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Elven/DMR_Elven_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Elven/DMR_Elven_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "09ad889f-4f6b-038e-9b72-23a8203f393f",
@@ -10587,7 +10587,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/09ad889f-4f6b-038e-9b72-23a8203f393f/fullrender.png",
                             "swatch": null,
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Elven/Chromas/Standard/DMR_Elven_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Elven/Chromas/Standard/DMR_Elven_Standard_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10597,7 +10597,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/6672800e-442c-a0b5-92d3-ed83483f04df/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Elven/Levels/DMR_Elven_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Elven/Levels/DMR_Elven_Lv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -10607,7 +10607,7 @@
                     "themeUuid": "f1be220c-4370-c5e9-fa8e-2f9227ba81de",
                     "contentTierUuid": null,
                     "displayIcon": "https://media.valorant-api.com/weaponskins/453a734b-4f14-9183-2be8-97b01f603368/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Gothic/DMR_Gothic_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Gothic/DMR_Gothic_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "5e4d839c-4f56-5173-088e-5cac4a2e5e67",
@@ -10616,7 +10616,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/5e4d839c-4f56-5173-088e-5cac4a2e5e67/fullrender.png",
                             "swatch": null,
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Gothic/Chromas/Standard/DMR_Gothic_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Gothic/Chromas/Standard/DMR_Gothic_Standard_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10626,7 +10626,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c41a7b5d-4a04-a411-053d-818fe1d77ac6/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Gothic/Levels/DMR_Gothic_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Gothic/Levels/DMR_Gothic_Lv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -10636,7 +10636,7 @@
                     "themeUuid": "ba8d1971-47ea-fe7c-20c2-2f95c63d567d",
                     "contentTierUuid": "12683d76-48d7-84a3-4e09-6985794f0445",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/acd76d4d-4d05-2597-d63b-12851b2b61ee/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Historical/DMR_Historical_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Historical/DMR_Historical_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "3292c7e0-402f-70e2-f189-4ba34fcf7af4",
@@ -10645,7 +10645,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/3292c7e0-402f-70e2-f189-4ba34fcf7af4/fullrender.png",
                             "swatch": null,
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Historical/Chromas/Standard/DMR_Historical_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Historical/Chromas/Standard/DMR_Historical_Standard_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10655,7 +10655,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a2c59452-4420-130a-9aa1-cb8ea551a05d/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Historical/Levels/DMR_Historical_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Historical/Levels/DMR_Historical_Lv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -10665,7 +10665,7 @@
                     "themeUuid": "9436fe00-4156-e115-b11f-f69cac91a6a5",
                     "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/2a049f35-4bcd-af25-21fd-ec942e2d5007/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/DMR_HypeBeast_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/HypeBeast/DMR_HypeBeast_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "e2f5a979-4e9a-f931-7f52-d99f0ec4a61b",
@@ -10674,7 +10674,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e2f5a979-4e9a-f931-7f52-d99f0ec4a61b/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/e2f5a979-4e9a-f931-7f52-d99f0ec4a61b/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Standard/DMR_HypeBeast_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/HypeBeast/Chromas/Standard/DMR_HypeBeast_Standard_PrimaryAsset"
                         },
                         {
                             "uuid": "4ca16478-40c7-2cf6-bdd2-099761921e61",
@@ -10683,7 +10683,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/4ca16478-40c7-2cf6-bdd2-099761921e61/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/4ca16478-40c7-2cf6-bdd2-099761921e61/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Orange/DMR_HypeBeast_Orange_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/HypeBeast/Chromas/Orange/DMR_HypeBeast_Orange_PrimaryAsset"
                         },
                         {
                             "uuid": "e866f273-4acc-806f-becd-56a6bef48fbc",
@@ -10692,7 +10692,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e866f273-4acc-806f-becd-56a6bef48fbc/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/e866f273-4acc-806f-becd-56a6bef48fbc/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Blue/DMR_HypeBeast_Blue_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/HypeBeast/Chromas/Blue/DMR_HypeBeast_Blue_PrimaryAsset"
                         },
                         {
                             "uuid": "22f831db-4e55-6280-9078-d9b63ae93e4d",
@@ -10701,7 +10701,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/22f831db-4e55-6280-9078-d9b63ae93e4d/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/22f831db-4e55-6280-9078-d9b63ae93e4d/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Yellow/DMR_HypeBeast_Yellow_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/HypeBeast/Chromas/Yellow/DMR_HypeBeast_Yellow_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10711,7 +10711,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9336ab9d-445c-0872-a283-9f9b61a0098a/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/bf10d326-196e-4388-b5a0-8fda40d738e2.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/DMR_HypeBeast_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/HypeBeast/DMR_HypeBeast_Lv1_PrimaryAsset"
                         },
                         {
                             "uuid": "edc646b0-4a5a-6a76-a860-6b8db95bd132",
@@ -10719,7 +10719,7 @@
                             "levelItem": "EEquippableSkinLevelItem::VFX",
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/edc646b0-4a5a-6a76-a860-6b8db95bd132/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/26b4a8b8-b28f-493d-8f39-93d19f73a910.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/DMR_HypeBeast_Lv2_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/HypeBeast/DMR_HypeBeast_Lv2_PrimaryAsset"
                         },
                         {
                             "uuid": "14b04b38-4359-62a3-ab62-bcbe715e3fa0",
@@ -10727,7 +10727,7 @@
                             "levelItem": "EEquippableSkinLevelItem::Animation",
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/14b04b38-4359-62a3-ab62-bcbe715e3fa0/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/9de9bf52-dfca-4d99-8fd3-51a85ca3bcef.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/DMR_HypeBeast_Lv3_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/HypeBeast/DMR_HypeBeast_Lv3_PrimaryAsset"
                         },
                         {
                             "uuid": "99b7b761-41b3-e26c-ceeb-b9a1c3a67736",
@@ -10735,7 +10735,7 @@
                             "levelItem": "EEquippableSkinLevelItem::Finisher",
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/99b7b761-41b3-e26c-ceeb-b9a1c3a67736/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/70b5e747-f59e-4064-99d3-73a5612c0cab.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/DMR_HypeBeast_Lv4_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/HypeBeast/DMR_HypeBeast_Lv4_PrimaryAsset"
                         }
                     ]
                 },
@@ -10745,7 +10745,7 @@
                     "themeUuid": "c139c173-41f2-93ef-2640-6f84dba75984",
                     "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/8966067d-4023-c88a-db56-2691f163d335/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/DMR_King_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/King/DMR_King_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "3f621c8c-4fa8-b50c-969f-c5b4e8bdc3c9",
@@ -10754,7 +10754,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/3f621c8c-4fa8-b50c-969f-c5b4e8bdc3c9/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/3f621c8c-4fa8-b50c-969f-c5b4e8bdc3c9/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Chromas/Standard/DMR_King_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/King/Chromas/Standard/DMR_King_Standard_PrimaryAsset"
                         },
                         {
                             "uuid": "82024942-4396-65bf-777a-009fe896437f",
@@ -10763,7 +10763,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/82024942-4396-65bf-777a-009fe896437f/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/82024942-4396-65bf-777a-009fe896437f/swatch.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/af8dd1e7-4146-3786-1dfa-baaa78de95bb.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Chromas/v1/DMR_King_v1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/King/Chromas/v1/DMR_King_v1_PrimaryAsset"
                         },
                         {
                             "uuid": "3d0a76d8-4f01-244f-158d-57b59c5ff51e",
@@ -10772,7 +10772,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/3d0a76d8-4f01-244f-158d-57b59c5ff51e/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/3d0a76d8-4f01-244f-158d-57b59c5ff51e/swatch.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/8394fb8c-4702-f7b6-7214-1d899e1d4ea7.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Chromas/v2/DMR_King_v2_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/King/Chromas/v2/DMR_King_v2_PrimaryAsset"
                         },
                         {
                             "uuid": "38776b08-42b7-4231-a32c-539251cf6b4a",
@@ -10781,7 +10781,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/38776b08-42b7-4231-a32c-539251cf6b4a/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/38776b08-42b7-4231-a32c-539251cf6b4a/swatch.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/cb169daa-4261-1d4c-9715-48a778673709.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Chromas/v3/DMR_King_v3_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/King/Chromas/v3/DMR_King_v3_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10791,7 +10791,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/0e1af0d5-4dee-15db-25b5-31a7da6f1d52/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/51b25a4a-4db8-86cc-3a64-76a5772a6e13.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Levels/DMR_King_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/King/Levels/DMR_King_Lv1_PrimaryAsset"
                         },
                         {
                             "uuid": "e5686279-4ecb-8dd0-bbc1-5cacf998c392",
@@ -10799,7 +10799,7 @@
                             "levelItem": "EEquippableSkinLevelItem::VFX",
                             "displayIcon": null,
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/4cdfae2f-440c-0c20-37d8-2ab773da5574.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Levels/DMR_King_Lv2_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/King/Levels/DMR_King_Lv2_PrimaryAsset"
                         },
                         {
                             "uuid": "972f5a0c-453a-fa8c-c0e6-7ca9dc4b98bb",
@@ -10807,7 +10807,7 @@
                             "levelItem": null,
                             "displayIcon": null,
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/281b1aa9-481a-09a5-a372-06bd32e93b39.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Levels/DMR_King_Lv3_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/King/Levels/DMR_King_Lv3_PrimaryAsset"
                         },
                         {
                             "uuid": "26727126-4b2a-b735-ef3e-df9b98c7bfee",
@@ -10815,7 +10815,7 @@
                             "levelItem": "EEquippableSkinLevelItem::Finisher",
                             "displayIcon": null,
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/69b189af-4221-0053-c98a-459da0712cb6.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Levels/DMR_King_Lv4_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/King/Levels/DMR_King_Lv4_PrimaryAsset"
                         }
                     ]
                 },
@@ -10825,7 +10825,7 @@
                     "themeUuid": "0c4ee4ba-484a-8fd2-e680-aaba9315cea4",
                     "contentTierUuid": "12683d76-48d7-84a3-4e09-6985794f0445",
                     "displayIcon": null,
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Murals/DMR_Murals_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Murals/DMR_Murals_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "fc0c6d41-496e-5ac5-6c8f-9787f4e71c0d",
@@ -10834,7 +10834,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/fc0c6d41-496e-5ac5-6c8f-9787f4e71c0d/fullrender.png",
                             "swatch": null,
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Murals/Chromas/Standard/DMR_Murals_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Murals/Chromas/Standard/DMR_Murals_Standard_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10844,7 +10844,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7a0374af-42f5-2f99-b535-a997f2179717/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Murals/Levels/DMR_Murals_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Murals/Levels/DMR_Murals_Lv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -10854,7 +10854,7 @@
                     "themeUuid": "8a34391f-4d1f-6b22-859f-628bff79d381",
                     "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/850fea42-419f-f284-84ae-40ae1eabbb5b/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/DMR_Oni_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Oni/DMR_Oni_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "9e97de52-4080-8311-2505-8faade37fe46",
@@ -10863,7 +10863,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/9e97de52-4080-8311-2505-8faade37fe46/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/9e97de52-4080-8311-2505-8faade37fe46/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/Chromas/Standard/DMR_Oni_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Oni/Chromas/Standard/DMR_Oni_Standard_PrimaryAsset"
                         },
                         {
                             "uuid": "aed44a0e-4834-0ec9-ab68-729f22189bad",
@@ -10872,7 +10872,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/aed44a0e-4834-0ec9-ab68-729f22189bad/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/aed44a0e-4834-0ec9-ab68-729f22189bad/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/Chromas/Black/DMR_Oni_Black_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Oni/Chromas/Black/DMR_Oni_Black_PrimaryAsset"
                         },
                         {
                             "uuid": "a8a73b3a-4608-6bef-dd1b-0cbb8ab7d2e4",
@@ -10881,7 +10881,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/a8a73b3a-4608-6bef-dd1b-0cbb8ab7d2e4/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/a8a73b3a-4608-6bef-dd1b-0cbb8ab7d2e4/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/Chromas/Green/DMR_Oni_Green_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Oni/Chromas/Green/DMR_Oni_Green_PrimaryAsset"
                         },
                         {
                             "uuid": "2c754236-407d-5708-61da-ada2f7821fb4",
@@ -10890,7 +10890,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/2c754236-407d-5708-61da-ada2f7821fb4/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/2c754236-407d-5708-61da-ada2f7821fb4/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/Chromas/White/DMR_Oni_White_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Oni/Chromas/White/DMR_Oni_White_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10900,7 +10900,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fee2c305-40d1-1cca-08b8-46bceda98eca/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/6b731284-4cdc-6345-cea7-8c9cb9882450.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/Levels/DMR_Oni_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Oni/Levels/DMR_Oni_Lv1_PrimaryAsset"
                         },
                         {
                             "uuid": "10db658a-4299-a0cd-8822-feb09adca3ad",
@@ -10908,7 +10908,7 @@
                             "levelItem": "EEquippableSkinLevelItem::VFX",
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/10db658a-4299-a0cd-8822-feb09adca3ad/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/4e54b09c-4969-6394-9488-81892ea20bbc.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/Levels/DMR_Oni_Lv2_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Oni/Levels/DMR_Oni_Lv2_PrimaryAsset"
                         },
                         {
                             "uuid": "fea4c5e9-4028-72b1-0dda-00b9d14026a2",
@@ -10916,7 +10916,7 @@
                             "levelItem": null,
                             "displayIcon": null,
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/83afc9e5-4139-0ff8-336d-b18c078b8ce5.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/Levels/DMR_Oni_Lv3_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Oni/Levels/DMR_Oni_Lv3_PrimaryAsset"
                         },
                         {
                             "uuid": "9318a2c8-4ccc-bfb4-e7d9-6289608a4ba5",
@@ -10924,7 +10924,7 @@
                             "levelItem": "EEquippableSkinLevelItem::Finisher",
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9318a2c8-4ccc-bfb4-e7d9-6289608a4ba5/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/688863c1-494d-8a95-8ac3-5aac60537c94.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/Levels/DMR_Oni_Lv4_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Oni/Levels/DMR_Oni_Lv4_PrimaryAsset"
                         }
                     ]
                 },
@@ -10934,7 +10934,7 @@
                     "themeUuid": "6ce582d1-4cf9-efc4-078c-169295311f7e",
                     "contentTierUuid": null,
                     "displayIcon": "https://media.valorant-api.com/weaponskins/96679876-4d41-683c-2e5c-2ea25ddd8fdf/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Polyanimals/DMR_Polyanimals_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Polyanimals/DMR_Polyanimals_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "ff80bbbf-4212-5289-32a4-1b8da95f52ca",
@@ -10943,7 +10943,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/ff80bbbf-4212-5289-32a4-1b8da95f52ca/fullrender.png",
                             "swatch": null,
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Polyanimals/Chromas/Standard/DMR_Polyanimals_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Polyanimals/Chromas/Standard/DMR_Polyanimals_Standard_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -10953,7 +10953,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/df9044e9-4ed4-4a49-b7ce-babc4a0e23d6/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Polyanimals/Levels/DMR_Polyanimals_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Polyanimals/Levels/DMR_Polyanimals_Lv1_PrimaryAsset"
                         },
                         null
                     ]
@@ -10964,7 +10964,7 @@
                     "themeUuid": "b371ffce-41a1-07f9-d1ce-aa93a6ef1787",
                     "contentTierUuid": null,
                     "displayIcon": "https://media.valorant-api.com/weaponskins/23a16911-4cb1-2794-2d4c-3f99f1e2516b/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Puzzle/DMR_Puzzle_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Puzzle/DMR_Puzzle_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "38c72886-4b82-3403-38ad-afa701684ffd",
@@ -10973,7 +10973,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/38c72886-4b82-3403-38ad-afa701684ffd/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/38c72886-4b82-3403-38ad-afa701684ffd/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Puzzle/Chromas/Standard/DMR_Puzzle_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Puzzle/Chromas/Standard/DMR_Puzzle_Standard_PrimaryAsset"
                         },
                         {
                             "uuid": "fcfb54b0-4bc5-a9c8-1cf5-f881dac04c1f",
@@ -10982,7 +10982,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/fcfb54b0-4bc5-a9c8-1cf5-f881dac04c1f/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/fcfb54b0-4bc5-a9c8-1cf5-f881dac04c1f/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Puzzle/Chromas/v2/DMR_Puzzle_v2_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Puzzle/Chromas/v2/DMR_Puzzle_v2_PrimaryAsset"
                         },
                         {
                             "uuid": "58acb270-4351-c064-24d1-b5803b4f9358",
@@ -10991,7 +10991,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/58acb270-4351-c064-24d1-b5803b4f9358/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/58acb270-4351-c064-24d1-b5803b4f9358/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Puzzle/Chromas/v3/DMR_Puzzle_v3_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Puzzle/Chromas/v3/DMR_Puzzle_v3_PrimaryAsset"
                         },
                         {
                             "uuid": "5dec1781-4491-897e-e4b6-969c1736882b",
@@ -11000,7 +11000,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/5dec1781-4491-897e-e4b6-969c1736882b/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/5dec1781-4491-897e-e4b6-969c1736882b/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Puzzle/Chromas/v1/DMR_Puzzle_v1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Puzzle/Chromas/v1/DMR_Puzzle_v1_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -11010,7 +11010,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/cf06c0d6-4c0c-1e8a-0553-999a45a53ae1/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Puzzle/Levels/DMR_Puzzle_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Puzzle/Levels/DMR_Puzzle_Lv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -11020,7 +11020,7 @@
                     "themeUuid": "4479eea8-4820-c69b-3912-f5ac678fcedc",
                     "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/db348da1-49f2-0bad-b70a-e4ade9d31655/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/DMR_SoulStealer_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SoulStealer/DMR_SoulStealer_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "bb9f9fb7-46ca-4ddf-1b83-b8b1fc0401d9",
@@ -11029,7 +11029,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/bb9f9fb7-46ca-4ddf-1b83-b8b1fc0401d9/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/bb9f9fb7-46ca-4ddf-1b83-b8b1fc0401d9/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/Chromas/Standard/DMR_SoulStealer_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SoulStealer/Chromas/Standard/DMR_SoulStealer_Standard_PrimaryAsset"
                         },
                         {
                             "uuid": "13276940-43e7-9ece-8661-dca6e8707847",
@@ -11038,7 +11038,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/13276940-43e7-9ece-8661-dca6e8707847/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/13276940-43e7-9ece-8661-dca6e8707847/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/Chromas/Red/DMR_SoulStealer_Red_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SoulStealer/Chromas/Red/DMR_SoulStealer_Red_PrimaryAsset"
                         },
                         {
                             "uuid": "c0f23dc2-4ac3-338c-c559-18962151a702",
@@ -11047,7 +11047,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/c0f23dc2-4ac3-338c-c559-18962151a702/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/c0f23dc2-4ac3-338c-c559-18962151a702/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/Chromas/Black/DMR_SoulStealer_Black_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SoulStealer/Chromas/Black/DMR_SoulStealer_Black_PrimaryAsset"
                         },
                         {
                             "uuid": "c18a9c89-4b1e-79cd-8a30-5ea5368214fc",
@@ -11056,7 +11056,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/c18a9c89-4b1e-79cd-8a30-5ea5368214fc/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/c18a9c89-4b1e-79cd-8a30-5ea5368214fc/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/Chromas/White/DMR_SoulStealer_White_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SoulStealer/Chromas/White/DMR_SoulStealer_White_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -11066,7 +11066,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c9f0ea7f-4bed-b10e-62d2-0394444feed1/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/66d66f6b-464e-3142-f194-2aacc214281b.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/Levels/DMR_SoulStealer_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SoulStealer/Levels/DMR_SoulStealer_Lv1_PrimaryAsset"
                         },
                         {
                             "uuid": "ad0e9e83-4658-0a02-a912-21b41df87c38",
@@ -11074,7 +11074,7 @@
                             "levelItem": "EEquippableSkinLevelItem::VFX",
                             "displayIcon": null,
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/e1f4038f-46b2-00ea-5aac-8f8c19916fd1.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/Levels/DMR_SoulStealer_Lv2_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SoulStealer/Levels/DMR_SoulStealer_Lv2_PrimaryAsset"
                         },
                         {
                             "uuid": "09faf945-4be6-ee7f-43d5-9fae75e182ec",
@@ -11082,7 +11082,7 @@
                             "levelItem": "EEquippableSkinLevelItem::Animation",
                             "displayIcon": null,
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/05fdf577-4995-0191-dcb2-7ba375646da1.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/Levels/DMR_SoulStealer_Lv3_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SoulStealer/Levels/DMR_SoulStealer_Lv3_PrimaryAsset"
                         },
                         {
                             "uuid": "4e1b9e7d-4cfc-9a14-4fe1-ea9185cdb6d9",
@@ -11090,7 +11090,7 @@
                             "levelItem": "EEquippableSkinLevelItem::Finisher",
                             "displayIcon": null,
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/94af5d7b-45f5-350a-7aca-d3a931bc1cf2.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/Levels/DMR_SoulStealer_Lv4_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SoulStealer/Levels/DMR_SoulStealer_Lv4_PrimaryAsset"
                         }
                     ]
                 },
@@ -11100,7 +11100,7 @@
                     "themeUuid": "975f7716-498d-8e0b-b7c7-02b507b8e14a",
                     "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/7122d78b-4e60-eb4d-5f65-738d7c1ce9ae/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/DMR_Sovereign_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sovereign/DMR_Sovereign_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "df1786b2-4f3d-f207-b92c-0780f4dffb79",
@@ -11109,7 +11109,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/df1786b2-4f3d-f207-b92c-0780f4dffb79/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/df1786b2-4f3d-f207-b92c-0780f4dffb79/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/Chromas/Standard/DMR_Sovereign_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sovereign/Chromas/Standard/DMR_Sovereign_Standard_PrimaryAsset"
                         },
                         {
                             "uuid": "6c21b2dd-4d36-7bb6-667b-e5874b7bda13",
@@ -11118,7 +11118,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/6c21b2dd-4d36-7bb6-667b-e5874b7bda13/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/6c21b2dd-4d36-7bb6-667b-e5874b7bda13/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/Chromas/Gold/DMR_Sovereign_Gold_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sovereign/Chromas/Gold/DMR_Sovereign_Gold_PrimaryAsset"
                         },
                         {
                             "uuid": "b5280469-4069-b125-c76a-d28e20791322",
@@ -11127,7 +11127,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b5280469-4069-b125-c76a-d28e20791322/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/b5280469-4069-b125-c76a-d28e20791322/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/Chromas/Silver/DMR_Sovereign_Silver_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sovereign/Chromas/Silver/DMR_Sovereign_Silver_PrimaryAsset"
                         },
                         {
                             "uuid": "94d1a053-4a0f-8d48-ec77-73aaa2003a22",
@@ -11136,7 +11136,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/94d1a053-4a0f-8d48-ec77-73aaa2003a22/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/94d1a053-4a0f-8d48-ec77-73aaa2003a22/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/Chromas/Purple/DMR_Sovereign_Purple_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sovereign/Chromas/Purple/DMR_Sovereign_Purple_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -11146,7 +11146,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/8f8f82f4-4133-82c9-50b2-3c9c67e0f9fb/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/a2f1a7c0-025f-475f-af19-3cbf50b4f8eb.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/DMR_Sovereign_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sovereign/DMR_Sovereign_Lv1_PrimaryAsset"
                         },
                         {
                             "uuid": "32cf9b7a-4ea1-64f4-1405-32a2ee614bc8",
@@ -11154,7 +11154,7 @@
                             "levelItem": "EEquippableSkinLevelItem::VFX",
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/32cf9b7a-4ea1-64f4-1405-32a2ee614bc8/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/165fde15-36c3-4483-90d7-0777f24975ef.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/DMR_Sovereign_Lv2_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sovereign/DMR_Sovereign_Lv2_PrimaryAsset"
                         },
                         {
                             "uuid": "62f258e7-4821-4925-29b3-3ca90972991f",
@@ -11162,7 +11162,7 @@
                             "levelItem": "EEquippableSkinLevelItem::VFX",
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/62f258e7-4821-4925-29b3-3ca90972991f/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/828939e6-80e4-46c3-9be6-56cdd78652bd.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/DMR_Sovereign_Lv3_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sovereign/DMR_Sovereign_Lv3_PrimaryAsset"
                         },
                         {
                             "uuid": "04c6a2a4-400a-b0df-b482-658c59529ee6",
@@ -11170,7 +11170,7 @@
                             "levelItem": "EEquippableSkinLevelItem::Finisher",
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/04c6a2a4-400a-b0df-b482-658c59529ee6/displayicon.png",
                             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.02/115fecec-e098-4084-af6e-a21fb94fb87b.mp4",
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/DMR_Sovereign_Lv4_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sovereign/DMR_Sovereign_Lv4_PrimaryAsset"
                         }
                     ]
                 },
@@ -11180,7 +11180,7 @@
                     "themeUuid": "b1e665e3-4e4f-f849-dc49-d0a68d10f449",
                     "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/77187a8f-4020-da44-a775-7a91ab814cdf/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/SovWorld/DMR_SovWorld_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SovWorld/DMR_SovWorld_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "549b4ed5-493f-23a2-4350-b095dfdd0deb",
@@ -11189,7 +11189,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/549b4ed5-493f-23a2-4350-b095dfdd0deb/fullrender.png",
                             "swatch": null,
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/SovWorld/Chromas/Standard/DMR_SovWorld_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SovWorld/Chromas/Standard/DMR_SovWorld_Standard_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -11199,7 +11199,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f202625e-4647-b575-07a9-3fbc39d72b10/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/SovWorld/Levels/DMR_SovWorld_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/SovWorld/Levels/DMR_SovWorld_Lv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -11209,7 +11209,7 @@
                     "themeUuid": "6fd2d0f4-44ca-c131-5049-5ba91a0e8303",
                     "contentTierUuid": null,
                     "displayIcon": "https://media.valorant-api.com/weaponskins/cce860fd-4f64-7422-5c95-c7ad2cad0f15/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sportscar/DMR_Sportscar_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sportscar/DMR_Sportscar_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "4564f4cc-40e5-4413-5bf9-91b5d7f27ce3",
@@ -11218,7 +11218,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/4564f4cc-40e5-4413-5bf9-91b5d7f27ce3/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/4564f4cc-40e5-4413-5bf9-91b5d7f27ce3/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sportscar/Chromas/Standard/DMR_Sportscar_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sportscar/Chromas/Standard/DMR_Sportscar_Standard_PrimaryAsset"
                         },
                         {
                             "uuid": "af62933d-4034-0c5c-c4b4-c0855394fd6b",
@@ -11227,7 +11227,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/af62933d-4034-0c5c-c4b4-c0855394fd6b/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/af62933d-4034-0c5c-c4b4-c0855394fd6b/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sportscar/Chromas/v1/DMR_Sportscar_v1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sportscar/Chromas/v1/DMR_Sportscar_v1_PrimaryAsset"
                         },
                         {
                             "uuid": "2c9b88af-4b32-cbfe-dc1d-19a9d2aebbef",
@@ -11236,7 +11236,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/2c9b88af-4b32-cbfe-dc1d-19a9d2aebbef/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/2c9b88af-4b32-cbfe-dc1d-19a9d2aebbef/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sportscar/Chromas/v2/DMR_Sportscar_v2_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sportscar/Chromas/v2/DMR_Sportscar_v2_PrimaryAsset"
                         },
                         {
                             "uuid": "1925c623-4020-dd7d-af14-849169e518d6",
@@ -11245,7 +11245,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/1925c623-4020-dd7d-af14-849169e518d6/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/1925c623-4020-dd7d-af14-849169e518d6/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sportscar/Chromas/v3/DMR_Sportscar_v3_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sportscar/Chromas/v3/DMR_Sportscar_v3_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -11255,7 +11255,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4c51b90b-4629-f1b0-5b53-5aa7fb787be0/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sportscar/Levels/DMR_Sportscar_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Sportscar/Levels/DMR_Sportscar_Lv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -11265,7 +11265,7 @@
                     "themeUuid": "5a629df4-4765-0214-bd40-fbb96542941f",
                     "contentTierUuid": null,
                     "displayIcon": "https://media.valorant-api.com/weaponskins/3bf1e8e0-47e8-f27a-6054-929575f41a54/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Standard/DMR_Standard_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Standard/DMR_Standard_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "0f934388-418a-a9e7-42a7-21b27402e46c",
@@ -11274,7 +11274,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/0f934388-418a-a9e7-42a7-21b27402e46c/fullrender.png",
                             "swatch": null,
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Standard/Chromas/Standard/DMR_Standard_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Standard/Chromas/Standard/DMR_Standard_Standard_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -11284,7 +11284,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/414d888a-41ce-fcf0-e545-c49018ec9cf4/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Standard/DMR_Standard_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Standard/DMR_Standard_Lv1_PrimaryAsset"
                         }
                     ]
                 },
@@ -11294,7 +11294,7 @@
                     "themeUuid": "54e935e3-446f-5184-ba3a-f096c595b146",
                     "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
                     "displayIcon": "https://media.valorant-api.com/weaponskins/0a81818d-406e-1d8c-ce4d-9ba89dfdf1ab/displayicon.png",
-                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Unstoppable/DMR_Unstoppable_PrimaryAsset",
+                    "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Unstoppable/DMR_Unstoppable_PrimaryAsset",
                     "chromas": [
                         {
                             "uuid": "4648ecfb-4667-77b7-2723-d3a531a942ea",
@@ -11303,7 +11303,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/4648ecfb-4667-77b7-2723-d3a531a942ea/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/4648ecfb-4667-77b7-2723-d3a531a942ea/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Unstoppable/Chromas/Standard/DMR_Unstoppable_Standard_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Unstoppable/Chromas/Standard/DMR_Unstoppable_Standard_PrimaryAsset"
                         },
                         {
                             "uuid": "2de61652-4285-e5cd-9f85-159b43bb4e9e",
@@ -11312,7 +11312,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/2de61652-4285-e5cd-9f85-159b43bb4e9e/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/2de61652-4285-e5cd-9f85-159b43bb4e9e/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Unstoppable/Chromas/v1/DMR_Unstoppable_v1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Unstoppable/Chromas/v1/DMR_Unstoppable_v1_PrimaryAsset"
                         },
                         {
                             "uuid": "b8a7c66d-4dc8-d849-3fe7-5bbc0a6a4c35",
@@ -11321,7 +11321,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b8a7c66d-4dc8-d849-3fe7-5bbc0a6a4c35/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/b8a7c66d-4dc8-d849-3fe7-5bbc0a6a4c35/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Unstoppable/Chromas/v2/DMR_Unstoppable_v2_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Unstoppable/Chromas/v2/DMR_Unstoppable_v2_PrimaryAsset"
                         },
                         {
                             "uuid": "9d725c7c-4fb4-7a89-4798-b7af46065668",
@@ -11330,7 +11330,7 @@
                             "fullRender": "https://media.valorant-api.com/weaponskinchromas/9d725c7c-4fb4-7a89-4798-b7af46065668/fullrender.png",
                             "swatch": "https://media.valorant-api.com/weaponskinchromas/9d725c7c-4fb4-7a89-4798-b7af46065668/swatch.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Unstoppable/Chromas/v3/DMR_Unstoppable_v3_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Unstoppable/Chromas/v3/DMR_Unstoppable_v3_PrimaryAsset"
                         }
                     ],
                     "levels": [
@@ -11340,7 +11340,7 @@
                             "levelItem": null,
                             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fa3d6a11-46c4-2caf-f7e4-10a5013c034b/displayicon.png",
                             "streamedVideo": null,
-                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Unstoppable/Levels/DMR_Unstoppable_Lv1_PrimaryAsset"
+                            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Dmr/Unstoppable/Levels/DMR_Unstoppable_Lv1_PrimaryAsset"
                         }
                     ]
                 }
