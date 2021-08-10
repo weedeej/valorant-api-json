@@ -96,7 +96,7 @@
             "displayName": "ACT 1",
             "type": "EAresSeasonType::Act",
             "startTime": "2021-06-22T00:00:00Z",
-            "endTime": "2021-08-24T00:00:00Z",
+            "endTime": "2021-09-08T00:00:00Z",
             "parentUuid": "97b39124-46ce-8b55-8fd1-7cbf7ffe173f",
             "assetPath": "ShooterGame/Content/Seasons/Season_Episode3_Act1_DataAsset"
         },
@@ -104,8 +104,8 @@
             "uuid": "4cb622e1-4244-6da3-7276-8daaf1c01be2",
             "displayName": "ACT 2",
             "type": "EAresSeasonType::Act",
-            "startTime": "2021-08-24T00:00:00Z",
-            "endTime": "2021-10-19T00:00:00Z",
+            "startTime": "2021-09-08T00:00:00Z",
+            "endTime": "2021-11-02T00:00:00Z",
             "parentUuid": "97b39124-46ce-8b55-8fd1-7cbf7ffe173f",
             "assetPath": "ShooterGame/Content/Seasons/Season_Episode3_Act2_DataAsset"
         },
@@ -113,7 +113,7 @@
             "uuid": "a16955a5-4ad0-f761-5e9e-389df1c892fb",
             "displayName": "ACT 3",
             "type": "EAresSeasonType::Act",
-            "startTime": "2021-10-19T00:00:00Z",
+            "startTime": "2021-11-02T00:00:00Z",
             "endTime": "2022-01-11T00:00:00Z",
             "parentUuid": "97b39124-46ce-8b55-8fd1-7cbf7ffe173f",
             "assetPath": "ShooterGame/Content/Seasons/Season_Episode3_Act3_DataAsset"
