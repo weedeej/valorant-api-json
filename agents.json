@@ -16,6 +16,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "1b47567f-8f7b-444b-aae3-b0c634622d10",
                 "displayName": "Initiator",
@@ -48,7 +49,18 @@
                     "description": "EQUIP a Seismic Charge. FIRE to send a cascading quake through all terrain in a large cone. The quake dazes and knocks up anyone caught in it.",
                     "displayIcon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 2.456469,
+                "maxDuration": 2.456469,
+                "mediaList": [
+                    {
+                        "id": 802792402,
+                        "wwise": "https://media.valorant-api.com/sounds/802792402.wem",
+                        "wave": "https://media.valorant-api.com/sounds/802792402.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "f94c3b30-42be-e959-889c-5aa313dba261",
@@ -67,6 +79,7 @@
             "isFullPortraitRightFacing": true,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "dbe8757e-9e92-4ed4-b39f-9dfc589691d4",
                 "displayName": "Duelist",
@@ -99,7 +112,18 @@
                     "description": "EQUIP a rocket launcher. FIRE shoots a rocket that does massive area damage on contact with anything.",
                     "displayIcon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 1.541198,
+                "maxDuration": 1.541198,
+                "mediaList": [
+                    {
+                        "id": 632864455,
+                        "wwise": "https://media.valorant-api.com/sounds/632864455.wem",
+                        "wave": "https://media.valorant-api.com/sounds/632864455.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -116,6 +140,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "1b47567f-8f7b-444b-aae3-b0c634622d10",
                 "displayName": "Initiator",
@@ -148,7 +173,18 @@
                     "description": "INSTANTLY overload with polarized radianite energy that pulses from KAY/O in a massive radius. Enemies hit with pulses are suppressed for a short duration. While overloaded, KAY/O gains combat stim and can be re-stabilized if downed.",
                     "displayIcon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 1.034417,
+                "maxDuration": 1.034417,
+                "mediaList": [
+                    {
+                        "id": 170847866,
+                        "wwise": "https://media.valorant-api.com/sounds/170847866.wem",
+                        "wave": "https://media.valorant-api.com/sounds/170847866.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "6f2a04ca-43e0-be17-7f36-b3908627744d",
@@ -165,6 +201,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "1b47567f-8f7b-444b-aae3-b0c634622d10",
                 "displayName": "Initiator",
@@ -197,7 +234,18 @@
                     "description": "EQUIP a Seeker trinket.  FIRE to send out three Seekers to track down the three closest enemies.  If a Seeker reaches its target, it nearsights them.",
                     "displayIcon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 1.807344,
+                "maxDuration": 1.807344,
+                "mediaList": [
+                    {
+                        "id": 452875258,
+                        "wwise": "https://media.valorant-api.com/sounds/452875258.wem",
+                        "wave": "https://media.valorant-api.com/sounds/452875258.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -217,6 +265,7 @@
             "isFullPortraitRightFacing": true,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "5fc02f99-4091-4486-a531-98459a3e95e9",
                 "displayName": "Sentinel",
@@ -249,7 +298,18 @@
                     "description": "INSTANTLY use on a dead enemy player in your crosshairs to reveal the location of all living enemy players.",
                     "displayIcon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 2.807927,
+                "maxDuration": 2.807927,
+                "mediaList": [
+                    {
+                        "id": 246514732,
+                        "wwise": "https://media.valorant-api.com/sounds/246514732.wem",
+                        "wave": "https://media.valorant-api.com/sounds/246514732.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "ded3520f-4264-bfed-162d-b080e2abccf9",
@@ -269,6 +329,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": false,
             "isAvailableForTest": false,
+            "isBaseContent": false,
             "role": null,
             "abilities": [
                 {
@@ -301,7 +362,18 @@
                     "description": "Sova's custom bow can fire his arrows and bounce them off terrain. Holding fire charges the bow's power, and the bolt is loosed when released. Press alt fire to change the number of bounces.Your arrows can bounce off terrain. Holding left click increases the bow's range trajectory. Right clicking Toggle through the desired number of terrain bounces by right clicking. The arrow is loosed when left click is released.",
                     "displayIcon": null
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 2.021729,
+                "maxDuration": 2.021729,
+                "mediaList": [
+                    {
+                        "id": 130865070,
+                        "wwise": "https://media.valorant-api.com/sounds/130865070.wem",
+                        "wave": "https://media.valorant-api.com/sounds/130865070.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -321,6 +393,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": true,
             "role": {
                 "uuid": "1b47567f-8f7b-444b-aae3-b0c634622d10",
                 "displayName": "Initiator",
@@ -359,7 +432,18 @@
                     "description": "Sova's custom bow can fire his arrows and bounce them off terrain. Holding fire charges the bow's power, and the bolt is loosed when released. Press alt fire to change the number of bounces.Your arrows can bounce off terrain. Holding left click increases the bow's range trajectory. Right clicking Toggle through the desired number of terrain bounces by right clicking. The arrow is loosed when left click is released.",
                     "displayIcon": null
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 2.021729,
+                "maxDuration": 2.021729,
+                "mediaList": [
+                    {
+                        "id": 130865070,
+                        "wwise": "https://media.valorant-api.com/sounds/130865070.wem",
+                        "wave": "https://media.valorant-api.com/sounds/130865070.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -379,6 +463,7 @@
             "isFullPortraitRightFacing": true,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "5fc02f99-4091-4486-a531-98459a3e95e9",
                 "displayName": "Sentinel",
@@ -411,7 +496,18 @@
                     "description": "EQUIP the Lockdown device. FIRE to deploy the device. After a long windup, the device Detains all enemies caught in the radius. The device can be destroyed by enemies.",
                     "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 2.689708,
+                "maxDuration": 2.689708,
+                "mediaList": [
+                    {
+                        "id": 1062625853,
+                        "wwise": "https://media.valorant-api.com/sounds/1062625853.wem",
+                        "wave": "https://media.valorant-api.com/sounds/1062625853.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "707eab51-4836-f488-046a-cda6bf494859",
@@ -430,6 +526,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "4ee40330-ecdd-4f2f-98a8-eb1243428373",
                 "displayName": "Controller",
@@ -468,7 +565,18 @@
                     "description": "You gradually generate and replenish the toxin that fuels your abilities.  Enemies that cross through Viper's Poison Cloud, Toxic Screen, or Viper's Pit are instantly inflicted with at least 50 decay. Their decay level increases the longer they remain in contact with it.",
                     "displayIcon": null
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 2.445958,
+                "maxDuration": 2.445958,
+                "mediaList": [
+                    {
+                        "id": 204662687,
+                        "wwise": "https://media.valorant-api.com/sounds/204662687.wem",
+                        "wave": "https://media.valorant-api.com/sounds/204662687.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "eb93336a-449b-9c1b-0a54-a891f7921d69",
@@ -488,6 +596,7 @@
             "isFullPortraitRightFacing": true,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": true,
             "role": {
                 "uuid": "dbe8757e-9e92-4ed4-b39f-9dfc589691d4",
                 "displayName": "Duelist",
@@ -526,7 +635,18 @@
                     "description": "PASSIVELY heal Phoenix instead of taking damage when standing in Phoenix's own fire",
                     "displayIcon": null
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 2.258333,
+                "maxDuration": 2.258333,
+                "mediaList": [
+                    {
+                        "id": 384959611,
+                        "wwise": "https://media.valorant-api.com/sounds/384959611.wem",
+                        "wave": "https://media.valorant-api.com/sounds/384959611.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
@@ -543,6 +663,7 @@
             "isFullPortraitRightFacing": true,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "4ee40330-ecdd-4f2f-98a8-eb1243428373",
                 "displayName": "Controller",
@@ -581,7 +702,18 @@
                     "description": "ACTIVATE Ultimate to enter Astral Form and PRIMARY FIRE to place Stars. Target Stars with your Nova Pulse, Nebula, or Gravity Well to use those abilities.",
                     "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/passive/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 3.18301,
+                "maxDuration": 3.18301,
+                "mediaList": [
+                    {
+                        "id": 594322343,
+                        "wwise": "https://media.valorant-api.com/sounds/594322343.wem",
+                        "wave": "https://media.valorant-api.com/sounds/594322343.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -601,6 +733,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": true,
             "role": {
                 "uuid": "4ee40330-ecdd-4f2f-98a8-eb1243428373",
                 "displayName": "Controller",
@@ -633,7 +766,18 @@
                     "description": "EQUIP a tactical map. FIRE to launch a lingering orbital strike laser at the selected location, dealing high damage-over-time to players caught in the selected area.",
                     "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 4.969511,
+                "maxDuration": 4.969511,
+                "mediaList": [
+                    {
+                        "id": 421554800,
+                        "wwise": "https://media.valorant-api.com/sounds/421554800.wem",
+                        "wave": "https://media.valorant-api.com/sounds/421554800.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -650,6 +794,7 @@
             "isFullPortraitRightFacing": true,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "dbe8757e-9e92-4ed4-b39f-9dfc589691d4",
                 "displayName": "Duelist",
@@ -682,7 +827,18 @@
                     "description": "EQUIP a mask that can see between dimensions FIRE to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside.",
                     "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 4.105177,
+                "maxDuration": 4.105177,
+                "mediaList": [
+                    {
+                        "id": 107320642,
+                        "wwise": "https://media.valorant-api.com/sounds/107320642.wem",
+                        "wave": "https://media.valorant-api.com/sounds/107320642.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -702,6 +858,7 @@
             "isFullPortraitRightFacing": true,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": true,
             "role": {
                 "uuid": "5fc02f99-4091-4486-a531-98459a3e95e9",
                 "displayName": "Sentinel",
@@ -734,7 +891,18 @@
                     "description": "EQUIP a resurrection ability. FIRE with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health.",
                     "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 2.07,
+                "maxDuration": 2.07,
+                "mediaList": [
+                    {
+                        "id": 119342169,
+                        "wwise": "https://media.valorant-api.com/sounds/119342169.wem",
+                        "wave": "https://media.valorant-api.com/sounds/119342169.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
@@ -754,6 +922,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "dbe8757e-9e92-4ed4-b39f-9dfc589691d4",
                 "displayName": "Duelist",
@@ -786,7 +955,18 @@
                     "description": "INSTANTLY enter a frenzy, increasing firing, equip and reload speed dramatically. Gain infinite charges of Soul Harvest abilities. When an enemy dies to Reyna, or dies within 3 seconds of taking damage from Reyna, the duration is renewed.",
                     "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 3.430208,
+                "maxDuration": 3.430208,
+                "mediaList": [
+                    {
+                        "id": 847719523,
+                        "wwise": "https://media.valorant-api.com/sounds/847719523.wem",
+                        "wave": "https://media.valorant-api.com/sounds/847719523.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "8e253930-4c05-31dd-1b6c-968525494517",
@@ -806,6 +986,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": false,
             "role": {
                 "uuid": "4ee40330-ecdd-4f2f-98a8-eb1243428373",
                 "displayName": "Controller",
@@ -838,7 +1019,18 @@
                     "description": "EQUIP a tactical map. FIRE to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be destroyed by an enemy to cancel his teleport, or PRESS EQUIP for Omen to cancel his teleport.",
                     "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ultimate/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 3.758667,
+                "maxDuration": 3.758667,
+                "mediaList": [
+                    {
+                        "id": 717842149,
+                        "wwise": "https://media.valorant-api.com/sounds/717842149.wem",
+                        "wave": "https://media.valorant-api.com/sounds/717842149.wav"
+                    }
+                ]
+            }
         },
         {
             "uuid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
@@ -858,6 +1050,7 @@
             "isFullPortraitRightFacing": false,
             "isPlayableCharacter": true,
             "isAvailableForTest": true,
+            "isBaseContent": true,
             "role": {
                 "uuid": "dbe8757e-9e92-4ed4-b39f-9dfc589691d4",
                 "displayName": "Duelist",
@@ -896,7 +1089,18 @@
                     "description": "Holding the jump button while falling allows you to glide through the air.",
                     "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/passive/displayicon.png"
                 }
-            ]
+            ],
+            "voiceLine": {
+                "minDuration": 1.048729,
+                "maxDuration": 1.048729,
+                "mediaList": [
+                    {
+                        "id": 878055936,
+                        "wwise": "https://media.valorant-api.com/sounds/878055936.wem",
+                        "wave": "https://media.valorant-api.com/sounds/878055936.wav"
+                    }
+                ]
+            }
         }
     ]
 }

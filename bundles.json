@@ -410,6 +410,18 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_SovWorldThemeBundle_DataAsset"
         },
         {
+            "uuid": "b6b1b7ea-4a10-f810-a416-03adbb69d379",
+            "displayName": "Recon",
+            "description": "Recon",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/b6b1b7ea-4a10-f810-a416-03adbb69d379/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/b6b1b7ea-4a10-f810-a416-03adbb69d379/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/b6b1b7ea-4a10-f810-a416-03adbb69d379/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_SpecOpsThemeBundle_DataAsset"
+        },
+        {
             "uuid": "2d6ec1d9-4152-8a43-5f7f-ff96b29c857f",
             "displayName": "Ego",
             "description": "Ego",
