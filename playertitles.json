@@ -128,6 +128,27 @@
             "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act1_BP/PlayerTitle_Salty_PrimaryAsset"
         },
         {
+            "uuid": "ca0895c6-412b-0f14-0fa4-5dafb9b9fb15",
+            "displayName": "Aimbot Title",
+            "titleText": "Aimbot",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act2_BP/PlayerTitle_Aimbot_PrimaryAsset"
+        },
+        {
+            "uuid": "7c2efedc-4d1f-509a-fb02-f2af4d9395d5",
+            "displayName": "Cheap Title",
+            "titleText": "Cheap",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act2_BP/PlayerTitle_Cheap_PrimaryAsset"
+        },
+        {
+            "uuid": "5c3e2030-4d8a-a242-04b1-ff872557ebfd",
+            "displayName": "Lurker Title",
+            "titleText": "Lurker",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act2_BP/PlayerTitle_Lurker_PrimaryAsset"
+        },
+        {
             "uuid": "631f4283-48b1-1855-d646-5e8f80e29821",
             "displayName": "Day One Title",
             "titleText": "Day One",

@@ -7903,6 +7903,793 @@
                 "premiumVPCost": 1000
             },
             "assetPath": "ShooterGame/Content/Contracts/Story/Episode3/Contract_Episode3_Act1_DataAssetV2"
+        },
+        {
+            "uuid": "b0bd7062-4d62-1ff1-7920-b39622ee926b",
+            "displayName": "REFLECTION: ACT 2",
+            "displayIcon": null,
+            "shipIt": false,
+            "freeRewardScheduleUuid": "e749e020-4669-e0f7-aa0e-96b2b8625743",
+            "content": {
+                "relationType": "Season",
+                "relationUuid": "4cb622e1-4244-6da3-7276-8daaf1c01be2",
+                "chapters": [
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "0edd85d1-4589-385a-e5e2-84a55ae9860d",
+                                    "amount": 1,
+                                    "isHighlighted": true
+                                },
+                                "xp": 0,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableCharmLevel",
+                                    "uuid": "6f6b58db-4a4d-0acc-1dec-c4ab7b297529",
+                                    "amount": 1,
+                                    "isHighlighted": true
+                                },
+                                "xp": 2000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 2750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "ebaee08a-415b-eafb-f082-8386a31b8899",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 3500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "5f86ac54-46b0-806f-f200-dd89fbcd7cb9",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 4250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "PlayerCard",
+                                "uuid": "35fc50fc-4af4-f00c-5a92-768fd3cc7257",
+                                "amount": 1,
+                                "isHighlighted": false
+                            },
+                            {
+                                "type": "Title",
+                                "uuid": "7c2efedc-4d1f-509a-fb02-f2af4d9395d5",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "3fbf799a-4a5f-c37b-4bc7-b5ac4289efc4",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 5000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "c5bba4e4-4cdc-2274-a025-29bf1c8607a2",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 5750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 6500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "fd303868-4689-e5fb-a873-2fbf7946e96e",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 7250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "c779f43f-47cc-fe29-63aa-bb8b91b36e42",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 8000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "EquippableCharmLevel",
+                                "uuid": "ab9125fd-408e-d00d-1e73-7eb95cae304e",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "31f30148-4c4b-397f-adfd-008de1072104",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 8750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "1eb88a38-441f-9e7d-892d-8dac60188a0d",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 9500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 10250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableCharmLevel",
+                                    "uuid": "2872825e-47da-98e7-556b-4caa214a8289",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 11000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "07ac5e03-42e6-0fd9-b8fa-4d9f059b904f",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 11750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "Currency",
+                                "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                "amount": 1,
+                                "isHighlighted": false
+                            },
+                            {
+                                "type": "Title",
+                                "uuid": "5c3e2030-4d8a-a242-04b1-ff872557ebfd",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "03d98493-4964-3f66-7e23-7581bbcfa501",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 12500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "83bffdf0-4aa8-bcf4-7e32-a5a508cbd0f0",
+                                    "amount": 1,
+                                    "isHighlighted": true
+                                },
+                                "xp": 13250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "05a53692-4412-6598-d007-3e9d6aa8eacb",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 14000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 14750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "5fb2a965-4cd9-0564-c8b1-51895ba7718a",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 15500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "Spray",
+                                "uuid": "a8765b06-4131-5be0-575a-e288cfa904a8",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "4d9b1ba7-4b2c-2dbe-d096-1d8ccc7f19ed",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 16250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 17000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableCharmLevel",
+                                    "uuid": "71532330-4d73-4950-b7e0-2b9a00faa2ff",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 17750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "1a343da1-49f1-a191-cf62-3ba0f1d37830",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 18500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "76f9caa0-40ae-ecd2-5598-53b0beb969c7",
+                                    "amount": 1,
+                                    "isHighlighted": true
+                                },
+                                "xp": 19250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "PlayerCard",
+                                "uuid": "4137dae5-4934-dcf5-36f3-d58f45f063c2",
+                                "amount": 1,
+                                "isHighlighted": false
+                            },
+                            {
+                                "type": "Currency",
+                                "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "21493303-4fb8-a31a-f1b7-1c91192289ac",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 20000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 20750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "6d1c6efb-4214-d5a8-e78b-288b684dc897",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 21500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "0c32a7a9-4661-cfbe-7c55-3880b0231a08",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 22250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "5466bacf-446b-52a1-611d-339f6f376d40",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 23000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "EquippableCharmLevel",
+                                "uuid": "7ec4e63c-43c9-3077-a8a4-a09b2daed21f",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "55a41308-4fa5-4c3a-afda-86a61ef7ee41",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 23750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 24500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableCharmLevel",
+                                    "uuid": "205e055c-452b-fef8-3356-b8a1c000f1c0",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 25250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "c24dfff4-4204-0626-4cd2-bc9d6a09cab3",
+                                    "amount": 1,
+                                    "isHighlighted": true
+                                },
+                                "xp": 26000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "f910a11a-40ab-d799-3782-c58674f7ada0",
+                                    "amount": 1,
+                                    "isHighlighted": true
+                                },
+                                "xp": 26750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "Currency",
+                                "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                "amount": 1,
+                                "isHighlighted": false
+                            },
+                            {
+                                "type": "Title",
+                                "uuid": "ca0895c6-412b-0f14-0fa4-5dafb9b9fb15",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "df184a83-4907-a21a-e6dd-63bdc4c09aad",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 27500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableCharmLevel",
+                                    "uuid": "b3cee508-4897-6f83-4afe-1e81a78b432b",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 28250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "8216a64c-4635-9782-4003-17b1b1febce7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 29000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 29750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "d1e1f521-4c6b-a47d-6c02-f5a5de9dab48",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 30500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "Spray",
+                                "uuid": "7b7d8884-408d-42e8-065a-34bc04f61d61",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 31250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "871f4295-409e-0113-b496-ea9a9b1c4484",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 32000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "271896c9-496b-8c89-962f-59a9ed3f4ffa",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 32750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "0e8a196f-49e6-20ae-6c26-6aafa85ec319",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 33500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "f49ac94f-4965-1e13-e293-a9838b042a83",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 34250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "EquippableCharmLevel",
+                                "uuid": "dbcfa32b-49db-6c8d-0993-14bf9c856905",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "465bcd94-4f71-239f-6942-f09e8f7ea836",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 35000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableCharmLevel",
+                                    "uuid": "c5f4c423-43de-9553-456d-fbb809cfb74c",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 35750,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "10e96429-45c2-bdfd-b8af-738853690d63",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 36500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 37250,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "704a71ab-4b0e-6e03-466e-5b9ca9d987fd",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 38000,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": [
+                            {
+                                "type": "EquippableSkinLevel",
+                                "uuid": "b70db444-4ede-9cee-25dd-35b2edb38cd5",
+                                "amount": 1,
+                                "isHighlighted": false
+                            },
+                            {
+                                "type": "PlayerCard",
+                                "uuid": "aaad6093-4d27-c053-c53b-9c8a657338d1",
+                                "amount": 1,
+                                "isHighlighted": false
+                            }
+                        ]
+                    },
+                    {
+                        "isEpilogue": true,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "EquippableCharmLevel",
+                                    "uuid": "2b83da5d-450f-4ae4-41f6-bbb683dd90e0",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 36500,
+                                "vpCost": 300,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 36500,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 36500,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 36500,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "ac838a07-4a2a-f7ca-58b8-f6b1372769e9",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 36500,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            }
+                        ],
+                        "freeRewards": null
+                    }
+                ],
+                "premiumRewardScheduleUuid": "5e1e7d31-4aba-c5f1-2e5f-c2a6fffdcaad",
+                "premiumVPCost": 1000
+            },
+            "assetPath": "ShooterGame/Content/Contracts/Story/Episode3/Contract_Episode3_Act2_DataAssetV2"
         }
     ]
 }

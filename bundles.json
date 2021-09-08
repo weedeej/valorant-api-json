@@ -14,6 +14,18 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_Anime1ThemeBundle_DataAsset"
         },
         {
+            "uuid": "f7f37856-4af7-9b0e-08aa-91a5207c0439",
+            "displayName": "Spectrum",
+            "description": "Spectrum",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/f7f37856-4af7-9b0e-08aa-91a5207c0439/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/f7f37856-4af7-9b0e-08aa-91a5207c0439/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/f7f37856-4af7-9b0e-08aa-91a5207c0439/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_AtlasThemeBundle_DataAsset"
+        },
+        {
             "uuid": "0dee7ef6-d3ea-400a-b15c-5b9524243439",
             "displayName": "Avalanche",
             "description": "Avalanche",

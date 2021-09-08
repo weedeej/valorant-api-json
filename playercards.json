@@ -1355,6 +1355,149 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act1_BP/TheBigham/Playercard_TheBigham_PrimaryAsset"
         },
         {
+            "uuid": "4137dae5-4934-dcf5-36f3-d58f45f063c2",
+            "displayName": "Ascent Schema Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/4137dae5-4934-dcf5-36f3-d58f45f063c2/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/4137dae5-4934-dcf5-36f3-d58f45f063c2/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/4137dae5-4934-dcf5-36f3-d58f45f063c2/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/4137dae5-4934-dcf5-36f3-d58f45f063c2/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/AscentMapSchema/Playercard_AscentMapSchema_PrimaryAsset"
+        },
+        {
+            "uuid": "31f30148-4c4b-397f-adfd-008de1072104",
+            "displayName": "Taking Note Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/31f30148-4c4b-397f-adfd-008de1072104/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/31f30148-4c4b-397f-adfd-008de1072104/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/31f30148-4c4b-397f-adfd-008de1072104/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/31f30148-4c4b-397f-adfd-008de1072104/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/AstraSketchbook/Playercard_AstraSketchbook_PrimaryAsset"
+        },
+        {
+            "uuid": "871f4295-409e-0113-b496-ea9a9b1c4484",
+            "displayName": "Escalation Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/871f4295-409e-0113-b496-ea9a9b1c4484/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/871f4295-409e-0113-b496-ea9a9b1c4484/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/871f4295-409e-0113-b496-ea9a9b1c4484/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/871f4295-409e-0113-b496-ea9a9b1c4484/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/Escalation/Playercard_Escalation_PrimaryAsset"
+        },
+        {
+            "uuid": "35fc50fc-4af4-f00c-5a92-768fd3cc7257",
+            "displayName": "Falcon Firearms Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/35fc50fc-4af4-f00c-5a92-768fd3cc7257/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/35fc50fc-4af4-f00c-5a92-768fd3cc7257/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/35fc50fc-4af4-f00c-5a92-768fd3cc7257/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/35fc50fc-4af4-f00c-5a92-768fd3cc7257/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/FalconSchema/Playercard_FalconSchema_PrimaryAsset"
+        },
+        {
+            "uuid": "ebaee08a-415b-eafb-f082-8386a31b8899",
+            "displayName": "Rainfall Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/ebaee08a-415b-eafb-f082-8386a31b8899/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/ebaee08a-415b-eafb-f082-8386a31b8899/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/ebaee08a-415b-eafb-f082-8386a31b8899/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/ebaee08a-415b-eafb-f082-8386a31b8899/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/KilljoyInRainyBerlin/Playercard_KilljoyInRainyBerlin_PrimaryAsset"
+        },
+        {
+            "uuid": "10e96429-45c2-bdfd-b8af-738853690d63",
+            "displayName": "Manifest Elegance Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/10e96429-45c2-bdfd-b8af-738853690d63/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/10e96429-45c2-bdfd-b8af-738853690d63/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/10e96429-45c2-bdfd-b8af-738853690d63/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/10e96429-45c2-bdfd-b8af-738853690d63/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/NiceWatch/Playercard_NiceWatch_PrimaryAsset"
+        },
+        {
+            "uuid": "aaad6093-4d27-c053-c53b-9c8a657338d1",
+            "displayName": "Versus // Phoenix + Phoenix Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/aaad6093-4d27-c053-c53b-9c8a657338d1/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/aaad6093-4d27-c053-c53b-9c8a657338d1/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/aaad6093-4d27-c053-c53b-9c8a657338d1/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/aaad6093-4d27-c053-c53b-9c8a657338d1/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/PhoenixVsPhoenix/Playercard_PhoenixVsPhoenix_PrimaryAsset"
+        },
+        {
+            "uuid": "0c32a7a9-4661-cfbe-7c55-3880b0231a08",
+            "displayName": "Artisan Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/0c32a7a9-4661-cfbe-7c55-3880b0231a08/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/0c32a7a9-4661-cfbe-7c55-3880b0231a08/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/0c32a7a9-4661-cfbe-7c55-3880b0231a08/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/0c32a7a9-4661-cfbe-7c55-3880b0231a08/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/Porcelain/Playercard_Porcelain_PrimaryAsset"
+        },
+        {
+            "uuid": "83bffdf0-4aa8-bcf4-7e32-a5a508cbd0f0",
+            "displayName": "Unstoppable // Reyna Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/83bffdf0-4aa8-bcf4-7e32-a5a508cbd0f0/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/83bffdf0-4aa8-bcf4-7e32-a5a508cbd0f0/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/83bffdf0-4aa8-bcf4-7e32-a5a508cbd0f0/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/83bffdf0-4aa8-bcf4-7e32-a5a508cbd0f0/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/PowerFantasyReyna/Playercard_PowerFantasyReyna_PrimaryAsset"
+        },
+        {
+            "uuid": "55a41308-4fa5-4c3a-afda-86a61ef7ee41",
+            "displayName": "100% Aimbot Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/PrimeAimbotAd/Playercard_PrimeAimbotAd_PrimaryAsset"
+        },
+        {
+            "uuid": "fd303868-4689-e5fb-a873-2fbf7946e96e",
+            "displayName": "Skin Bait Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/fd303868-4689-e5fb-a873-2fbf7946e96e/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/fd303868-4689-e5fb-a873-2fbf7946e96e/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/fd303868-4689-e5fb-a873-2fbf7946e96e/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/fd303868-4689-e5fb-a873-2fbf7946e96e/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/SkinBait/Playercard_SkinBait_PrimaryAsset"
+        },
+        {
+            "uuid": "ac838a07-4a2a-f7ca-58b8-f6b1372769e9",
+            "displayName": "Epilogue: Skin Bait Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/ac838a07-4a2a-f7ca-58b8-f6b1372769e9/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/ac838a07-4a2a-f7ca-58b8-f6b1372769e9/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/ac838a07-4a2a-f7ca-58b8-f6b1372769e9/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/ac838a07-4a2a-f7ca-58b8-f6b1372769e9/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/SkinBaitGold/Playercard_SkinBaitGold_PrimaryAsset"
+        },
+        {
+            "uuid": "8216a64c-4635-9782-4003-17b1b1febce7",
+            "displayName": "Teknika Firearms Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/8216a64c-4635-9782-4003-17b1b1febce7/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/8216a64c-4635-9782-4003-17b1b1febce7/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/8216a64c-4635-9782-4003-17b1b1febce7/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/8216a64c-4635-9782-4003-17b1b1febce7/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/TeknikaSchema/Playercard_TeknikaSchema_PrimaryAsset"
+        },
+        {
             "uuid": "bab9caaa-4913-2704-833e-8c89e2128eb9",
             "displayName": "EP 1 // IGNITION Card",
             "isHiddenIfNotOwned": false,
@@ -1584,6 +1727,17 @@
             "wideArt": "https://media.valorant-api.com/playercards/9df9aa67-4ff7-988d-cf72-599a7d5fe2bf/wideart.png",
             "largeArt": "https://media.valorant-api.com/playercards/9df9aa67-4ff7-988d-cf72-599a7d5fe2bf/largeart.png",
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Anime/Anime_Sage/Playercard_Anime_Sage_PrimaryAsset"
+        },
+        {
+            "uuid": "006e03e5-4fdb-c400-4c5b-5f815980f403",
+            "displayName": "Spectrum Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/006e03e5-4fdb-c400-4c5b-5f815980f403/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/006e03e5-4fdb-c400-4c5b-5f815980f403/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/006e03e5-4fdb-c400-4c5b-5f815980f403/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/006e03e5-4fdb-c400-4c5b-5f815980f403/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Atlas/Playercard_Atlas_PrimaryAsset"
         },
         {
             "uuid": "3c930c58-4f56-1a14-6397-c3bd42f31955",
