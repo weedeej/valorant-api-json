@@ -14,6 +14,18 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_Anime1ThemeBundle_DataAsset"
         },
         {
+            "uuid": "5c8b9297-465f-080c-3c0d-c9b9811432ed",
+            "displayName": "VALORANT GO! Vol. 2",
+            "description": "VALORANT GO! Vol. 2",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/5c8b9297-465f-080c-3c0d-c9b9811432ed/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/5c8b9297-465f-080c-3c0d-c9b9811432ed/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/5c8b9297-465f-080c-3c0d-c9b9811432ed/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_Anime1_1ThemeBundle_DataAsset"
+        },
+        {
             "uuid": "f7f37856-4af7-9b0e-08aa-91a5207c0439",
             "displayName": "Spectrum",
             "description": "Spectrum",

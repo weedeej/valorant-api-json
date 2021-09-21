@@ -1729,6 +1729,61 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Anime/Anime_Sage/Playercard_Anime_Sage_PrimaryAsset"
         },
         {
+            "uuid": "7c41a772-4af0-aa8a-1f6d-4cbece76eab6",
+            "displayName": "VALORANT GO! Vol. 2 Phoenix Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/7c41a772-4af0-aa8a-1f6d-4cbece76eab6/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/7c41a772-4af0-aa8a-1f6d-4cbece76eab6/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/7c41a772-4af0-aa8a-1f6d-4cbece76eab6/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/7c41a772-4af0-aa8a-1f6d-4cbece76eab6/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Anime1-1/Anime1-1Phoenix/Playercard_Anime1-1Phoenix_PrimaryAsset"
+        },
+        {
+            "uuid": "a66cce42-4ecd-1999-9700-e387eb8cbe00",
+            "displayName": "VALORANT GO! Vol. 2 Raze Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/a66cce42-4ecd-1999-9700-e387eb8cbe00/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/a66cce42-4ecd-1999-9700-e387eb8cbe00/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/a66cce42-4ecd-1999-9700-e387eb8cbe00/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/a66cce42-4ecd-1999-9700-e387eb8cbe00/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Anime1-1/Anime1-1Raze/Playercard_Anime1-1Raze_PrimaryAsset"
+        },
+        {
+            "uuid": "9e127cdf-4cb5-62e1-69a1-629227bf85c7",
+            "displayName": "VALORANT GO! Vol. 2 Sova Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/9e127cdf-4cb5-62e1-69a1-629227bf85c7/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/9e127cdf-4cb5-62e1-69a1-629227bf85c7/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/9e127cdf-4cb5-62e1-69a1-629227bf85c7/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/9e127cdf-4cb5-62e1-69a1-629227bf85c7/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Anime1-1/Anime1-1Sova/Playercard_Anime1-1Sova_PrimaryAsset"
+        },
+        {
+            "uuid": "a9793f93-4d99-c441-39f0-4cbd56b7e7c9",
+            "displayName": "VALORANT GO! Vol. 2 Viper Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/a9793f93-4d99-c441-39f0-4cbd56b7e7c9/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/a9793f93-4d99-c441-39f0-4cbd56b7e7c9/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/a9793f93-4d99-c441-39f0-4cbd56b7e7c9/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/a9793f93-4d99-c441-39f0-4cbd56b7e7c9/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Anime1-1/Anime1-1Viper/Playercard_Anime1-1Viper_PrimaryAsset"
+        },
+        {
+            "uuid": "b55ec859-4533-c751-a1d8-b1bba5c16387",
+            "displayName": "VALORANT GO! Vol. 2 Yoru Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/b55ec859-4533-c751-a1d8-b1bba5c16387/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/b55ec859-4533-c751-a1d8-b1bba5c16387/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/b55ec859-4533-c751-a1d8-b1bba5c16387/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/b55ec859-4533-c751-a1d8-b1bba5c16387/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Anime1-1/Anime1-1Yoru/Playercard_Anime1-1Yoru_PrimaryAsset"
+        },
+        {
             "uuid": "006e03e5-4fdb-c400-4c5b-5f815980f403",
             "displayName": "Spectrum Card",
             "isHiddenIfNotOwned": false,

@@ -3080,6 +3080,101 @@
             ]
         },
         {
+            "uuid": "a7e1a9b6-4ab5-e6f7-e5fe-bc86f87b44ee",
+            "displayName": "VALORANT GO! Vol. 2 Phoenix Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/a7e1a9b6-4ab5-e6f7-e5fe-bc86f87b44ee/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/a7e1a9b6-4ab5-e6f7-e5fe-bc86f87b44ee/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/a7e1a9b6-4ab5-e6f7-e5fe-bc86f87b44ee/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Phoenix/Anime1-1_Phoenix_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "3757e1d6-4a14-b4be-96e5-41aa55d335b5",
+                    "sprayLevel": 1,
+                    "displayName": "Anime1-1_Phoenix",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/3757e1d6-4a14-b4be-96e5-41aa55d335b5/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Phoenix/Anime1-1_Phoenix_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "09786b0a-4c3e-5ba8-46ab-c49255620a5f",
+            "displayName": "VALORANT GO! Vol. 2 Raze Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/09786b0a-4c3e-5ba8-46ab-c49255620a5f/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/09786b0a-4c3e-5ba8-46ab-c49255620a5f/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/09786b0a-4c3e-5ba8-46ab-c49255620a5f/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Raze/Anime1-1_Raze_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "705ea366-48c2-657a-e41a-06a4a222c4ff",
+                    "sprayLevel": 1,
+                    "displayName": "Anime1-1_Raze",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/705ea366-48c2-657a-e41a-06a4a222c4ff/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Raze/Anime1-1_Raze_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "7b0e0c8d-4f91-2a76-19b9-079def2fa843",
+            "displayName": "VALORANT GO! Vol. 2 Sova Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/7b0e0c8d-4f91-2a76-19b9-079def2fa843/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/7b0e0c8d-4f91-2a76-19b9-079def2fa843/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/7b0e0c8d-4f91-2a76-19b9-079def2fa843/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Sova/Anime1-1_Sova_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "360256ab-4ec3-1b6f-fe7f-a0b40703d4e1",
+                    "sprayLevel": 1,
+                    "displayName": "Anime1-1_Sova",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/360256ab-4ec3-1b6f-fe7f-a0b40703d4e1/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Sova/Anime1-1_Sova_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "ea087a08-4b9f-bd0d-15a5-d3ba09c4c381",
+            "displayName": "VALORANT GO! Vol. 2 Viper Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/ea087a08-4b9f-bd0d-15a5-d3ba09c4c381/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/ea087a08-4b9f-bd0d-15a5-d3ba09c4c381/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/ea087a08-4b9f-bd0d-15a5-d3ba09c4c381/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Viper/Anime1-1_Viper_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "e5938dd7-4455-c18e-224b-0d8c4caa2314",
+                    "sprayLevel": 1,
+                    "displayName": "Anime1-1_Viper",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/e5938dd7-4455-c18e-224b-0d8c4caa2314/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Viper/Anime1-1_Viper_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "40ff9251-4c11-b729-1f27-088ee032e7ce",
+            "displayName": "VALORANT GO! Vol. 2 Yoru Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/40ff9251-4c11-b729-1f27-088ee032e7ce/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/40ff9251-4c11-b729-1f27-088ee032e7ce/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/40ff9251-4c11-b729-1f27-088ee032e7ce/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Yoru/Anime1-1_Yoru_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "b107a08c-4fc6-df0a-1605-a9ba7f49170e",
+                    "sprayLevel": 1,
+                    "displayName": "Anime1-1_Yoru",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/b107a08c-4fc6-df0a-1605-a9ba7f49170e/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Skinline_Sprays/Anime1-1/Anime1-1_Yoru/Anime1-1_Yoru_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "c495e583-42d5-e9fe-c460-9f946ff369f6",
             "displayName": "Origin Spray",
             "category": null,

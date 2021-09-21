@@ -3,7 +3,7 @@
         {
             "OfferID": "4845a7ab-4120-ae1c-aec1-9e915a7424b1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441177755Z",
+            "StartDate": "2021-09-20T17:12:14.057466492Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -18,7 +18,7 @@
         {
             "OfferID": "61f62d77-4f80-7664-2ea9-538f6fc4b241",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441179187Z",
+            "StartDate": "2021-09-20T17:12:14.057467355Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -33,7 +33,7 @@
         {
             "OfferID": "c59442a5-4b74-792c-d996-71a5fb340625",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441179461Z",
+            "StartDate": "2021-09-20T17:12:14.057467549Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -48,7 +48,7 @@
         {
             "OfferID": "b6e6ea9e-432d-ec17-904e-62a5ea45f1a7",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441179777Z",
+            "StartDate": "2021-09-20T17:12:14.057467737Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -63,7 +63,7 @@
         {
             "OfferID": "d8c9fee3-4e02-bc92-a235-608a556905ae",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441180032Z",
+            "StartDate": "2021-09-20T17:12:14.057467939Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2475
             },
@@ -78,7 +78,7 @@
         {
             "OfferID": "167481de-4732-b44a-06ad-938625015abe",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441180242Z",
+            "StartDate": "2021-09-20T17:12:14.057468122Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -93,7 +93,7 @@
         {
             "OfferID": "249b0e46-4a11-f045-51bb-649151cd802a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44118046Z",
+            "StartDate": "2021-09-20T17:12:14.057468302Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -108,7 +108,7 @@
         {
             "OfferID": "c1326ee3-47af-d823-6686-618e1bcdf0c6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441191609Z",
+            "StartDate": "2021-09-20T17:12:14.057468482Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -123,7 +123,7 @@
         {
             "OfferID": "e57317ac-4a93-50a9-30e9-93a098513fa9",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441191845Z",
+            "StartDate": "2021-09-20T17:12:14.05746868Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1750
             },
@@ -138,7 +138,7 @@
         {
             "OfferID": "9d501eec-4084-5d44-32ef-6e8ed5b0ed49",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441192081Z",
+            "StartDate": "2021-09-20T17:12:14.057468863Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -153,7 +153,7 @@
         {
             "OfferID": "3b955119-421c-3319-50cc-1aaf06b42338",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441192293Z",
+            "StartDate": "2021-09-20T17:12:14.057469047Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -168,7 +168,7 @@
         {
             "OfferID": "7a0374af-42f5-2f99-b535-a997f2179717",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441192599Z",
+            "StartDate": "2021-09-20T17:12:14.057469233Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -183,7 +183,7 @@
         {
             "OfferID": "fbe265cf-4e3d-9891-791e-5089f1f7f102",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441192819Z",
+            "StartDate": "2021-09-20T17:12:14.057469417Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -198,7 +198,7 @@
         {
             "OfferID": "df3adf8c-4fa3-5f57-544d-eabf8b68713d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441193051Z",
+            "StartDate": "2021-09-20T17:12:14.057469598Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -213,7 +213,7 @@
         {
             "OfferID": "f27623a6-40de-20b9-17b5-c5bed27453a7",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441193265Z",
+            "StartDate": "2021-09-20T17:12:14.05746978Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 4350
             },
@@ -228,7 +228,7 @@
         {
             "OfferID": "9df9aa67-4ff7-988d-cf72-599a7d5fe2bf",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441193481Z",
+            "StartDate": "2021-09-20T17:12:14.057469964Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -243,7 +243,7 @@
         {
             "OfferID": "8eb39b3d-443e-05e7-b8ec-6aa210da6e2e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441193699Z",
+            "StartDate": "2021-09-20T17:12:14.057470149Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -258,7 +258,7 @@
         {
             "OfferID": "ea65ba94-468d-39a8-5ded-98820d72d19f",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441193907Z",
+            "StartDate": "2021-09-20T17:12:14.057470331Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2475
             },
@@ -273,7 +273,7 @@
         {
             "OfferID": "f35f6e13-4b7b-da38-c0de-5c91fffd584b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441194135Z",
+            "StartDate": "2021-09-20T17:12:14.057470517Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -288,7 +288,7 @@
         {
             "OfferID": "547c3aa6-4e86-199c-b190-01b75287f30b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441194351Z",
+            "StartDate": "2021-09-20T17:12:14.057470697Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -303,7 +303,7 @@
         {
             "OfferID": "02f4c1db-46bb-a572-e830-0886edbb0981",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441194567Z",
+            "StartDate": "2021-09-20T17:12:14.057470885Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -318,7 +318,7 @@
         {
             "OfferID": "03b6fbf7-4228-0712-3d91-da847f958b1b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441194767Z",
+            "StartDate": "2021-09-20T17:12:14.057471073Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -333,7 +333,7 @@
         {
             "OfferID": "41fbc848-4ab5-0b1b-7746-20ad95b310ae",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441194982Z",
+            "StartDate": "2021-09-20T17:12:14.057471257Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -348,7 +348,7 @@
         {
             "OfferID": "21ceb4b1-480f-dddb-1422-8aad73519181",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441195201Z",
+            "StartDate": "2021-09-20T17:12:14.057471442Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -363,7 +363,7 @@
         {
             "OfferID": "d6e93360-46a2-0103-afa0-8b91e78b6fe8",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441195415Z",
+            "StartDate": "2021-09-20T17:12:14.057471625Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -378,7 +378,7 @@
         {
             "OfferID": "0ff7ff25-42cf-769a-4e6d-bd833121302d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441195628Z",
+            "StartDate": "2021-09-20T17:12:14.057471807Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -393,7 +393,7 @@
         {
             "OfferID": "5ff3a862-4e89-84dd-6e47-bda2cd2a5cec",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441195838Z",
+            "StartDate": "2021-09-20T17:12:14.057471994Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -408,7 +408,7 @@
         {
             "OfferID": "4fcea818-4877-85f9-ba01-a0b02e1868f4",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44119606Z",
+            "StartDate": "2021-09-20T17:12:14.057472185Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -423,7 +423,7 @@
         {
             "OfferID": "d0c07243-4afa-decc-7c5b-4b994f1321ee",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441196276Z",
+            "StartDate": "2021-09-20T17:12:14.05747237Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -438,7 +438,7 @@
         {
             "OfferID": "ea441610-42da-e46f-8d7b-1b9759c105cd",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441196485Z",
+            "StartDate": "2021-09-20T17:12:14.057472555Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 4350
             },
@@ -453,7 +453,7 @@
         {
             "OfferID": "636722a7-4149-8319-c15e-14b17c2c47d1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441196697Z",
+            "StartDate": "2021-09-20T17:12:14.057472734Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -468,7 +468,7 @@
         {
             "OfferID": "291cb44a-410d-b035-4d0b-608a92c2cd91",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441196911Z",
+            "StartDate": "2021-09-20T17:12:14.057472914Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -483,7 +483,7 @@
         {
             "OfferID": "6e3d1cd3-4494-8b21-cbc7-0797e8de75db",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441197127Z",
+            "StartDate": "2021-09-20T17:12:14.057473093Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -498,7 +498,7 @@
         {
             "OfferID": "549b06bb-4704-25ce-19d5-c9b70b10de19",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441197337Z",
+            "StartDate": "2021-09-20T17:12:14.05747328Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -513,7 +513,7 @@
         {
             "OfferID": "31da3ec9-4eb0-ce9f-fcbb-e09ec626e748",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441197546Z",
+            "StartDate": "2021-09-20T17:12:14.057473466Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -528,7 +528,7 @@
         {
             "OfferID": "52d88add-4269-97c1-fde3-36bcac1a436a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441197758Z",
+            "StartDate": "2021-09-20T17:12:14.057473652Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -543,7 +543,7 @@
         {
             "OfferID": "405beaef-4c2d-df2d-fe9d-689d59d08e65",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441197971Z",
+            "StartDate": "2021-09-20T17:12:14.057473837Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -558,7 +558,7 @@
         {
             "OfferID": "31ba7f82-4fcb-4cbb-a719-06a3beef8603",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441198187Z",
+            "StartDate": "2021-09-20T17:12:14.057474022Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -573,7 +573,7 @@
         {
             "OfferID": "30423af3-42f9-d0ba-dee5-0b93704b39c8",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.4411984Z",
+            "StartDate": "2021-09-20T17:12:14.057474203Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -588,7 +588,7 @@
         {
             "OfferID": "26eee656-4f8d-bdd3-e4fe-ae9e808a3408",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441198616Z",
+            "StartDate": "2021-09-20T17:12:14.057474383Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -603,7 +603,7 @@
         {
             "OfferID": "92ac6212-486a-03fb-b72d-18bde165f7cd",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441198825Z",
+            "StartDate": "2021-09-20T17:12:14.057474566Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -618,7 +618,7 @@
         {
             "OfferID": "d1d528ae-4dcc-e693-68e2-e8a475df83a4",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441199042Z",
+            "StartDate": "2021-09-20T17:12:14.057474749Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -633,7 +633,7 @@
         {
             "OfferID": "04dbf8e5-44fc-73f7-0655-8ca05a47739c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441199252Z",
+            "StartDate": "2021-09-20T17:12:14.057474933Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -648,7 +648,7 @@
         {
             "OfferID": "8a1b2c5b-4692-78ae-9d5c-cdac6a61e4f4",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441199489Z",
+            "StartDate": "2021-09-20T17:12:14.057475118Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -663,7 +663,7 @@
         {
             "OfferID": "ed95e342-4116-f07c-88b9-368a5fadb224",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441199705Z",
+            "StartDate": "2021-09-20T17:12:14.057475302Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -678,7 +678,7 @@
         {
             "OfferID": "03e03718-4c65-8a47-fb8b-78ba233cecd1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441200033Z",
+            "StartDate": "2021-09-20T17:12:14.057475483Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -693,7 +693,7 @@
         {
             "OfferID": "4a5ad8cd-4684-a47c-b393-ce9c6760d21a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441200242Z",
+            "StartDate": "2021-09-20T17:12:14.057475667Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -708,7 +708,7 @@
         {
             "OfferID": "49b00063-4a7e-6c73-b8c9-68a8d5727757",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441200469Z",
+            "StartDate": "2021-09-20T17:12:14.057475872Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -723,7 +723,7 @@
         {
             "OfferID": "ef564ec3-497c-3038-543e-eb94bbe46437",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441200677Z",
+            "StartDate": "2021-09-20T17:12:14.057476055Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -738,7 +738,7 @@
         {
             "OfferID": "ec3745c4-432a-8173-8150-cfbb4841c121",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441200895Z",
+            "StartDate": "2021-09-20T17:12:14.057476242Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -753,7 +753,7 @@
         {
             "OfferID": "d0fda3cb-454c-e81d-94e4-42942c99f02d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441201109Z",
+            "StartDate": "2021-09-20T17:12:14.057476425Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -768,7 +768,7 @@
         {
             "OfferID": "d7a02a43-47a5-556c-a69f-ec9cf6ede66d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441201322Z",
+            "StartDate": "2021-09-20T17:12:14.05747661Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -783,7 +783,7 @@
         {
             "OfferID": "b577585f-4171-19a1-2899-848460de8089",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441201537Z",
+            "StartDate": "2021-09-20T17:12:14.057476796Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2550
             },
@@ -798,7 +798,7 @@
         {
             "OfferID": "9336ab9d-445c-0872-a283-9f9b61a0098a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441201743Z",
+            "StartDate": "2021-09-20T17:12:14.057477001Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -813,7 +813,7 @@
         {
             "OfferID": "6d4766d0-41f0-8493-93eb-a4902a0c6034",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441201953Z",
+            "StartDate": "2021-09-20T17:12:14.057477186Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -828,7 +828,7 @@
         {
             "OfferID": "d59590fa-4389-125a-6c53-c7bd026acb01",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441202167Z",
+            "StartDate": "2021-09-20T17:12:14.057477365Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -843,7 +843,7 @@
         {
             "OfferID": "353c1e5f-4258-c49a-c0d6-319ad33bffea",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441202377Z",
+            "StartDate": "2021-09-20T17:12:14.057477546Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -858,7 +858,7 @@
         {
             "OfferID": "5a773352-456e-ef0b-35ab-c99ead159264",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441202584Z",
+            "StartDate": "2021-09-20T17:12:14.057477729Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -873,7 +873,7 @@
         {
             "OfferID": "8f8f82f4-4133-82c9-50b2-3c9c67e0f9fb",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441202799Z",
+            "StartDate": "2021-09-20T17:12:14.057477912Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -888,7 +888,7 @@
         {
             "OfferID": "46048768-4499-72f7-820b-7cbe1d4ad844",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441203011Z",
+            "StartDate": "2021-09-20T17:12:14.057478095Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -903,7 +903,7 @@
         {
             "OfferID": "a14fa0b5-4b03-2ad9-3b0e-a3ac6a0b033b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441203229Z",
+            "StartDate": "2021-09-20T17:12:14.057478284Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -918,7 +918,7 @@
         {
             "OfferID": "fef66645-4e35-ff38-1b7c-799dd5fc7468",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441203439Z",
+            "StartDate": "2021-09-20T17:12:14.057478469Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -933,7 +933,7 @@
         {
             "OfferID": "5546f723-4056-6700-80b8-f1b8d42e4952",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441203647Z",
+            "StartDate": "2021-09-20T17:12:14.057478652Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -948,7 +948,7 @@
         {
             "OfferID": "369c7cda-4133-b3ab-2c8b-3e8f371cb181",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441203859Z",
+            "StartDate": "2021-09-20T17:12:14.057478834Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -963,7 +963,7 @@
         {
             "OfferID": "880d5de5-4268-769d-5407-55921ad2db12",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441204098Z",
+            "StartDate": "2021-09-20T17:12:14.057479017Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -978,7 +978,7 @@
         {
             "OfferID": "f987be1f-4287-35a4-34a9-d6a92805e7ff",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441204312Z",
+            "StartDate": "2021-09-20T17:12:14.057479202Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -993,7 +993,7 @@
         {
             "OfferID": "7b534393-40b0-38d0-1ffc-2b8b78708264",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441204527Z",
+            "StartDate": "2021-09-20T17:12:14.057479386Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -1008,7 +1008,7 @@
         {
             "OfferID": "73e91435-4a2a-2552-d541-eb961e168f2c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441204742Z",
+            "StartDate": "2021-09-20T17:12:14.057479572Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -1023,7 +1023,7 @@
         {
             "OfferID": "2dd042e4-409e-c8ed-ec76-758529e49d99",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441204953Z",
+            "StartDate": "2021-09-20T17:12:14.057479755Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1038,7 +1038,7 @@
         {
             "OfferID": "6c56e968-4b9c-c9d6-068a-109a03b13866",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441205167Z",
+            "StartDate": "2021-09-20T17:12:14.05747994Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -1053,7 +1053,7 @@
         {
             "OfferID": "1b300b91-41bb-d468-f65f-f68ec0861bd6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441205385Z",
+            "StartDate": "2021-09-20T17:12:14.057480124Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1068,7 +1068,7 @@
         {
             "OfferID": "7302d465-46cd-2a43-655f-93aee59030db",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441205599Z",
+            "StartDate": "2021-09-20T17:12:14.057480309Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -1083,7 +1083,7 @@
         {
             "OfferID": "c9678d8c-4327-f397-b0ec-dca3c3d6fb15",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441205819Z",
+            "StartDate": "2021-09-20T17:12:14.057480493Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1098,7 +1098,7 @@
         {
             "OfferID": "a89bd44e-4b47-7ce1-27a6-0189c1ad8c2f",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441206032Z",
+            "StartDate": "2021-09-20T17:12:14.057480679Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -1113,7 +1113,7 @@
         {
             "OfferID": "9fbe39c6-42d7-b1db-9048-f0951ce2ff94",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441206243Z",
+            "StartDate": "2021-09-20T17:12:14.057480861Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1128,7 +1128,7 @@
         {
             "OfferID": "b01739f3-4da9-0792-aa40-1094bc99e34d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441206456Z",
+            "StartDate": "2021-09-20T17:12:14.057481045Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -1143,7 +1143,7 @@
         {
             "OfferID": "9dc0bdd7-4d88-9360-38d6-3ea62b1daaca",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441206667Z",
+            "StartDate": "2021-09-20T17:12:14.057481231Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1158,7 +1158,7 @@
         {
             "OfferID": "66f68f67-4f5e-8188-8ba8-b183e25e93e7",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44120688Z",
+            "StartDate": "2021-09-20T17:12:14.057481414Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1173,7 +1173,7 @@
         {
             "OfferID": "c5dd6298-4928-5d64-5cd0-7fa41ea89d81",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441207092Z",
+            "StartDate": "2021-09-20T17:12:14.057481599Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1188,7 +1188,7 @@
         {
             "OfferID": "a83ac09d-4c19-fda6-8e4d-c1b77dc2b479",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.4412073Z",
+            "StartDate": "2021-09-20T17:12:14.057481787Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1203,7 +1203,7 @@
         {
             "OfferID": "b8bc5d1b-44aa-aa83-0246-b1a6bb496177",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441207509Z",
+            "StartDate": "2021-09-20T17:12:14.057481971Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -1218,7 +1218,7 @@
         {
             "OfferID": "80bbcdff-4b2c-2370-0806-498c0f4e1d06",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441207728Z",
+            "StartDate": "2021-09-20T17:12:14.057482164Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -1233,7 +1233,7 @@
         {
             "OfferID": "9a657204-4376-ed61-ad3e-0a8b7bbecd18",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441207939Z",
+            "StartDate": "2021-09-20T17:12:14.057482345Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -1248,7 +1248,7 @@
         {
             "OfferID": "4c053776-467f-2c6a-b609-0ba3ea371a14",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441208149Z",
+            "StartDate": "2021-09-20T17:12:14.057482524Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1263,7 +1263,7 @@
         {
             "OfferID": "5c273d0e-47fa-bb8c-d914-728de95da30e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441208358Z",
+            "StartDate": "2021-09-20T17:12:14.057482709Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2475
             },
@@ -1278,7 +1278,7 @@
         {
             "OfferID": "2484e328-45e9-a5c0-960f-ad8b0f620d0e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44120857Z",
+            "StartDate": "2021-09-20T17:12:14.057482891Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -1293,7 +1293,7 @@
         {
             "OfferID": "df639108-4e9d-7fc1-51da-4dbb810ba011",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441208786Z",
+            "StartDate": "2021-09-20T17:12:14.057483075Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1308,7 +1308,7 @@
         {
             "OfferID": "90fe45d6-41ea-1c49-8fb9-46b0e98c0077",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441209002Z",
+            "StartDate": "2021-09-20T17:12:14.057483272Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -1323,7 +1323,7 @@
         {
             "OfferID": "079f6046-49c3-72e3-bcfa-a5b6d01910dc",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441209214Z",
+            "StartDate": "2021-09-20T17:12:14.057483455Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1338,7 +1338,7 @@
         {
             "OfferID": "9ff1a0e6-4f74-0e6d-9117-de8683db4eb5",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441209501Z",
+            "StartDate": "2021-09-20T17:12:14.057483637Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1353,7 +1353,7 @@
         {
             "OfferID": "c2f90c55-49be-93a5-daf4-6393d9d3f6fc",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441209715Z",
+            "StartDate": "2021-09-20T17:12:14.057483821Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -1368,7 +1368,7 @@
         {
             "OfferID": "0d73596b-478a-dae0-49ca-2fa588f78f13",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441209999Z",
+            "StartDate": "2021-09-20T17:12:14.057484006Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1383,7 +1383,7 @@
         {
             "OfferID": "755d86a0-4b1c-5c8b-9238-e5be850ba001",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44121021Z",
+            "StartDate": "2021-09-20T17:12:14.057484187Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1398,7 +1398,7 @@
         {
             "OfferID": "4e4ebb8d-41d0-c326-595a-1f9b257e91fa",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441210419Z",
+            "StartDate": "2021-09-20T17:12:14.057484371Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1413,7 +1413,7 @@
         {
             "OfferID": "ed333b00-4e88-a9c5-d309-acae85438e93",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44121063Z",
+            "StartDate": "2021-09-20T17:12:14.057484551Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -1428,7 +1428,7 @@
         {
             "OfferID": "3710f62c-4e0c-65fd-848d-8da25d2fb833",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441210843Z",
+            "StartDate": "2021-09-20T17:12:14.057484734Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -1443,7 +1443,7 @@
         {
             "OfferID": "5a0cd3b5-4249-bf6f-d009-17a81532660e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441211059Z",
+            "StartDate": "2021-09-20T17:12:14.057484914Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1458,7 +1458,7 @@
         {
             "OfferID": "4b74b3ee-4a63-7339-a28f-8b8be010ca5a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441211271Z",
+            "StartDate": "2021-09-20T17:12:14.057485097Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -1473,7 +1473,7 @@
         {
             "OfferID": "8bbdc250-4ffc-f6ba-61a0-0d84c4756a4e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441211485Z",
+            "StartDate": "2021-09-20T17:12:14.057485277Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -1488,7 +1488,7 @@
         {
             "OfferID": "290565e7-4540-5764-31da-758846dc2a5a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441211699Z",
+            "StartDate": "2021-09-20T17:12:14.057485462Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -1503,7 +1503,7 @@
         {
             "OfferID": "bfa14167-42c6-a2e5-c406-1ea4289cc3d1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441211913Z",
+            "StartDate": "2021-09-20T17:12:14.057485644Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -1518,7 +1518,7 @@
         {
             "OfferID": "f4bfff96-487a-cf9e-08cc-d590d962c4e6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441212123Z",
+            "StartDate": "2021-09-20T17:12:14.057485826Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -1533,7 +1533,7 @@
         {
             "OfferID": "5123ed96-48de-aeab-eaea-2b8ea689f5a2",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441212333Z",
+            "StartDate": "2021-09-20T17:12:14.057486011Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -1548,7 +1548,7 @@
         {
             "OfferID": "fee2c305-40d1-1cca-08b8-46bceda98eca",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441212545Z",
+            "StartDate": "2021-09-20T17:12:14.057486196Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1563,7 +1563,7 @@
         {
             "OfferID": "8975b579-4df4-4b31-4ff0-5db942480054",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441212758Z",
+            "StartDate": "2021-09-20T17:12:14.057486377Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -1578,7 +1578,7 @@
         {
             "OfferID": "65239071-41a8-34d2-cf45-bc8da80b42f0",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441212971Z",
+            "StartDate": "2021-09-20T17:12:14.057486561Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -1593,7 +1593,7 @@
         {
             "OfferID": "b2128a8c-49bd-09b1-7b4c-f2b9d2f92508",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441213183Z",
+            "StartDate": "2021-09-20T17:12:14.057486743Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -1608,7 +1608,7 @@
         {
             "OfferID": "ed8a1109-4e48-f077-636b-e98dd332bfcc",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441213396Z",
+            "StartDate": "2021-09-20T17:12:14.05748693Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1623,7 +1623,7 @@
         {
             "OfferID": "25cb63cd-416e-ab23-2377-d18638679871",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441213647Z",
+            "StartDate": "2021-09-20T17:12:14.057487116Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -1638,7 +1638,7 @@
         {
             "OfferID": "3aeef60b-48fb-02aa-31b1-068aeb351213",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441213852Z",
+            "StartDate": "2021-09-20T17:12:14.057487299Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1653,7 +1653,7 @@
         {
             "OfferID": "735e6c3c-4899-532d-60cf-1ba0ce1a450d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441214065Z",
+            "StartDate": "2021-09-20T17:12:14.057487485Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -1668,7 +1668,7 @@
         {
             "OfferID": "642ee168-4f9e-1f5f-be72-01b3a41ac086",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441214278Z",
+            "StartDate": "2021-09-20T17:12:14.057487668Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -1683,7 +1683,7 @@
         {
             "OfferID": "d92a6ee6-4073-8b7f-e944-f1a55606a28a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441214489Z",
+            "StartDate": "2021-09-20T17:12:14.057487853Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -1698,7 +1698,7 @@
         {
             "OfferID": "f2ef87c7-4ff5-54f8-e038-cea4e54eefdd",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441214701Z",
+            "StartDate": "2021-09-20T17:12:14.057488038Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1713,7 +1713,7 @@
         {
             "OfferID": "a6d41f01-4b8b-444d-b9da-3eaaf3d7e262",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441214908Z",
+            "StartDate": "2021-09-20T17:12:14.057488224Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1728,7 +1728,7 @@
         {
             "OfferID": "712c7a37-4524-0b27-dfdd-4e95181dd36e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441215122Z",
+            "StartDate": "2021-09-20T17:12:14.05748841Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -1743,7 +1743,7 @@
         {
             "OfferID": "c9f0ea7f-4bed-b10e-62d2-0394444feed1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441215338Z",
+            "StartDate": "2021-09-20T17:12:14.057488594Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1758,7 +1758,7 @@
         {
             "OfferID": "a127c324-4213-23a2-ff77-1284431dad74",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441215551Z",
+            "StartDate": "2021-09-20T17:12:14.057488778Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -1773,7 +1773,7 @@
         {
             "OfferID": "b6768f01-4d72-f0f1-65b5-71b751536490",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441215768Z",
+            "StartDate": "2021-09-20T17:12:14.057488962Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1750
             },
@@ -1788,7 +1788,7 @@
         {
             "OfferID": "0af0c7ca-4fb7-0410-5cc6-a5834d340c53",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44121598Z",
+            "StartDate": "2021-09-20T17:12:14.057489144Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -1803,7 +1803,7 @@
         {
             "OfferID": "dd595229-4aac-73f1-5fad-86891b7d7ecb",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441216195Z",
+            "StartDate": "2021-09-20T17:12:14.057489321Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -1818,7 +1818,7 @@
         {
             "OfferID": "bad7ae62-4f6a-8974-ab73-7ba6405ca898",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441216408Z",
+            "StartDate": "2021-09-20T17:12:14.057489502Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -1833,7 +1833,7 @@
         {
             "OfferID": "b8bb264c-4578-2410-8dfa-6aacfeb318b0",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441216623Z",
+            "StartDate": "2021-09-20T17:12:14.057489685Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1848,7 +1848,7 @@
         {
             "OfferID": "4efc0af7-4623-cb2e-997c-6cbf2e5ddfb4",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441216834Z",
+            "StartDate": "2021-09-20T17:12:14.057489866Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1863,7 +1863,7 @@
         {
             "OfferID": "f344bead-bb25-4226-a990-b5d9694d475d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441217052Z",
+            "StartDate": "2021-09-20T17:12:14.057490047Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -1878,7 +1878,7 @@
         {
             "OfferID": "6df8b470-4248-e29d-2879-bd840ed224c1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441217267Z",
+            "StartDate": "2021-09-20T17:12:14.057490231Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -1893,7 +1893,7 @@
         {
             "OfferID": "1bfea917-4262-37ba-3a76-04b937f2d0be",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441217479Z",
+            "StartDate": "2021-09-20T17:12:14.057490413Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -1908,7 +1908,7 @@
         {
             "OfferID": "42cc3d8c-4e77-ee86-56bb-30a6025a89c0",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44121769Z",
+            "StartDate": "2021-09-20T17:12:14.057490597Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -1923,7 +1923,7 @@
         {
             "OfferID": "22c0aaa3-4919-5a7b-90c0-2dacafdc32fe",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441217981Z",
+            "StartDate": "2021-09-20T17:12:14.057490779Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1938,7 +1938,7 @@
         {
             "OfferID": "d39a4263-49d3-f2e0-2c13-c299f8644518",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441218266Z",
+            "StartDate": "2021-09-20T17:12:14.05749096Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -1953,7 +1953,7 @@
         {
             "OfferID": "d93ad22d-4db7-b6bc-5e9c-e5959bb9dd76",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441218478Z",
+            "StartDate": "2021-09-20T17:12:14.057491141Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -1968,7 +1968,7 @@
         {
             "OfferID": "bf6df430-4e46-5c51-df6f-c2bc3b1cb4fe",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441218708Z",
+            "StartDate": "2021-09-20T17:12:14.057491323Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1983,7 +1983,7 @@
         {
             "OfferID": "7e45e9cd-4072-cc32-0898-d09c167cc0f9",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441218918Z",
+            "StartDate": "2021-09-20T17:12:14.057491503Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -1998,7 +1998,7 @@
         {
             "OfferID": "c00e786e-4e6f-0ef7-0ce3-32ba9918ba41",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441219204Z",
+            "StartDate": "2021-09-20T17:12:14.05749169Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2013,7 +2013,7 @@
         {
             "OfferID": "fed9c3f3-40a5-da67-4ac9-4683cc5a0eba",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441219418Z",
+            "StartDate": "2021-09-20T17:12:14.057491892Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2028,7 +2028,7 @@
         {
             "OfferID": "7bfab387-4e97-d815-4488-c491e3a5520c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441220488Z",
+            "StartDate": "2021-09-20T17:12:14.057492077Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2043,7 +2043,7 @@
         {
             "OfferID": "e7301730-418f-e0fb-c930-9598741d5c30",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441220702Z",
+            "StartDate": "2021-09-20T17:12:14.057492261Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2058,7 +2058,7 @@
         {
             "OfferID": "df37b069-48b2-0a7c-78ea-5b8eedc684f7",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441220918Z",
+            "StartDate": "2021-09-20T17:12:14.057492441Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2073,7 +2073,7 @@
         {
             "OfferID": "f7b44175-49be-3909-a34f-c68d6e3cecc3",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441221138Z",
+            "StartDate": "2021-09-20T17:12:14.057492622Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -2088,7 +2088,7 @@
         {
             "OfferID": "e2c84381-4fa6-29b4-37b9-21bba8ae24bf",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44122136Z",
+            "StartDate": "2021-09-20T17:12:14.057492809Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2103,7 +2103,7 @@
         {
             "OfferID": "708abbc6-4579-4452-4293-07ba45e78979",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441221575Z",
+            "StartDate": "2021-09-20T17:12:14.05749299Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 4350
             },
@@ -2118,7 +2118,7 @@
         {
             "OfferID": "444464f1-445f-8f75-3c8d-a7bd8f24e654",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441221786Z",
+            "StartDate": "2021-09-20T17:12:14.057493171Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -2133,7 +2133,7 @@
         {
             "OfferID": "94cf6dd4-42c5-f70e-1652-dca05fa42ad6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441221998Z",
+            "StartDate": "2021-09-20T17:12:14.057493353Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2148,7 +2148,7 @@
         {
             "OfferID": "4aa31563-44e1-0d9f-f95a-a1b9965ad762",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441222212Z",
+            "StartDate": "2021-09-20T17:12:14.057493537Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2163,7 +2163,7 @@
         {
             "OfferID": "d547c575-4572-9d77-42e5-bea022e5f07b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441222422Z",
+            "StartDate": "2021-09-20T17:12:14.057493719Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2178,7 +2178,7 @@
         {
             "OfferID": "920d9d08-4f22-9f1e-b309-ddbbe5ecb91c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441222635Z",
+            "StartDate": "2021-09-20T17:12:14.057493899Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2193,7 +2193,7 @@
         {
             "OfferID": "8edf22c5-4489-ab41-769a-07adb4c454d6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441222848Z",
+            "StartDate": "2021-09-20T17:12:14.057494082Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -2208,7 +2208,7 @@
         {
             "OfferID": "4538bff7-470c-889c-9875-7ba3ebf87c87",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441223061Z",
+            "StartDate": "2021-09-20T17:12:14.057494261Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2223,7 +2223,7 @@
         {
             "OfferID": "1878bbc9-409e-66b4-346b-c3997a54df57",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441223276Z",
+            "StartDate": "2021-09-20T17:12:14.057494444Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2238,7 +2238,7 @@
         {
             "OfferID": "4f45735c-4513-e9a6-48ac-35acca4c3410",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441223488Z",
+            "StartDate": "2021-09-20T17:12:14.057494697Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2253,7 +2253,7 @@
         {
             "OfferID": "8e032580-414f-7ab4-7efb-f6ac7d2bc2f1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441223704Z",
+            "StartDate": "2021-09-20T17:12:14.057494883Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2268,7 +2268,7 @@
         {
             "OfferID": "33d3c906-4305-19cf-8770-1eb5207482cc",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441223917Z",
+            "StartDate": "2021-09-20T17:12:14.057495095Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2283,7 +2283,7 @@
         {
             "OfferID": "50265ad5-4f14-2b32-924e-02bbed2bea6f",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441224125Z",
+            "StartDate": "2021-09-20T17:12:14.057495277Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2298,7 +2298,7 @@
         {
             "OfferID": "4049dc82-495b-cecc-8e34-4dbf35753129",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441224338Z",
+            "StartDate": "2021-09-20T17:12:14.057495461Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2313,7 +2313,7 @@
         {
             "OfferID": "9f6e4612-433b-aea9-1683-3db7aee90848",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44122455Z",
+            "StartDate": "2021-09-20T17:12:14.057495642Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -2328,7 +2328,7 @@
         {
             "OfferID": "65ed014b-4279-8ba5-01d3-f48d4e7f115c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441224763Z",
+            "StartDate": "2021-09-20T17:12:14.057495821Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2343,7 +2343,7 @@
         {
             "OfferID": "ca2f7bc0-4270-7f76-4623-8596a5584d06",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44122498Z",
+            "StartDate": "2021-09-20T17:12:14.057496002Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2358,7 +2358,7 @@
         {
             "OfferID": "cdc130c2-4b12-3702-c8f6-5a8920746395",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441225189Z",
+            "StartDate": "2021-09-20T17:12:14.057496185Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2373,7 +2373,7 @@
         {
             "OfferID": "f38b2545-4498-48b3-150e-1589e25e7aa7",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441225403Z",
+            "StartDate": "2021-09-20T17:12:14.057496368Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2388,7 +2388,7 @@
         {
             "OfferID": "7cf3af0b-4556-a0db-2e04-eea4368b354b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441225618Z",
+            "StartDate": "2021-09-20T17:12:14.057496547Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2550
             },
@@ -2403,7 +2403,7 @@
         {
             "OfferID": "88d7c503-477f-c881-af2c-53bbab55807c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441225833Z",
+            "StartDate": "2021-09-20T17:12:14.057496731Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -2418,7 +2418,7 @@
         {
             "OfferID": "d3759a6a-4d5c-a322-092f-7290b52566ef",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441226046Z",
+            "StartDate": "2021-09-20T17:12:14.05749691Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -2433,7 +2433,7 @@
         {
             "OfferID": "0af262b7-48a1-df12-d445-bd8747efc248",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44122626Z",
+            "StartDate": "2021-09-20T17:12:14.057497095Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -2448,7 +2448,7 @@
         {
             "OfferID": "7d3c0ac4-42ce-7111-2c86-43be3d2e86a7",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441226473Z",
+            "StartDate": "2021-09-20T17:12:14.057497278Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2463,7 +2463,7 @@
         {
             "OfferID": "cfeb4b7a-4310-796c-db4e-fb9844823992",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441226687Z",
+            "StartDate": "2021-09-20T17:12:14.057497466Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2478,7 +2478,7 @@
         {
             "OfferID": "496b0096-4000-c1fc-102d-70a8b769d0d1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.4412269Z",
+            "StartDate": "2021-09-20T17:12:14.057497645Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2493,7 +2493,7 @@
         {
             "OfferID": "e370d9f9-4deb-9ae4-a594-24947cb21b2d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441227113Z",
+            "StartDate": "2021-09-20T17:12:14.057497827Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -2508,7 +2508,7 @@
         {
             "OfferID": "9bc535dd-4d91-3421-2cd0-7a8fdad3478b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441227329Z",
+            "StartDate": "2021-09-20T17:12:14.057498009Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2523,7 +2523,7 @@
         {
             "OfferID": "8dbcccdf-44fc-58ec-5c2a-b68530c4a039",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441227538Z",
+            "StartDate": "2021-09-20T17:12:14.057498187Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -2538,7 +2538,7 @@
         {
             "OfferID": "1d0fe8d7-42dd-6f77-50b0-798d1ff90bef",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441227753Z",
+            "StartDate": "2021-09-20T17:12:14.057498366Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -2553,7 +2553,7 @@
         {
             "OfferID": "40222bb5-4fce-9320-f4f1-95861df83c47",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441227966Z",
+            "StartDate": "2021-09-20T17:12:14.057498543Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -2568,7 +2568,7 @@
         {
             "OfferID": "84f8d0f4-4442-5892-6a20-8f83e65a5e96",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441228196Z",
+            "StartDate": "2021-09-20T17:12:14.057498729Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2583,7 +2583,7 @@
         {
             "OfferID": "4276d2b5-4b1c-b636-aff0-4ea579d875d7",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441228406Z",
+            "StartDate": "2021-09-20T17:12:14.05749891Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -2598,7 +2598,7 @@
         {
             "OfferID": "7d43477d-465a-67fc-561e-f2a2ebea697d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441228697Z",
+            "StartDate": "2021-09-20T17:12:14.057499096Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2613,7 +2613,7 @@
         {
             "OfferID": "68564c51-4f7e-67d1-fd0d-4e9d216356e8",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441228907Z",
+            "StartDate": "2021-09-20T17:12:14.057499279Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2628,7 +2628,7 @@
         {
             "OfferID": "5bf17117-4ead-a0a8-2961-288d38985e93",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441229196Z",
+            "StartDate": "2021-09-20T17:12:14.057499464Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -2643,7 +2643,7 @@
         {
             "OfferID": "c7695ce7-4fc9-1c79-64b3-8c8f9e21571c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441229406Z",
+            "StartDate": "2021-09-20T17:12:14.057499645Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2658,7 +2658,7 @@
         {
             "OfferID": "c8b53af9-4e6d-5599-f516-43a22c1048ab",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441229616Z",
+            "StartDate": "2021-09-20T17:12:14.057499828Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -2673,7 +2673,7 @@
         {
             "OfferID": "481a5abb-45d7-818d-798f-d18d988b6dc1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441229849Z",
+            "StartDate": "2021-09-20T17:12:14.057500007Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2688,7 +2688,7 @@
         {
             "OfferID": "b3d3ff38-4202-20d8-2f41-c783477e5636",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441230064Z",
+            "StartDate": "2021-09-20T17:12:14.057500187Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2475
             },
@@ -2703,7 +2703,7 @@
         {
             "OfferID": "cd9986f8-4473-914d-7918-caa21d23710f",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441230278Z",
+            "StartDate": "2021-09-20T17:12:14.057500367Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -2718,7 +2718,7 @@
         {
             "OfferID": "ba42fe63-457a-78ce-4499-47950a698129",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44123049Z",
+            "StartDate": "2021-09-20T17:12:14.057500549Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2733,7 +2733,7 @@
         {
             "OfferID": "29be6d9e-48b2-1229-4f7d-4da1c20deda9",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441230706Z",
+            "StartDate": "2021-09-20T17:12:14.057500731Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2748,7 +2748,7 @@
         {
             "OfferID": "48ce4a70-4207-623b-4739-bfb937812432",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441230914Z",
+            "StartDate": "2021-09-20T17:12:14.057500917Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 4350
             },
@@ -2763,7 +2763,7 @@
         {
             "OfferID": "2e37f837-425d-45f2-22a2-71a9af5c118f",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441231122Z",
+            "StartDate": "2021-09-20T17:12:14.057501097Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -2778,7 +2778,7 @@
         {
             "OfferID": "9dbc52e2-4889-cbe5-b874-4f8f0f8f3781",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441231332Z",
+            "StartDate": "2021-09-20T17:12:14.057501279Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2793,7 +2793,7 @@
         {
             "OfferID": "1a42dc71-40aa-9873-4729-b788b043a644",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441231543Z",
+            "StartDate": "2021-09-20T17:12:14.057501457Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -2808,7 +2808,7 @@
         {
             "OfferID": "7e44fc1b-44fa-cdda-8491-f8a5bca1cfa3",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441231755Z",
+            "StartDate": "2021-09-20T17:12:14.057501643Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -2823,7 +2823,7 @@
         {
             "OfferID": "e5a2e04a-4805-1244-5376-06b40d7c6cbb",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44123197Z",
+            "StartDate": "2021-09-20T17:12:14.057501827Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -2838,7 +2838,7 @@
         {
             "OfferID": "fbfc273b-4c12-961a-a4fb-978b43be81a9",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44123219Z",
+            "StartDate": "2021-09-20T17:12:14.057502015Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2853,7 +2853,7 @@
         {
             "OfferID": "f7425a39-43ca-e1fe-5b2b-56a51ed479c5",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441232402Z",
+            "StartDate": "2021-09-20T17:12:14.057502197Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2868,7 +2868,7 @@
         {
             "OfferID": "37851a69-4719-d8ae-d305-49bcee8d853c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441232616Z",
+            "StartDate": "2021-09-20T17:12:14.057502398Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2883,7 +2883,7 @@
         {
             "OfferID": "a2950772-447a-f2db-be24-19b0e0ed736f",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44123283Z",
+            "StartDate": "2021-09-20T17:12:14.057502578Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2898,7 +2898,7 @@
         {
             "OfferID": "0abecac7-411f-71c0-9504-2d81df0acd71",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441233045Z",
+            "StartDate": "2021-09-20T17:12:14.057502761Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -2913,7 +2913,7 @@
         {
             "OfferID": "c8652efa-462f-d455-20b0-699dd00a9e2a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441233253Z",
+            "StartDate": "2021-09-20T17:12:14.057502941Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2928,7 +2928,7 @@
         {
             "OfferID": "40308b30-4689-9713-52fb-6f8a3534213f",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441233467Z",
+            "StartDate": "2021-09-20T17:12:14.057503127Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2943,7 +2943,7 @@
         {
             "OfferID": "fa3d6a11-46c4-2caf-f7e4-10a5013c034b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441233682Z",
+            "StartDate": "2021-09-20T17:12:14.057503307Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2958,7 +2958,7 @@
         {
             "OfferID": "a2045403-40f7-2926-f955-028b6867c79a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441233891Z",
+            "StartDate": "2021-09-20T17:12:14.057503485Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -2973,7 +2973,7 @@
         {
             "OfferID": "b2f78500-4322-b03d-2745-a3b2208d63fe",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441234104Z",
+            "StartDate": "2021-09-20T17:12:14.057503666Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -2988,7 +2988,7 @@
         {
             "OfferID": "63a65008-4266-1117-fe3d-d1bf290b7da9",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441234316Z",
+            "StartDate": "2021-09-20T17:12:14.057503851Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3003,7 +3003,7 @@
         {
             "OfferID": "003e0991-4370-8837-f8fc-6ab3acec2dbf",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441234528Z",
+            "StartDate": "2021-09-20T17:12:14.057504033Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3018,7 +3018,7 @@
         {
             "OfferID": "6e37a33a-416e-fcc0-ceb8-7784e18fbfe9",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441234743Z",
+            "StartDate": "2021-09-20T17:12:14.057504214Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -3033,7 +3033,7 @@
         {
             "OfferID": "78776175-4040-282f-07a1-0199b1fdcf58",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441234957Z",
+            "StartDate": "2021-09-20T17:12:14.057504397Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3048,7 +3048,7 @@
         {
             "OfferID": "f9fab42c-46bf-1bf0-dba5-32988be03fc2",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441235173Z",
+            "StartDate": "2021-09-20T17:12:14.057504577Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3063,7 +3063,7 @@
         {
             "OfferID": "a88a4c80-4913-a111-0fba-878adddd381a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441235388Z",
+            "StartDate": "2021-09-20T17:12:14.057504761Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3078,7 +3078,7 @@
         {
             "OfferID": "fdcb9cc0-4877-6f89-02ad-98ab330f3043",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441235598Z",
+            "StartDate": "2021-09-20T17:12:14.057504943Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -3093,7 +3093,7 @@
         {
             "OfferID": "3e32c58e-4347-e4b1-4502-6dab0dc516a8",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441235811Z",
+            "StartDate": "2021-09-20T17:12:14.057505129Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -3108,7 +3108,7 @@
         {
             "OfferID": "e34039b6-441d-3e17-2773-bdaf5c3d2faa",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441236023Z",
+            "StartDate": "2021-09-20T17:12:14.057505311Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -3123,7 +3123,7 @@
         {
             "OfferID": "3bf9d39f-46b4-ba23-e079-488d799b9416",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441236233Z",
+            "StartDate": "2021-09-20T17:12:14.057505495Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3138,7 +3138,7 @@
         {
             "OfferID": "aeca98db-4737-5e0f-3476-7eb8a16eb696",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441236442Z",
+            "StartDate": "2021-09-20T17:12:14.057505676Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -3153,7 +3153,7 @@
         {
             "OfferID": "3da96301-4edd-0d74-492c-6e9d0766665a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441236656Z",
+            "StartDate": "2021-09-20T17:12:14.057505859Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -3168,7 +3168,7 @@
         {
             "OfferID": "a2c59452-4420-130a-9aa1-cb8ea551a05d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441236871Z",
+            "StartDate": "2021-09-20T17:12:14.057506045Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -3183,7 +3183,7 @@
         {
             "OfferID": "f3594bcc-43a9-4a74-8c40-98a4e4a4569a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441237085Z",
+            "StartDate": "2021-09-20T17:12:14.057506224Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 4950
             },
@@ -3198,7 +3198,7 @@
         {
             "OfferID": "dadb46d4-4760-141f-aa50-948f3054006e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.4412373Z",
+            "StartDate": "2021-09-20T17:12:14.057506406Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -3213,7 +3213,7 @@
         {
             "OfferID": "d54e0883-4967-5808-e25c-37b3e6313e5c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441237653Z",
+            "StartDate": "2021-09-20T17:12:14.057506587Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -3228,7 +3228,7 @@
         {
             "OfferID": "1658e811-4084-8775-28df-5a9feabc52d8",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441238004Z",
+            "StartDate": "2021-09-20T17:12:14.057506772Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -3243,7 +3243,7 @@
         {
             "OfferID": "2607b2c6-45f7-e75e-94f8-58a738773d5c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44123822Z",
+            "StartDate": "2021-09-20T17:12:14.057506957Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3258,7 +3258,7 @@
         {
             "OfferID": "b5f7b00a-4c4b-a3d5-d2cc-fbb62c482ef6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441238434Z",
+            "StartDate": "2021-09-20T17:12:14.057507138Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -3273,7 +3273,7 @@
         {
             "OfferID": "e6eee5ec-4f6f-e764-1c4d-048ce271be27",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441238658Z",
+            "StartDate": "2021-09-20T17:12:14.057507319Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -3288,7 +3288,7 @@
         {
             "OfferID": "90a0cd4b-4cd4-26ae-7a37-ee82f639bc04",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441239019Z",
+            "StartDate": "2021-09-20T17:12:14.057507575Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -3303,7 +3303,7 @@
         {
             "OfferID": "4a3b4aaf-4cdd-d5cf-b776-0593c3d2bf9a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441239235Z",
+            "StartDate": "2021-09-20T17:12:14.057507756Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3318,7 +3318,7 @@
         {
             "OfferID": "eb35e4e1-4138-9ece-08e2-69bd414cf598",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44123945Z",
+            "StartDate": "2021-09-20T17:12:14.057507941Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -3333,7 +3333,7 @@
         {
             "OfferID": "19b20b51-472b-e837-e5da-f8a348110dbf",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441239663Z",
+            "StartDate": "2021-09-20T17:12:14.057508122Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -3348,7 +3348,7 @@
         {
             "OfferID": "f00520c8-4b70-7255-d23c-c0a4887656a2",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441239878Z",
+            "StartDate": "2021-09-20T17:12:14.057508322Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3363,7 +3363,7 @@
         {
             "OfferID": "1ef3c871-45db-0f6d-fc34-8bb2685cd6c0",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441240093Z",
+            "StartDate": "2021-09-20T17:12:14.057508505Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -3378,7 +3378,7 @@
         {
             "OfferID": "1b94d997-4db6-014f-4cb8-c1b4df7d7ebc",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441240304Z",
+            "StartDate": "2021-09-20T17:12:14.057508698Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 875
             },
@@ -3393,7 +3393,7 @@
         {
             "OfferID": "aa610521-4bea-bc0e-1bd4-94b67fd90db6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441240518Z",
+            "StartDate": "2021-09-20T17:12:14.057508882Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3408,7 +3408,7 @@
         {
             "OfferID": "0221e96d-49be-a601-52d6-ef8270773276",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44124073Z",
+            "StartDate": "2021-09-20T17:12:14.057509062Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -3423,7 +3423,7 @@
         {
             "OfferID": "3800390c-4192-92d1-1703-33ba231fc226",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441240964Z",
+            "StartDate": "2021-09-20T17:12:14.057509243Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3438,7 +3438,7 @@
         {
             "OfferID": "5dcdc42b-4398-0a62-1351-9b8cfdd2892c",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441241178Z",
+            "StartDate": "2021-09-20T17:12:14.057509422Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -3453,7 +3453,7 @@
         {
             "OfferID": "71d260ca-4bad-81f2-0298-44860341a7a6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441241388Z",
+            "StartDate": "2021-09-20T17:12:14.057509605Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -3468,7 +3468,7 @@
         {
             "OfferID": "7cd7c895-4da5-a3bc-3518-ff8d53af5151",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441241596Z",
+            "StartDate": "2021-09-20T17:12:14.057509801Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3483,7 +3483,7 @@
         {
             "OfferID": "1091d2cc-430b-56ca-a82b-279b70026193",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441241809Z",
+            "StartDate": "2021-09-20T17:12:14.057509987Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -3498,7 +3498,7 @@
         {
             "OfferID": "2b555f97-46bb-5949-3531-979f5bc817f0",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44124202Z",
+            "StartDate": "2021-09-20T17:12:14.057510171Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3513,7 +3513,7 @@
         {
             "OfferID": "24c73c29-443c-2440-d6db-838086f2451a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44124223Z",
+            "StartDate": "2021-09-20T17:12:14.057510351Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3528,7 +3528,7 @@
         {
             "OfferID": "4fc451ca-439f-f3f3-e8ac-81bec328744e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441242444Z",
+            "StartDate": "2021-09-20T17:12:14.057510537Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -3543,7 +3543,7 @@
         {
             "OfferID": "f8b05d16-4ecc-e5ec-e6f7-12a5b5bd7dc0",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441242659Z",
+            "StartDate": "2021-09-20T17:12:14.057510722Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -3558,7 +3558,7 @@
         {
             "OfferID": "70fa1a13-4964-6ef8-62ce-c4827a3d8f70",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441242875Z",
+            "StartDate": "2021-09-20T17:12:14.057510907Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -3573,7 +3573,7 @@
         {
             "OfferID": "851b390a-4852-66bd-8b72-4f96f0919710",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441243087Z",
+            "StartDate": "2021-09-20T17:12:14.057511088Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3588,7 +3588,7 @@
         {
             "OfferID": "81658642-4f78-cbb4-9e40-b8856a904bc7",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441243299Z",
+            "StartDate": "2021-09-20T17:12:14.057511269Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3603,7 +3603,7 @@
         {
             "OfferID": "10a5fe91-4efa-9d6b-44f7-47ae9660550d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441243513Z",
+            "StartDate": "2021-09-20T17:12:14.057511453Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3618,7 +3618,7 @@
         {
             "OfferID": "daa73753-4b56-9d21-d73e-f3b3f4c9b1a6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441243726Z",
+            "StartDate": "2021-09-20T17:12:14.057511636Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3633,7 +3633,7 @@
         {
             "OfferID": "5fecfd43-4bec-4e6a-842c-84860853df82",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441243939Z",
+            "StartDate": "2021-09-20T17:12:14.057511817Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -3648,7 +3648,7 @@
         {
             "OfferID": "792656ff-445c-fa7f-301a-8490f638b168",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441244162Z",
+            "StartDate": "2021-09-20T17:12:14.057512003Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3663,7 +3663,7 @@
         {
             "OfferID": "186d9fbb-400e-665b-e5f3-c08b24b6974f",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441244379Z",
+            "StartDate": "2021-09-20T17:12:14.057512183Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3678,7 +3678,7 @@
         {
             "OfferID": "75b110de-40e5-3e02-d700-2abda38817c5",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441244606Z",
+            "StartDate": "2021-09-20T17:12:14.057512364Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3693,7 +3693,7 @@
         {
             "OfferID": "436f42cc-49c5-b535-4fdf-c0bd48695919",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441244827Z",
+            "StartDate": "2021-09-20T17:12:14.057512543Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3708,7 +3708,7 @@
         {
             "OfferID": "1fdbe6f8-42ca-deb2-33da-caa2c4200544",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441245042Z",
+            "StartDate": "2021-09-20T17:12:14.057512727Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1275
             },
@@ -3723,7 +3723,7 @@
         {
             "OfferID": "e9e1ff4f-4e49-b52d-268d-4db667222eb8",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441245266Z",
+            "StartDate": "2021-09-20T17:12:14.057512905Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -3738,7 +3738,7 @@
         {
             "OfferID": "a6ea23c9-43c6-0a94-f814-679c1236d3b7",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44124548Z",
+            "StartDate": "2021-09-20T17:12:14.057513085Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -3753,7 +3753,7 @@
         {
             "OfferID": "1d2e2fd5-4fef-61f2-a4ec-92819d16fcf2",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441245694Z",
+            "StartDate": "2021-09-20T17:12:14.057513265Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3768,7 +3768,7 @@
         {
             "OfferID": "b9f4e6ea-4db2-6939-731f-0eb93cfbbb1d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441245907Z",
+            "StartDate": "2021-09-20T17:12:14.057513445Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3783,7 +3783,7 @@
         {
             "OfferID": "65d832e3-4b34-b4b9-fde0-9d897d5fe51b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441246122Z",
+            "StartDate": "2021-09-20T17:12:14.057513623Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3798,7 +3798,7 @@
         {
             "OfferID": "f202625e-4647-b575-07a9-3fbc39d72b10",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441246331Z",
+            "StartDate": "2021-09-20T17:12:14.057513807Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3813,7 +3813,7 @@
         {
             "OfferID": "12dce8f5-42fe-87c6-ef37-8aa4e55f1f64",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44124654Z",
+            "StartDate": "2021-09-20T17:12:14.057513989Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -3828,7 +3828,7 @@
         {
             "OfferID": "1969e379-40ae-b28a-6fb3-819873a24fb9",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441246754Z",
+            "StartDate": "2021-09-20T17:12:14.057514173Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3843,7 +3843,7 @@
         {
             "OfferID": "56042ce2-4f95-19be-7cac-5fb191683953",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441246966Z",
+            "StartDate": "2021-09-20T17:12:14.057514355Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3858,7 +3858,7 @@
         {
             "OfferID": "c4547e69-47a7-dc52-d09c-94bbf87dba0a",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441247252Z",
+            "StartDate": "2021-09-20T17:12:14.057514539Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3873,7 +3873,7 @@
         {
             "OfferID": "4d19c241-4350-6658-f5a6-5c99ca8e5e99",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441247465Z",
+            "StartDate": "2021-09-20T17:12:14.057514722Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -3888,7 +3888,7 @@
         {
             "OfferID": "5f059d7e-413c-445c-e36f-9a9791fba5b0",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441247756Z",
+            "StartDate": "2021-09-20T17:12:14.057514917Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -3903,7 +3903,7 @@
         {
             "OfferID": "275af4d5-4636-8886-b246-8299defee60b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44124797Z",
+            "StartDate": "2021-09-20T17:12:14.057515102Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -3918,7 +3918,7 @@
         {
             "OfferID": "3c930c58-4f56-1a14-6397-c3bd42f31955",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441248258Z",
+            "StartDate": "2021-09-20T17:12:14.057515282Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -3933,7 +3933,7 @@
         {
             "OfferID": "c495e583-42d5-e9fe-c460-9f946ff369f6",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441248488Z",
+            "StartDate": "2021-09-20T17:12:14.057515461Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -3948,7 +3948,7 @@
         {
             "OfferID": "bdd36e5e-4574-85e3-6f64-62ba3319a9d1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441249613Z",
+            "StartDate": "2021-09-20T17:12:14.057515642Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 975
             },
@@ -3963,7 +3963,7 @@
         {
             "OfferID": "d72e09a3-4916-9bae-8570-c7b3c35c347d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44124983Z",
+            "StartDate": "2021-09-20T17:12:14.057515818Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 775
             },
@@ -3978,7 +3978,7 @@
         {
             "OfferID": "8f7ef66d-49f2-867f-2ff8-1391a23c89d0",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441250044Z",
+            "StartDate": "2021-09-20T17:12:14.057515996Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 675
             },
@@ -3993,7 +3993,7 @@
         {
             "OfferID": "d973d345-43f5-c1a3-e40e-b4a2a6f37ae5",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441250255Z",
+            "StartDate": "2021-09-20T17:12:14.057516177Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -4008,7 +4008,7 @@
         {
             "OfferID": "d1f2aae0-4819-2e0e-8b15-61990259a9e3",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441250466Z",
+            "StartDate": "2021-09-20T17:12:14.05751636Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -4023,7 +4023,7 @@
         {
             "OfferID": "ce90906d-40da-367b-4a7a-e7a692516ee1",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441250678Z",
+            "StartDate": "2021-09-20T17:12:14.057516542Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -4038,7 +4038,7 @@
         {
             "OfferID": "279e0a89-4dd6-b135-cef9-8ebb1df6f2ac",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44125089Z",
+            "StartDate": "2021-09-20T17:12:14.057516721Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -4053,7 +4053,7 @@
         {
             "OfferID": "5e1f5465-40cd-2c0f-33ab-398c5367d080",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441251108Z",
+            "StartDate": "2021-09-20T17:12:14.057516904Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -4068,7 +4068,7 @@
         {
             "OfferID": "0e1af0d5-4dee-15db-25b5-31a7da6f1d52",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441251321Z",
+            "StartDate": "2021-09-20T17:12:14.057517087Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -4083,7 +4083,7 @@
         {
             "OfferID": "87220abc-49a9-7472-ae09-29a6d711bbc3",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441251537Z",
+            "StartDate": "2021-09-20T17:12:14.057517267Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -4098,7 +4098,7 @@
         {
             "OfferID": "e94012b1-4a22-63d2-117e-90a2c1375ded",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441251749Z",
+            "StartDate": "2021-09-20T17:12:14.057517447Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 4350
             },
@@ -4113,7 +4113,7 @@
         {
             "OfferID": "4f22a129-48fa-c701-54e2-dbb01e5d1194",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441251959Z",
+            "StartDate": "2021-09-20T17:12:14.057517639Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -4128,7 +4128,7 @@
         {
             "OfferID": "1e060f5a-4ce1-9109-3033-ed9aaaffb4ae",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441252166Z",
+            "StartDate": "2021-09-20T17:12:14.057517825Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -4143,7 +4143,7 @@
         {
             "OfferID": "829a47d5-4580-8428-2437-8daffdbc52ac",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441252379Z",
+            "StartDate": "2021-09-20T17:12:14.057518007Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -4158,7 +4158,7 @@
         {
             "OfferID": "0ddbdf8c-43b0-e2f1-94f8-d6be9d2a2110",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441252592Z",
+            "StartDate": "2021-09-20T17:12:14.057518186Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -4173,7 +4173,7 @@
         {
             "OfferID": "968efd06-4549-65f4-9fb1-3f90d612e428",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441252806Z",
+            "StartDate": "2021-09-20T17:12:14.057518367Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -4188,7 +4188,7 @@
         {
             "OfferID": "746a022b-48a9-c51b-f379-11a3e1e2bc8e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441253018Z",
+            "StartDate": "2021-09-20T17:12:14.057518545Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -4203,7 +4203,7 @@
         {
             "OfferID": "69657d05-4309-9779-d445-6da864067246",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441253234Z",
+            "StartDate": "2021-09-20T17:12:14.057518721Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2175
             },
@@ -4218,7 +4218,7 @@
         {
             "OfferID": "315e8e49-4dc4-9769-2382-3ba5f7af87da",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44125345Z",
+            "StartDate": "2021-09-20T17:12:14.0575189Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 4350
             },
@@ -4233,7 +4233,7 @@
         {
             "OfferID": "5be0b43b-4e66-ab8a-91d9-be9137e2e1c2",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441253661Z",
+            "StartDate": "2021-09-20T17:12:14.057519079Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -4248,7 +4248,7 @@
         {
             "OfferID": "459343eb-4c56-4f10-ff2f-fbbf07d3695d",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441253872Z",
+            "StartDate": "2021-09-20T17:12:14.057519259Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -4263,7 +4263,7 @@
         {
             "OfferID": "7bc358d8-42ad-611f-5594-37888c23abe3",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441254085Z",
+            "StartDate": "2021-09-20T17:12:14.057519441Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -4278,7 +4278,7 @@
         {
             "OfferID": "613dd54a-4068-0fab-7670-bf8268a9b76b",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441254296Z",
+            "StartDate": "2021-09-20T17:12:14.057519627Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 1775
             },
@@ -4293,7 +4293,7 @@
         {
             "OfferID": "e85cf8b6-467b-bc6c-9013-959383f71b2e",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44125451Z",
+            "StartDate": "2021-09-20T17:12:14.057519808Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 3550
             },
@@ -4308,7 +4308,7 @@
         {
             "OfferID": "2211e6ea-48f3-43cb-b6c0-a49c0a2d3341",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441254728Z",
+            "StartDate": "2021-09-20T17:12:14.057519991Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -4323,7 +4323,7 @@
         {
             "OfferID": "6a7dc5b8-4787-216b-5b78-cfb6641b7832",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.44125494Z",
+            "StartDate": "2021-09-20T17:12:14.057520172Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 475
             },
@@ -4338,7 +4338,7 @@
         {
             "OfferID": "006e03e5-4fdb-c400-4c5b-5f815980f403",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441255156Z",
+            "StartDate": "2021-09-20T17:12:14.057520354Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 375
             },
@@ -4353,7 +4353,7 @@
         {
             "OfferID": "a5ecf58a-44ce-75f6-abf7-bfb616c12f59",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441255371Z",
+            "StartDate": "2021-09-20T17:12:14.057520535Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 325
             },
@@ -4368,7 +4368,7 @@
         {
             "OfferID": "43854c54-4263-571c-9be6-52b6d50d3190",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441255588Z",
+            "StartDate": "2021-09-20T17:12:14.057520718Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2675
             },
@@ -4383,7 +4383,7 @@
         {
             "OfferID": "82db01d1-4192-167b-9f53-78ba374c39ac",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441255799Z",
+            "StartDate": "2021-09-20T17:12:14.057520896Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2675
             },
@@ -4398,7 +4398,7 @@
         {
             "OfferID": "fe32e4bd-420f-b4cc-de37-febb78df9e16",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441256017Z",
+            "StartDate": "2021-09-20T17:12:14.05752108Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2675
             },
@@ -4413,7 +4413,7 @@
         {
             "OfferID": "19ba907b-4a76-347f-ea24-38990c9ff755",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441256228Z",
+            "StartDate": "2021-09-20T17:12:14.057521264Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 2675
             },
@@ -4428,7 +4428,7 @@
         {
             "OfferID": "f58e7da3-4567-707f-cb1e-3a9add422481",
             "IsDirectPurchase": true,
-            "StartDate": "2021-09-07T15:00:04.441256446Z",
+            "StartDate": "2021-09-20T17:12:14.057521446Z",
             "Cost": {
                 "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": 5350
             },

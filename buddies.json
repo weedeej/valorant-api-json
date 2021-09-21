@@ -240,6 +240,40 @@
             ]
         },
         {
+            "uuid": "92abc229-4f98-fa7f-b98d-36b902ea68d0",
+            "displayName": "VALORANT GO! Vol. 2 Phoenix Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/92abc229-4f98-fa7f-b98d-36b902ea68d0/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiPhoenix/GunBuddy_ChibiPhoenix_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "502d79b2-43c6-1245-29e2-9bbb37397e1c",
+                    "charmLevel": 1,
+                    "displayName": "ChibiPhoenix",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/502d79b2-43c6-1245-29e2-9bbb37397e1c/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiPhoenix/GunBuddy_ChibiPhoenix_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "eb6133bb-4896-5f64-85a9-c0bccedd07bd",
+            "displayName": "VALORANT GO! Vol. 2 Raze Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/eb6133bb-4896-5f64-85a9-c0bccedd07bd/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiRaze/GunBuddy_ChibiRaze_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "f097211c-4aaf-42f6-04a7-80adb96b9092",
+                    "charmLevel": 1,
+                    "displayName": "ChibiRaze",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/f097211c-4aaf-42f6-04a7-80adb96b9092/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiRaze/GunBuddy_ChibiRaze_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "f1c7487e-4f9a-42d4-8704-0597d7146c26",
             "displayName": "VALORANT GO! Vol. 1 Reyna Buddy",
             "isHiddenIfNotOwned": false,
@@ -270,6 +304,57 @@
                     "displayName": "ChibiSage",
                     "displayIcon": "https://media.valorant-api.com/buddylevels/0af262b7-48a1-df12-d445-bd8747efc248/displayicon.png",
                     "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiSage/GunBuddy_ChibiSage_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "dd2095b0-44e5-92ad-b1cc-b9ad44c29f28",
+            "displayName": "VALORANT GO! Vol. 2 Sova Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/dd2095b0-44e5-92ad-b1cc-b9ad44c29f28/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiSova/GunBuddy_ChibiSova_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "dc955846-4c78-55a4-bfda-47a89adc4394",
+                    "charmLevel": 1,
+                    "displayName": "ChibiSova",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/dc955846-4c78-55a4-bfda-47a89adc4394/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiSova/GunBuddy_ChibiSova_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1f242181-4a1d-1ea0-53f1-77ace29f6bf6",
+            "displayName": "VALORANT GO! Vol. 2 Viper Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/1f242181-4a1d-1ea0-53f1-77ace29f6bf6/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiViper/GunBuddy_ChibiViper_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "3f81d486-41ee-f90b-a3a9-b0883c83b7c8",
+                    "charmLevel": 1,
+                    "displayName": "ChibiViper",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/3f81d486-41ee-f90b-a3a9-b0883c83b7c8/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiViper/GunBuddy_ChibiViper_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "744457bf-4b96-62ea-934b-ee888267a23f",
+            "displayName": "VALORANT GO! Vol. 2 Yoru Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/744457bf-4b96-62ea-934b-ee888267a23f/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiYoru/GunBuddy_ChibiYoru_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d1973c23-478c-372a-e77c-739c2373fbed",
+                    "charmLevel": 1,
+                    "displayName": "ChibiYoru",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d1973c23-478c-372a-e77c-739c2373fbed/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/ChibiYoru/GunBuddy_ChibiYoru_Lv1_PrimaryAsset"
                 }
             ]
         },
