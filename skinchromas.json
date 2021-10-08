@@ -430,7 +430,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/b4b0d84e-4947-6078-abcb-82b354549fc7/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b4b0d84e-4947-6078-abcb-82b354549fc7/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/b4b0d84e-4947-6078-abcb-82b354549fc7/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/a3459330-494d-0add-8e33-f5b32236f4fc.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/a3459330-494d-0add-8e33-f5b32236f4fc.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/SOL/Chromas/v1/LMG_SOL_v1_PrimaryAsset"
         },
         {
@@ -439,7 +439,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/39ed0f62-4d30-6fae-b8d7-9c943d6984cb/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/39ed0f62-4d30-6fae-b8d7-9c943d6984cb/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/39ed0f62-4d30-6fae-b8d7-9c943d6984cb/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/091737cb-48af-3486-c830-828fef1a8f18.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/091737cb-48af-3486-c830-828fef1a8f18.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/SOL/Chromas/v2/LMG_SOL_v2_PrimaryAsset"
         },
         {
@@ -448,7 +448,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/ab9a4b7b-4037-c491-093d-e99e8070031f/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/ab9a4b7b-4037-c491-093d-e99e8070031f/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/ab9a4b7b-4037-c491-093d-e99e8070031f/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/4f345ed4-485f-803b-08d8-0eb5c935601b.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/4f345ed4-485f-803b-08d8-0eb5c935601b.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/SOL/Chromas/v3/LMG_SOL_v3_PrimaryAsset"
         },
         {
@@ -459,6 +459,42 @@
             "swatch": null,
             "streamedVideo": null,
             "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Standard/Chromas/Standard/LightMachineGun_Standard_Standard_PrimaryAsset"
+        },
+        {
+            "uuid": "4df3ba9f-4f72-dea8-c8d3-05a0dc1b7b58",
+            "displayName": "RGX 11z Pro Vandal Level 5\n(Variant 2 Blue)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/4df3ba9f-4f72-dea8-c8d3-05a0dc1b7b58/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/4df3ba9f-4f72-dea8-c8d3-05a0dc1b7b58/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/d12ea5b8-4a76-f370-5e10-07859b7cca81.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Afterglow/Chromas/Blue/AK_Afterglow_Blue_PrimaryAsset"
+        },
+        {
+            "uuid": "700f04e0-41dd-7e10-4103-ab9af60d3447",
+            "displayName": "RGX 11z Pro Vandal Level 5\n(Variant 1 Red)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/700f04e0-41dd-7e10-4103-ab9af60d3447/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/700f04e0-41dd-7e10-4103-ab9af60d3447/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/965ea110-4b39-29f7-e986-58bcbf7bfeb6.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Afterglow/Chromas/Red/AK_Afterglow_Red_PrimaryAsset"
+        },
+        {
+            "uuid": "742740d0-4e50-57e1-af32-f991c7c640f8",
+            "displayName": "RGX 11z Pro Vandal",
+            "displayIcon": "https://media.valorant-api.com/weaponskinchromas/742740d0-4e50-57e1-af32-f991c7c640f8/displayicon.png",
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/742740d0-4e50-57e1-af32-f991c7c640f8/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/742740d0-4e50-57e1-af32-f991c7c640f8/swatch.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Afterglow/Chromas/Standard/AK_Afterglow_Standard_PrimaryAsset"
+        },
+        {
+            "uuid": "038c6a4d-4fc5-5886-492c-ff8269661bf9",
+            "displayName": "RGX 11z Pro Vandal Level 5\n(Variant 3 Yellow)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/038c6a4d-4fc5-5886-492c-ff8269661bf9/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/038c6a4d-4fc5-5886-492c-ff8269661bf9/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/af3db52b-491c-f4dd-3fe0-bba2bab65c70.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Afterglow/Chromas/Yellow/AK_Afterglow_Yellow_PrimaryAsset"
         },
         {
             "uuid": "730adb1b-4e94-f597-9f21-60b758da1156",
@@ -484,7 +520,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/de2a2b29-4a65-459e-a822-ccacbff53d46/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/de2a2b29-4a65-459e-a822-ccacbff53d46/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/de2a2b29-4a65-459e-a822-ccacbff53d46/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/fa057e7c-47d9-7e93-3660-bc868752d220.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/fa057e7c-47d9-7e93-3660-bc868752d220.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Circle/Chromas/Standard/AK_Circle_Standard_PrimaryAsset"
         },
         {
@@ -493,7 +529,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/11406ee3-472c-dc1a-98f7-bfa8f2e3658b/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/11406ee3-472c-dc1a-98f7-bfa8f2e3658b/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/11406ee3-472c-dc1a-98f7-bfa8f2e3658b/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/880bf4e8-41bd-3c51-8594-82bd231f2527.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/880bf4e8-41bd-3c51-8594-82bd231f2527.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Circle/Chromas/v1/AK_Circle_v1_PrimaryAsset"
         },
         {
@@ -502,7 +538,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/6153bc01-4807-c705-e576-63beb9c8e930/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/6153bc01-4807-c705-e576-63beb9c8e930/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/6153bc01-4807-c705-e576-63beb9c8e930/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/062b5169-49b1-4807-5c7d-faafbb730b02.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/062b5169-49b1-4807-5c7d-faafbb730b02.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Circle/Chromas/v2/AK_Circle_v2_PrimaryAsset"
         },
         {
@@ -511,7 +547,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/0e16ba9e-48d4-85fd-3b76-84abc19932a0/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/0e16ba9e-48d4-85fd-3b76-84abc19932a0/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/0e16ba9e-48d4-85fd-3b76-84abc19932a0/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/cb00905d-4cd0-06cb-da34-10a2bfb9a263.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/cb00905d-4cd0-06cb-da34-10a2bfb9a263.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Circle/Chromas/v3/AK_Circle_v3_PrimaryAsset"
         },
         {
@@ -619,7 +655,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/5d94fbe1-434e-990d-1d51-2ca483c3abe4/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/5d94fbe1-434e-990d-1d51-2ca483c3abe4/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/5d94fbe1-434e-990d-1d51-2ca483c3abe4/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/c083e056-42ff-b651-9a38-53a0dce9c3ff.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/c083e056-42ff-b651-9a38-53a0dce9c3ff.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Fallen/Chromas/v1/AK_Fallen_v1_PrimaryAsset"
         },
         {
@@ -763,7 +799,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/31c816c4-4e19-9a57-4103-4194723eb6f1/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/31c816c4-4e19-9a57-4103-4194723eb6f1/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/31c816c4-4e19-9a57-4103-4194723eb6f1/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/599c0012-4ebc-1803-aac7-32a191706fc7.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/599c0012-4ebc-1803-aac7-32a191706fc7.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SOL/Chromas/v1/AK_SOL_v1_PrimaryAsset"
         },
         {
@@ -772,7 +808,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/274e2c81-4bcf-3689-c22b-41aa05b1329c/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/274e2c81-4bcf-3689-c22b-41aa05b1329c/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/274e2c81-4bcf-3689-c22b-41aa05b1329c/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/f8d24428-4dfe-55e5-3231-8ebf694b58d8.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/f8d24428-4dfe-55e5-3231-8ebf694b58d8.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SOL/Chromas/v2/AK_SOL_v2_PrimaryAsset"
         },
         {
@@ -781,7 +817,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/70531bdc-420a-c3e0-6207-24a9a830da5e/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/70531bdc-420a-c3e0-6207-24a9a830da5e/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/70531bdc-420a-c3e0-6207-24a9a830da5e/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/5c211112-4290-ea25-27f2-928a46304070.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/5c211112-4290-ea25-27f2-928a46304070.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SOL/Chromas/v3/AK_SOL_v3_PrimaryAsset"
         },
         {
@@ -791,7 +827,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/db4461e5-40dd-1173-3b64-e5836f92f4dd/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/db4461e5-40dd-1173-3b64-e5836f92f4dd/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Chromas/Black/AK_Soulstealer_Black_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Chromas/Black/AK_Soulstealer_Black_PrimaryAsset"
         },
         {
             "uuid": "b2a065c0-4632-ccaa-f496-7681dc2a6185",
@@ -800,7 +836,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b2a065c0-4632-ccaa-f496-7681dc2a6185/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/b2a065c0-4632-ccaa-f496-7681dc2a6185/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Chromas/Red/AK_Soulstealer_Red_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Chromas/Red/AK_Soulstealer_Red_PrimaryAsset"
         },
         {
             "uuid": "2bd28382-48c6-8579-83e8-e9b64b783de3",
@@ -809,7 +845,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/2bd28382-48c6-8579-83e8-e9b64b783de3/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/2bd28382-48c6-8579-83e8-e9b64b783de3/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Chromas/Standard/AK_Soulstealer_Standard_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Chromas/Standard/AK_Soulstealer_Standard_PrimaryAsset"
         },
         {
             "uuid": "b2619c1c-4974-4f06-f37b-c68b1d6d7bd1",
@@ -818,7 +854,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b2619c1c-4974-4f06-f37b-c68b1d6d7bd1/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/b2619c1c-4974-4f06-f37b-c68b1d6d7bd1/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Chromas/White/AK_Soulstealer_White_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Chromas/White/AK_Soulstealer_White_PrimaryAsset"
         },
         {
             "uuid": "bd02d15d-4b40-d70b-5877-caad6e786f84",
@@ -934,7 +970,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/ebdec31c-4241-295f-9647-97ae70639468/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/ebdec31c-4241-295f-9647-97ae70639468/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/ebdec31c-4241-295f-9647-97ae70639468/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/bd0c312e-48f2-435c-f357-8eb4d2e6ae6d.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/bd0c312e-48f2-435c-f357-8eb4d2e6ae6d.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Atlas/Chromas/v1/Burst_Atlas_v1_PrimaryAsset"
         },
         {
@@ -943,7 +979,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/a3ade5a6-4c44-83f5-d26d-4eb09dcf65f5/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/a3ade5a6-4c44-83f5-d26d-4eb09dcf65f5/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/a3ade5a6-4c44-83f5-d26d-4eb09dcf65f5/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/39606be5-4f42-c771-4d90-77a39d102ec9.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/39606be5-4f42-c771-4d90-77a39d102ec9.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Atlas/Chromas/v2/Burst_Atlas_v2_PrimaryAsset"
         },
         {
@@ -952,7 +988,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/374c6007-431e-a9d9-279a-f7a9830e50e1/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/374c6007-431e-a9d9-279a-f7a9830e50e1/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/374c6007-431e-a9d9-279a-f7a9830e50e1/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/fa7bb692-4d59-7576-d542-d1b0ece0b6ad.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/fa7bb692-4d59-7576-d542-d1b0ece0b6ad.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Atlas/Chromas/v3/Burst_Atlas_v3_PrimaryAsset"
         },
         {
@@ -1132,7 +1168,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/e924a97d-46aa-3c3e-ec39-9abfeb811f2b/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e924a97d-46aa-3c3e-ec39-9abfeb811f2b/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/e924a97d-46aa-3c3e-ec39-9abfeb811f2b/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/2aac289f-433a-3b9e-e7b1-04a0884e8ece.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/2aac289f-433a-3b9e-e7b1-04a0884e8ece.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Atlas/Chromas/v1/Carbine_Atlas_v1_PrimaryAsset"
         },
         {
@@ -1141,7 +1177,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/449a0d94-4320-dd8c-d458-fba5fdc04eb0/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/449a0d94-4320-dd8c-d458-fba5fdc04eb0/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/449a0d94-4320-dd8c-d458-fba5fdc04eb0/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/b0f59fd6-4d87-2dec-60c7-2cb8ba11c721.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/b0f59fd6-4d87-2dec-60c7-2cb8ba11c721.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Atlas/Chromas/v2/Carbine_Atlas_v2_PrimaryAsset"
         },
         {
@@ -1150,7 +1186,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/7e10eabf-476b-0bcb-5847-e8958d6f1132/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/7e10eabf-476b-0bcb-5847-e8958d6f1132/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/7e10eabf-476b-0bcb-5847-e8958d6f1132/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/16e41132-4a98-c5cb-d067-80b0599b23cc.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/16e41132-4a98-c5cb-d067-80b0599b23cc.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Atlas/Chromas/v3/Carbine_Atlas_v3_PrimaryAsset"
         },
         {
@@ -1321,7 +1357,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/948b7eea-467e-5fc3-4314-d191305fb68e/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/948b7eea-467e-5fc3-4314-d191305fb68e/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/948b7eea-467e-5fc3-4314-d191305fb68e/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/98a9e41f-4618-0dda-4d80-35827b3ecea4.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/98a9e41f-4618-0dda-4d80-35827b3ecea4.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/King/Chromas/v1/Carbine_King_v1_PrimaryAsset"
         },
         {
@@ -1330,7 +1366,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/7f466f2f-4c80-1222-5c3f-989486cfabc3/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/7f466f2f-4c80-1222-5c3f-989486cfabc3/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/7f466f2f-4c80-1222-5c3f-989486cfabc3/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/c52b8f62-462c-411b-118d-54980e56b28a.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/c52b8f62-462c-411b-118d-54980e56b28a.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/King/Chromas/v2/Carbine_King_v2_PrimaryAsset"
         },
         {
@@ -1339,7 +1375,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/0ebb5188-4528-d6f6-7576-bb87e980a2d4/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/0ebb5188-4528-d6f6-7576-bb87e980a2d4/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/0ebb5188-4528-d6f6-7576-bb87e980a2d4/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/aae681bd-4c07-378b-6c69-a58ab01e5767.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/aae681bd-4c07-378b-6c69-a58ab01e5767.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/King/Chromas/v3/Carbine_King_v3_PrimaryAsset"
         },
         {
@@ -1564,7 +1600,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/de24bd21-4a2c-148b-f20a-0b83ca55ac12/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/de24bd21-4a2c-148b-f20a-0b83ca55ac12/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/d7bd6f9f-4e8e-4326-b38a-92970088c391.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/d7bd6f9f-4e8e-4326-b38a-92970088c391.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/SpecOps/Chromas/v1/Carbine_SpecOps_v1_PrimaryAsset"
         },
         {
@@ -1573,7 +1609,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/8478de28-463d-5734-2d62-3e94c5d5a0c1/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/8478de28-463d-5734-2d62-3e94c5d5a0c1/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/c3692cb7-4e7e-f40f-3186-0fbe3c921dcd.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/c3692cb7-4e7e-f40f-3186-0fbe3c921dcd.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/SpecOps/Chromas/v2/Carbine_SpecOps_v2_PrimaryAsset"
         },
         {
@@ -1582,7 +1618,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/1803ef04-4f78-d8bc-98c8-1fb55b1a6063/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/1803ef04-4f78-d8bc-98c8-1fb55b1a6063/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/27997849-4641-386c-1a60-9384824e25dc.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/27997849-4641-386c-1a60-9384824e25dc.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/SpecOps/Chromas/v3/Carbine_SpecOps_v3_PrimaryAsset"
         },
         {
@@ -1933,7 +1969,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/4b659a6f-49a2-a97d-c207-4590e06ec3b5/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/4b659a6f-49a2-a97d-c207-4590e06ec3b5/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/4b659a6f-49a2-a97d-c207-4590e06ec3b5/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/903a5a22-4374-59c6-8bb6-88bcdda9a6ce.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/903a5a22-4374-59c6-8bb6-88bcdda9a6ce.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Circle/Chromas/Standard/PumpShotgun_Circle_Standard_PrimaryAsset"
         },
         {
@@ -1942,7 +1978,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/62c9d24c-44d7-6357-268d-f993df039d8e/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/62c9d24c-44d7-6357-268d-f993df039d8e/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/62c9d24c-44d7-6357-268d-f993df039d8e/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/905cd059-427a-3525-7d82-92aa8abd0ddc.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/905cd059-427a-3525-7d82-92aa8abd0ddc.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Circle/Chromas/v1/PumpShotgun_Circle_v1_PrimaryAsset"
         },
         {
@@ -1951,7 +1987,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/478ddd16-4927-e7de-eb34-448e283d7ce9/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/478ddd16-4927-e7de-eb34-448e283d7ce9/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/478ddd16-4927-e7de-eb34-448e283d7ce9/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/49c5b543-401c-b77d-2160-899cabf6fc49.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/49c5b543-401c-b77d-2160-899cabf6fc49.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Circle/Chromas/v2/PumpShotgun_Circle_v2_PrimaryAsset"
         },
         {
@@ -1960,7 +1996,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/219b4ec8-45e7-dcac-256f-4b9f8aac2797/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/219b4ec8-45e7-dcac-256f-4b9f8aac2797/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/219b4ec8-45e7-dcac-256f-4b9f8aac2797/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/fb282acf-4a2c-c081-ff14-02bfe6460c44.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/fb282acf-4a2c-c081-ff14-02bfe6460c44.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Circle/Chromas/v3/PumpShotgun_Circle_v3_PrimaryAsset"
         },
         {
@@ -2212,7 +2248,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/5f9ccde4-456a-67eb-0a7b-d1b8fd0b0258/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/5f9ccde4-456a-67eb-0a7b-d1b8fd0b0258/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/5f9ccde4-456a-67eb-0a7b-d1b8fd0b0258/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/43c5715b-4063-f16c-d5cd-34b0133d3eeb.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/43c5715b-4063-f16c-d5cd-34b0133d3eeb.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Raygun/Chromas/Black/PumpShotgun_Raygun_Black_PrimaryAsset"
         },
         {
@@ -2221,7 +2257,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/822401fe-4388-c203-3784-a0958885be07/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/822401fe-4388-c203-3784-a0958885be07/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/822401fe-4388-c203-3784-a0958885be07/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/26d514e3-4a37-af25-7cda-73a59893ccfa.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/26d514e3-4a37-af25-7cda-73a59893ccfa.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Raygun/Chromas/Chrome/PumpShotgun_Raygun_Chrome_PrimaryAsset"
         },
         {
@@ -2230,7 +2266,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/af2c044e-4c83-04a4-bc7a-42a16be55796/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/af2c044e-4c83-04a4-bc7a-42a16be55796/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/af2c044e-4c83-04a4-bc7a-42a16be55796/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/194c5e06-459d-fc7e-d8e8-6b9067bc4466.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/194c5e06-459d-fc7e-d8e8-6b9067bc4466.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Raygun/Chromas/RWB/PumpShotgun_Raygun_RWB_PrimaryAsset"
         },
         {
@@ -2306,6 +2342,42 @@
             "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/StreetArt/Chromas/Standard/PumpShotgun_StreetArt_Standard_PrimaryAsset"
         },
         {
+            "uuid": "9e241944-4fd8-0f64-bff0-609c3d8c428b",
+            "displayName": "RGX 11z Pro Frenzy Level 5\n(Variant 2 Blue)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/9e241944-4fd8-0f64-bff0-609c3d8c428b/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/9e241944-4fd8-0f64-bff0-609c3d8c428b/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/e8aa82e4-4f6f-850c-17ed-e1be53ddb8ea.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Afterglow/Chromas/Blue/AutoPistol_Afterglow_Blue_PrimaryAsset"
+        },
+        {
+            "uuid": "175503a8-4276-bc05-ab9f-6abdacf298a5",
+            "displayName": "RGX 11z Pro Frenzy Level 5\n(Variant 1 Red)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/175503a8-4276-bc05-ab9f-6abdacf298a5/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/175503a8-4276-bc05-ab9f-6abdacf298a5/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/2e39cf5b-43cb-b78e-f695-b78d55b6f471.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Afterglow/Chromas/Red/AutoPistol_Afterglow_Red_PrimaryAsset"
+        },
+        {
+            "uuid": "1aaa2cf9-47eb-faf4-75ca-c383728ab1fc",
+            "displayName": "RGX 11z Pro Frenzy",
+            "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1aaa2cf9-47eb-faf4-75ca-c383728ab1fc/displayicon.png",
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/1aaa2cf9-47eb-faf4-75ca-c383728ab1fc/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/1aaa2cf9-47eb-faf4-75ca-c383728ab1fc/swatch.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Afterglow/Chromas/Standard/AutoPistol_Afterglow_Standard_PrimaryAsset"
+        },
+        {
+            "uuid": "ab20e644-49ca-749a-cf5d-d59507361e9a",
+            "displayName": "RGX 11z Pro Frenzy Level 5\n(Variant 3 Yellow)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/ab20e644-49ca-749a-cf5d-d59507361e9a/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/ab20e644-49ca-749a-cf5d-d59507361e9a/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/0f161993-4c76-8317-6d1b-17b5ea4d8a1f.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Afterglow/Chromas/Yellow/AutoPistol_Afterglow_Yellow_PrimaryAsset"
+        },
+        {
             "uuid": "f4143c4c-4fa2-4922-c228-60a276bc9d7f",
             "displayName": "RagnaRocker Frenzy",
             "displayIcon": null,
@@ -2320,7 +2392,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/c9f9d3b6-4d25-c6d4-c519-76a1a0292c84/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/c9f9d3b6-4d25-c6d4-c519-76a1a0292c84/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/c9f9d3b6-4d25-c6d4-c519-76a1a0292c84/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/3a85caf0-4d70-3d5c-0960-7694c246b955.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/3a85caf0-4d70-3d5c-0960-7694c246b955.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Circle/Chromas/Standard/AutoPistol_Circle_Standard_PrimaryAsset"
         },
         {
@@ -2329,7 +2401,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/e11c8ac5-4a17-f22f-2f30-cd8436b327dc/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e11c8ac5-4a17-f22f-2f30-cd8436b327dc/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/e11c8ac5-4a17-f22f-2f30-cd8436b327dc/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/70a04a32-4789-0848-5fe8-33b7ba5ef525.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/70a04a32-4789-0848-5fe8-33b7ba5ef525.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Circle/Chromas/v1/AutoPistol_Circle_v1_PrimaryAsset"
         },
         {
@@ -2338,7 +2410,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/ae026856-4a63-ad8e-5e05-5eb53ddcc31c/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/ae026856-4a63-ad8e-5e05-5eb53ddcc31c/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/ae026856-4a63-ad8e-5e05-5eb53ddcc31c/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/0a1bf728-4813-087c-c312-69aa857418d4.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/0a1bf728-4813-087c-c312-69aa857418d4.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Circle/Chromas/v2/AutoPistol_Circle_v2_PrimaryAsset"
         },
         {
@@ -2347,7 +2419,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/251243b1-430a-1b4f-6f80-fab5d271958f/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/251243b1-430a-1b4f-6f80-fab5d271958f/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/251243b1-430a-1b4f-6f80-fab5d271958f/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/3776d279-4be3-63ae-a5c7-eb9242c4541e.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/3776d279-4be3-63ae-a5c7-eb9242c4541e.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Circle/Chromas/v3/AutoPistol_Circle_v3_PrimaryAsset"
         },
         {
@@ -2635,7 +2707,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/c2e3235a-426a-0a34-8559-6492ca4434a9/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/c2e3235a-426a-0a34-8559-6492ca4434a9/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/c2e3235a-426a-0a34-8559-6492ca4434a9/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/4f6a0cb2-4eb4-419f-170a-2bab267cd372.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/4f6a0cb2-4eb4-419f-170a-2bab267cd372.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Atlas/Chromas/v1/BasePistol_Atlas_v1_PrimaryAsset"
         },
         {
@@ -2644,7 +2716,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/c8ec1980-46c4-83d2-f405-58b36bed40c7/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/c8ec1980-46c4-83d2-f405-58b36bed40c7/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/c8ec1980-46c4-83d2-f405-58b36bed40c7/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/68a4477c-46a9-608b-6387-e0a928b9d94a.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/68a4477c-46a9-608b-6387-e0a928b9d94a.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Atlas/Chromas/v2/BasePistol_Atlas_v2_PrimaryAsset"
         },
         {
@@ -2653,7 +2725,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1746329a-450b-db34-eb45-a19c4af64aa8/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/1746329a-450b-db34-eb45-a19c4af64aa8/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/1746329a-450b-db34-eb45-a19c4af64aa8/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/66f72e35-4f2d-c2ff-c715-46b10a2748a4.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/66f72e35-4f2d-c2ff-c715-46b10a2748a4.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Atlas/Chromas/v3/BasePistol_Atlas_v3_PrimaryAsset"
         },
         {
@@ -2770,7 +2842,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/cd380fae-4628-5a94-b9cb-10bb10bd4804/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/cd380fae-4628-5a94-b9cb-10bb10bd4804/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/cd380fae-4628-5a94-b9cb-10bb10bd4804/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/fb202d2f-4921-16d8-3106-448a68a93a71.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/fb202d2f-4921-16d8-3106-448a68a93a71.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Fallen/Chromas/v1/BasePistol_Fallen_v1_PrimaryAsset"
         },
         {
@@ -2789,7 +2861,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/02390051-4309-22d4-b733-c09fbfcf2e7f/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/02390051-4309-22d4-b733-c09fbfcf2e7f/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/HypeBeast/Chromas/Blue/BasePistol_HypeBeast_Blue_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Hypebeast/Chromas/Blue/BasePistol_HypeBeast_Blue_PrimaryAsset"
         },
         {
             "uuid": "42280760-422f-b5d1-4255-1e8993a817a4",
@@ -2798,7 +2870,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/42280760-422f-b5d1-4255-1e8993a817a4/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/42280760-422f-b5d1-4255-1e8993a817a4/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/HypeBeast/Chromas/Orange/BasePistol_HypeBeast_Orange_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Hypebeast/Chromas/Orange/BasePistol_HypeBeast_Orange_PrimaryAsset"
         },
         {
             "uuid": "d9dce0ec-464c-df67-63a3-1f9a05d322ad",
@@ -2807,7 +2879,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/d9dce0ec-464c-df67-63a3-1f9a05d322ad/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/d9dce0ec-464c-df67-63a3-1f9a05d322ad/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/HypeBeast/Chromas/Standard/BasePistol_HypeBeast_Standard_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Hypebeast/Chromas/Standard/BasePistol_HypeBeast_Standard_PrimaryAsset"
         },
         {
             "uuid": "9fcc46a1-42f8-6407-787d-cb9d3e0bb718",
@@ -2816,7 +2888,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/9fcc46a1-42f8-6407-787d-cb9d3e0bb718/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/9fcc46a1-42f8-6407-787d-cb9d3e0bb718/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/HypeBeast/Chromas/Yellow/BasePistol_HypeBeast_Yellow_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Hypebeast/Chromas/Yellow/BasePistol_HypeBeast_Yellow_PrimaryAsset"
         },
         {
             "uuid": "4bd1574a-436b-eafb-3611-588a44ef066a",
@@ -2932,7 +3004,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/39d5da8e-4e4e-e2a2-30a9-e8b7785225e4/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/39d5da8e-4e4e-e2a2-30a9-e8b7785225e4/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/39d5da8e-4e4e-e2a2-30a9-e8b7785225e4/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/466718f4-4c49-7a4f-46a0-65a3bd5e8691.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/466718f4-4c49-7a4f-46a0-65a3bd5e8691.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Raygun/Chromas/Black/BasePistol_Raygun_Black_PrimaryAsset"
         },
         {
@@ -2941,7 +3013,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/e410eff8-4aae-3ed3-d2ec-71bcb45954d1/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e410eff8-4aae-3ed3-d2ec-71bcb45954d1/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/e410eff8-4aae-3ed3-d2ec-71bcb45954d1/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/ddfb2d4a-4aa1-c231-7165-51a46695916b.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/ddfb2d4a-4aa1-c231-7165-51a46695916b.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Raygun/Chromas/Chrome/BasePistol_Raygun_Chrome_PrimaryAsset"
         },
         {
@@ -2950,7 +3022,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/bf7a6ba8-4e33-9499-f829-dc9230d458de/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/bf7a6ba8-4e33-9499-f829-dc9230d458de/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/bf7a6ba8-4e33-9499-f829-dc9230d458de/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/d22786c9-4c80-0edc-f62c-fe90e8ae28b2.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/d22786c9-4c80-0edc-f62c-fe90e8ae28b2.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Raygun/Chromas/RWB/BasePistol_Raygun_RWB_PrimaryAsset"
         },
         {
@@ -3103,7 +3175,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/3bb2644a-4088-1d9d-bf2d-f1abd57fdedf/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/3bb2644a-4088-1d9d-bf2d-f1abd57fdedf/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/3bb2644a-4088-1d9d-bf2d-f1abd57fdedf/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/a65efc67-4fc0-6977-b47f-92b3215f9afa.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/a65efc67-4fc0-6977-b47f-92b3215f9afa.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/King/Chromas/v1/Luger_King_v1_PrimaryAsset"
         },
         {
@@ -3112,7 +3184,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/f7639e6d-46cc-fc91-7f35-4e85da576e76/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/f7639e6d-46cc-fc91-7f35-4e85da576e76/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/f7639e6d-46cc-fc91-7f35-4e85da576e76/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/115d2902-41fb-d4d4-f0c9-7190c3997023.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/115d2902-41fb-d4d4-f0c9-7190c3997023.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/King/Chromas/v2/Luger_King_v2_PrimaryAsset"
         },
         {
@@ -3121,7 +3193,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/5c363a8e-4ef8-4ebb-e068-cfb18eebd93a/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/5c363a8e-4ef8-4ebb-e068-cfb18eebd93a/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/5c363a8e-4ef8-4ebb-e068-cfb18eebd93a/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/d16a49c9-4a92-452c-781e-008251974865.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/d16a49c9-4a92-452c-781e-008251974865.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/King/Chromas/v3/Luger_King_v3_PrimaryAsset"
         },
         {
@@ -3310,7 +3382,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/a1c1df9c-4fdb-6a93-3bcc-bd9bbfc1fdac/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/a1c1df9c-4fdb-6a93-3bcc-bd9bbfc1fdac/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/6ae54e6d-4a93-0be2-f24a-20b9f9485608.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/6ae54e6d-4a93-0be2-f24a-20b9f9485608.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/SpecOps/Chromas/v1/Luger_SpecOps_v1_PrimaryAsset"
         },
         {
@@ -3319,7 +3391,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/d7753012-4323-4ebf-d516-c78393664b79/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/d7753012-4323-4ebf-d516-c78393664b79/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/d2048980-41ef-f215-0020-31808da1cf30.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/d2048980-41ef-f215-0020-31808da1cf30.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/SpecOps/Chromas/v2/Luger_SpecOps_v2_PrimaryAsset"
         },
         {
@@ -3328,7 +3400,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/d43c22a2-4424-68b0-a075-cb9c3ffd7439/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/d43c22a2-4424-68b0-a075-cb9c3ffd7439/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/b749fd67-4e4e-4448-e388-27841e45387d.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/b749fd67-4e4e-4448-e388-27841e45387d.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/SpecOps/Chromas/v3/Luger_SpecOps_v3_PrimaryAsset"
         },
         {
@@ -3652,7 +3724,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/03ba7fcd-410d-90d0-eb13-9cbefa221eeb/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/03ba7fcd-410d-90d0-eb13-9cbefa221eeb/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/03ba7fcd-410d-90d0-eb13-9cbefa221eeb/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/eda70ae0-476e-ee8b-3262-d6b230381c1c.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/eda70ae0-476e-ee8b-3262-d6b230381c1c.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/SOL/Chromas/v1/Revolver_SOL_v1_PrimaryAsset"
         },
         {
@@ -3661,7 +3733,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/810f8c7e-4717-42e2-97e2-418606f83e28/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/810f8c7e-4717-42e2-97e2-418606f83e28/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/810f8c7e-4717-42e2-97e2-418606f83e28/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/8d44d40a-4811-9483-0788-8696d8644c87.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/8d44d40a-4811-9483-0788-8696d8644c87.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/SOL/Chromas/v2/Revolver_SOL_v2_PrimaryAsset"
         },
         {
@@ -3670,7 +3742,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/ce3c606b-46bd-2554-fc23-bdb01b9d9fd0/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/ce3c606b-46bd-2554-fc23-bdb01b9d9fd0/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/ce3c606b-46bd-2554-fc23-bdb01b9d9fd0/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/31cc089e-4bdd-2f5c-0073-e187667d1024.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/31cc089e-4bdd-2f5c-0073-e187667d1024.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/SOL/Chromas/v3/Revolver_SOL_v3_PrimaryAsset"
         },
         {
@@ -3895,7 +3967,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/e9a1f1d7-4651-c94c-4e9f-94a4bb93232b/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e9a1f1d7-4651-c94c-4e9f-94a4bb93232b/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/e9a1f1d7-4651-c94c-4e9f-94a4bb93232b/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/27894ca0-4bae-9bb9-a0e1-1d9befd86eb0.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/27894ca0-4bae-9bb9-a0e1-1d9befd86eb0.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Circle/Chromas/Standard/BoltSniper_Circle_Standard_PrimaryAsset"
         },
         {
@@ -3904,7 +3976,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/3d72bc4e-4af0-369b-9f67-3181e7940b9a/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/3d72bc4e-4af0-369b-9f67-3181e7940b9a/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/3d72bc4e-4af0-369b-9f67-3181e7940b9a/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/41c0b7ef-46ce-24ae-451f-a58a1a88da62.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/41c0b7ef-46ce-24ae-451f-a58a1a88da62.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Circle/Chromas/v1/BoltSniper_Circle_v1_PrimaryAsset"
         },
         {
@@ -3913,7 +3985,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/db9ccc65-45c1-cc8d-6b2a-97a3c9ec6652/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/db9ccc65-45c1-cc8d-6b2a-97a3c9ec6652/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/db9ccc65-45c1-cc8d-6b2a-97a3c9ec6652/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/f06fc1cf-4de7-2847-ef8c-ce9404dc8e59.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/f06fc1cf-4de7-2847-ef8c-ce9404dc8e59.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Circle/Chromas/v2/BoltSniper_Circle_v2_PrimaryAsset"
         },
         {
@@ -3922,7 +3994,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/d41d5078-4b51-50b5-0d53-6cb96d548d74/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/d41d5078-4b51-50b5-0d53-6cb96d548d74/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/d41d5078-4b51-50b5-0d53-6cb96d548d74/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/702805f2-40cf-26db-6f7d-e59f9e57054d.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/702805f2-40cf-26db-6f7d-e59f9e57054d.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Circle/Chromas/v3/BoltSniper_Circle_v3_PrimaryAsset"
         },
         {
@@ -4030,7 +4102,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/5f4634b4-41e3-1f48-4251-778091198113/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/5f4634b4-41e3-1f48-4251-778091198113/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/5f4634b4-41e3-1f48-4251-778091198113/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/c7c37b3f-48e5-2513-ab71-de83050f7b87.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/c7c37b3f-48e5-2513-ab71-de83050f7b87.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Fallen/Chromas/v1/BoltSniper_Fallen_v1_PrimaryAsset"
         },
         {
@@ -4138,7 +4210,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/d3e0fa29-4ba2-e2e3-c829-c9aee0768585/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/d3e0fa29-4ba2-e2e3-c829-c9aee0768585/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/d3e0fa29-4ba2-e2e3-c829-c9aee0768585/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/0c1b094c-4488-d09d-75fd-41a3b73eac2d.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/0c1b094c-4488-d09d-75fd-41a3b73eac2d.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Raygun/Chromas/Black/BoltSniper_Raygun_Black_PrimaryAsset"
         },
         {
@@ -4147,7 +4219,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/f5c22f67-4e6f-c23d-24bd-3bb19cf3bf62/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/f5c22f67-4e6f-c23d-24bd-3bb19cf3bf62/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/f5c22f67-4e6f-c23d-24bd-3bb19cf3bf62/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/fd19958d-4cff-00ce-b4ef-a7b798bcbba0.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/fd19958d-4cff-00ce-b4ef-a7b798bcbba0.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Raygun/Chromas/Chrome/BoltSniper_Raygun_Chrome_PrimaryAsset"
         },
         {
@@ -4156,7 +4228,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/b867c4a0-408c-2f04-2e8e-36a22e85c8f2/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b867c4a0-408c-2f04-2e8e-36a22e85c8f2/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/b867c4a0-408c-2f04-2e8e-36a22e85c8f2/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/11710f6a-4309-22c8-7d20-b6aac0f07e79.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/11710f6a-4309-22c8-7d20-b6aac0f07e79.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Raygun/Chromas/RWB/BoltSniper_Raygun_RWB_PrimaryAsset"
         },
         {
@@ -4183,7 +4255,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/eacd53bc-42ca-cdc4-cd45-4da88e9b15d6/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/eacd53bc-42ca-cdc4-cd45-4da88e9b15d6/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/eacd53bc-42ca-cdc4-cd45-4da88e9b15d6/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/597a657c-4cbe-dc46-b2cf-48b5d8e07386.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/597a657c-4cbe-dc46-b2cf-48b5d8e07386.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/SOL/Chromas/v1/BoltSniper_SOL_v1_PrimaryAsset"
         },
         {
@@ -4192,7 +4264,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/6e3cfa55-414a-9416-51c6-d8b7edd5004e/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/6e3cfa55-414a-9416-51c6-d8b7edd5004e/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/6e3cfa55-414a-9416-51c6-d8b7edd5004e/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/05bbbe3e-4b53-0575-b330-a589863d7c49.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/05bbbe3e-4b53-0575-b330-a589863d7c49.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/SOL/Chromas/v2/BoltSniper_SOL_v2_PrimaryAsset"
         },
         {
@@ -4201,7 +4273,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/6eb6f9ca-47a7-f01d-713f-ea996b5cc03a/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/6eb6f9ca-47a7-f01d-713f-ea996b5cc03a/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/6eb6f9ca-47a7-f01d-713f-ea996b5cc03a/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/982da921-43e8-adb9-a387-04892ed2f029.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/982da921-43e8-adb9-a387-04892ed2f029.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/SOL/Chromas/v3/BoltSniper_SOL_v3_PrimaryAsset"
         },
         {
@@ -4286,6 +4358,42 @@
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Triangles/Chromas/Standard/BoltSniper_Triangles_Standard_PrimaryAsset"
         },
         {
+            "uuid": "c438dbb7-4ade-8240-90b5-b88b33aa5be4",
+            "displayName": "RGX 11z Pro Guardian Level 5\n(Variant 2 Blue)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/c438dbb7-4ade-8240-90b5-b88b33aa5be4/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/c438dbb7-4ade-8240-90b5-b88b33aa5be4/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/d83be065-4025-37da-3f2e-ee87b0d26c4f.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Afterglow/Chromas/Blue/DMR_Afterglow_Blue_PrimaryAsset"
+        },
+        {
+            "uuid": "78736e18-4ccc-d804-665f-8799aeb0600f",
+            "displayName": "RGX 11z Pro Guardian Level 5\n(Variant 1 Red)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/78736e18-4ccc-d804-665f-8799aeb0600f/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/78736e18-4ccc-d804-665f-8799aeb0600f/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/5567d6ff-4ced-0efb-1530-728e961b4617.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Afterglow/Chromas/Red/DMR_Afterglow_Red_PrimaryAsset"
+        },
+        {
+            "uuid": "04b12bb8-4ba5-6611-ec16-02862bcfb939",
+            "displayName": "RGX 11z Pro Guardian",
+            "displayIcon": "https://media.valorant-api.com/weaponskinchromas/04b12bb8-4ba5-6611-ec16-02862bcfb939/displayicon.png",
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/04b12bb8-4ba5-6611-ec16-02862bcfb939/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/04b12bb8-4ba5-6611-ec16-02862bcfb939/swatch.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Afterglow/Chromas/Standard/DMR_Afterglow_Standard_PrimaryAsset"
+        },
+        {
+            "uuid": "39914e93-4b2a-d52b-2259-718535b08379",
+            "displayName": "RGX 11z Pro Guardian Level 5\n(Variant 3 Yellow)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/39914e93-4b2a-d52b-2259-718535b08379/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/39914e93-4b2a-d52b-2259-718535b08379/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/74b94a80-44b3-d6f9-da51-85b4dde6995e.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Afterglow/Chromas/Yellow/DMR_Afterglow_Yellow_PrimaryAsset"
+        },
+        {
             "uuid": "3628cc8a-4153-9561-74a3-ea8f1ac7e0e4",
             "displayName": "VALORANT GO! Vol. 1 Guardian",
             "displayIcon": null,
@@ -4309,7 +4417,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/fa3cea63-4bbd-ebf6-808c-d1ae736f0dd4/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/fa3cea63-4bbd-ebf6-808c-d1ae736f0dd4/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/fa3cea63-4bbd-ebf6-808c-d1ae736f0dd4/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/1cf38571-42ce-a466-e56f-93987ca98505.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/1cf38571-42ce-a466-e56f-93987ca98505.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Atlas/Chromas/v1/DMR_Atlas_v1_PrimaryAsset"
         },
         {
@@ -4318,7 +4426,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/59432b53-44bc-6e8e-c341-f083a9f759da/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/59432b53-44bc-6e8e-c341-f083a9f759da/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/59432b53-44bc-6e8e-c341-f083a9f759da/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/e2e22fdd-423b-f01e-a7b6-2fb477eed0f8.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/e2e22fdd-423b-f01e-a7b6-2fb477eed0f8.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Atlas/Chromas/v2/DMR_Atlas_v2_PrimaryAsset"
         },
         {
@@ -4327,7 +4435,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/d1e44ee7-4089-6358-f980-0ebd4a7c88a7/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/d1e44ee7-4089-6358-f980-0ebd4a7c88a7/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/d1e44ee7-4089-6358-f980-0ebd4a7c88a7/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/9b85f470-420a-3bc3-4cc9-408c827d3a37.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/9b85f470-420a-3bc3-4cc9-408c827d3a37.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Atlas/Chromas/v3/DMR_Atlas_v3_PrimaryAsset"
         },
         {
@@ -4426,7 +4534,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/82024942-4396-65bf-777a-009fe896437f/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/82024942-4396-65bf-777a-009fe896437f/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/82024942-4396-65bf-777a-009fe896437f/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/af8dd1e7-4146-3786-1dfa-baaa78de95bb.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/af8dd1e7-4146-3786-1dfa-baaa78de95bb.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Chromas/v1/DMR_King_v1_PrimaryAsset"
         },
         {
@@ -4435,7 +4543,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/3d0a76d8-4f01-244f-158d-57b59c5ff51e/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/3d0a76d8-4f01-244f-158d-57b59c5ff51e/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/3d0a76d8-4f01-244f-158d-57b59c5ff51e/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/8394fb8c-4702-f7b6-7214-1d899e1d4ea7.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/8394fb8c-4702-f7b6-7214-1d899e1d4ea7.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Chromas/v2/DMR_King_v2_PrimaryAsset"
         },
         {
@@ -4444,7 +4552,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/38776b08-42b7-4231-a32c-539251cf6b4a/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/38776b08-42b7-4231-a32c-539251cf6b4a/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/38776b08-42b7-4231-a32c-539251cf6b4a/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/cb169daa-4261-1d4c-9715-48a778673709.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/cb169daa-4261-1d4c-9715-48a778673709.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Chromas/v3/DMR_King_v3_PrimaryAsset"
         },
         {
@@ -4633,7 +4741,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b6e9eabe-4fa1-5823-7427-7e9e73a14333/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/b6e9eabe-4fa1-5823-7427-7e9e73a14333/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/e400e908-4328-117d-45c1-b88b6abad988.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/e400e908-4328-117d-45c1-b88b6abad988.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/SpecOps/Chromas/v1/DMR_SpecOps_v1_PrimaryAsset"
         },
         {
@@ -4642,7 +4750,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/a0f14c75-4601-8374-9ec1-65aa31430928/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/a0f14c75-4601-8374-9ec1-65aa31430928/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/e52303b4-4534-560f-3ef5-c49e60b7a0a2.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/e52303b4-4534-560f-3ef5-c49e60b7a0a2.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/SpecOps/Chromas/v2/DMR_SpecOps_v2_PrimaryAsset"
         },
         {
@@ -4651,7 +4759,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/7dcc4034-4f13-93cb-296b-00822b13373b/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/7dcc4034-4f13-93cb-296b-00822b13373b/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/e1b4ac05-44dd-c2be-eae7-c59bea1b47cd.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/e1b4ac05-44dd-c2be-eae7-c59bea1b47cd.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/SpecOps/Chromas/v3/DMR_SpecOps_v3_PrimaryAsset"
         },
         {
@@ -5002,7 +5110,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/b435c96f-4230-014e-74d2-90a0d5e245b5/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b435c96f-4230-014e-74d2-90a0d5e245b5/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/b435c96f-4230-014e-74d2-90a0d5e245b5/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/b7e6eefc-457e-2479-359e-45a45f5cab2e.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/b7e6eefc-457e-2479-359e-45a45f5cab2e.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Fallen/Chromas/v1/MP5_Fallen_v1_PrimaryAsset"
         },
         {
@@ -5101,7 +5209,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/30923a5d-4bd6-291b-0515-a39fe82b9f36/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/30923a5d-4bd6-291b-0515-a39fe82b9f36/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/30923a5d-4bd6-291b-0515-a39fe82b9f36/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/1f4f55b2-437b-e46a-7d0e-9a8607091cad.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/1f4f55b2-437b-e46a-7d0e-9a8607091cad.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/King/Chromas/v1/MP5_King_v1_PrimaryAsset"
         },
         {
@@ -5110,7 +5218,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/21413f63-40b1-f16c-1ef6-0ebf8c94978d/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/21413f63-40b1-f16c-1ef6-0ebf8c94978d/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/21413f63-40b1-f16c-1ef6-0ebf8c94978d/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/0653e8c7-4923-01c6-13de-faba19cc66f6.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/0653e8c7-4923-01c6-13de-faba19cc66f6.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/King/Chromas/v2/MP5_King_v2_PrimaryAsset"
         },
         {
@@ -5119,7 +5227,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/52a4c8c3-47c5-e5b0-dfb3-4e98461bfd96/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/52a4c8c3-47c5-e5b0-dfb3-4e98461bfd96/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/52a4c8c3-47c5-e5b0-dfb3-4e98461bfd96/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/74c0bccb-4d92-5603-22b0-b98d5385d0fd.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/74c0bccb-4d92-5603-22b0-b98d5385d0fd.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/King/Chromas/v3/MP5_King_v3_PrimaryAsset"
         },
         {
@@ -5236,7 +5344,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/22f733f9-4fb3-20f9-e032-f194d22c3d9a/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/22f733f9-4fb3-20f9-e032-f194d22c3d9a/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/22f733f9-4fb3-20f9-e032-f194d22c3d9a/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/5be2c819-4f67-a499-4870-6f86dbed3a68.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/5be2c819-4f67-a499-4870-6f86dbed3a68.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Raygun/Chromas/Black/MP5_Raygun_Black_PrimaryAsset"
         },
         {
@@ -5245,7 +5353,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/74b5a7a2-43b5-4343-2dc8-c2801230e288/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/74b5a7a2-43b5-4343-2dc8-c2801230e288/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/74b5a7a2-43b5-4343-2dc8-c2801230e288/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/be06a334-42da-683c-3b0c-9fa798cc16b6.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/be06a334-42da-683c-3b0c-9fa798cc16b6.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Raygun/Chromas/Chrome/MP5_Raygun_Chrome_PrimaryAsset"
         },
         {
@@ -5254,7 +5362,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/4de533bf-44d1-d8d2-9969-168e5a22d910/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/4de533bf-44d1-d8d2-9969-168e5a22d910/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/4de533bf-44d1-d8d2-9969-168e5a22d910/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/b8f573ff-46c7-4ebe-133a-8db233fa0002.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/b8f573ff-46c7-4ebe-133a-8db233fa0002.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Raygun/Chromas/RWB/MP5_Raygun_RWB_PrimaryAsset"
         },
         {
@@ -5281,7 +5389,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b567c4f8-4789-a563-8225-0b8a3312f202/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/b567c4f8-4789-a563-8225-0b8a3312f202/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/8ade35ba-4c02-8f5e-5a01-3aa162e99aa5.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/8ade35ba-4c02-8f5e-5a01-3aa162e99aa5.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/SpecOps/Chromas/v1/MP5_SpecOps_v1_PrimaryAsset"
         },
         {
@@ -5290,7 +5398,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/566280a8-4479-1cd8-72f0-bba916c4de4a/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/566280a8-4479-1cd8-72f0-bba916c4de4a/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/1c88469e-4157-9b5f-3983-ee888995227a.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/1c88469e-4157-9b5f-3983-ee888995227a.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/SpecOps/Chromas/v2/MP5_SpecOps_v2_PrimaryAsset"
         },
         {
@@ -5299,7 +5407,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/3e8f9372-4253-84cb-15d2-a288c9c26a27/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/3e8f9372-4253-84cb-15d2-a288c9c26a27/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/68fa86a1-4af9-94c9-e0e3-3d89c106e696.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/68fa86a1-4af9-94c9-e0e3-3d89c106e696.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/SpecOps/Chromas/v3/MP5_SpecOps_v3_PrimaryAsset"
         },
         {
@@ -5400,6 +5508,42 @@
             "swatch": null,
             "streamedVideo": null,
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Wasteland/Chromas/Standard/MP5_Wasteland_Standard_PrimaryAsset"
+        },
+        {
+            "uuid": "fa548ae1-4f50-0730-0c4f-b18c473c8542",
+            "displayName": "RGX 11z Pro Stinger Level 5\n(Variant 2 Blue)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/fa548ae1-4f50-0730-0c4f-b18c473c8542/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/fa548ae1-4f50-0730-0c4f-b18c473c8542/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/c211c495-4854-9426-1dc1-1b842dcee506.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Afterglow/Chromas/Blue/Vector_Afterglow_Blue_PrimaryAsset"
+        },
+        {
+            "uuid": "e5a694a1-465e-c634-39b8-bcbf16ecab4d",
+            "displayName": "RGX 11z Pro Stinger Level 5\n(Variant 1 Red)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/e5a694a1-465e-c634-39b8-bcbf16ecab4d/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/e5a694a1-465e-c634-39b8-bcbf16ecab4d/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/57ff9f66-4bae-bc33-84d6-0f97c823a302.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Afterglow/Chromas/Red/Vector_Afterglow_Red_PrimaryAsset"
+        },
+        {
+            "uuid": "1539cc4b-444d-b775-f17e-5a9a13f5ba81",
+            "displayName": "RGX 11z Pro Stinger",
+            "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1539cc4b-444d-b775-f17e-5a9a13f5ba81/displayicon.png",
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/1539cc4b-444d-b775-f17e-5a9a13f5ba81/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/1539cc4b-444d-b775-f17e-5a9a13f5ba81/swatch.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Afterglow/Chromas/Standard/Vector_Afterglow_Standard_PrimaryAsset"
+        },
+        {
+            "uuid": "3debb072-49ae-8ada-fdd9-e081208b42fa",
+            "displayName": "RGX 11z Pro Stinger Level 5\n(Variant 3 Yellow)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/3debb072-49ae-8ada-fdd9-e081208b42fa/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/3debb072-49ae-8ada-fdd9-e081208b42fa/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/3dc14060-4dfc-3ee7-806a-9e802e0bfe4b.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Afterglow/Chromas/Yellow/Vector_Afterglow_Yellow_PrimaryAsset"
         },
         {
             "uuid": "c78e4616-4499-7926-0f1e-93977020063f",
@@ -5609,6 +5753,42 @@
             "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Walnut/Chromas/Standard/Vector_Walnut_Standard_PrimaryAsset"
         },
         {
+            "uuid": "5a902162-4810-106a-6fc6-87a0318d73d2",
+            "displayName": "RGX 11z Pro Blade Level 2 (Variant 2 Blue)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/5a902162-4810-106a-6fc6-87a0318d73d2/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/5a902162-4810-106a-6fc6-87a0318d73d2/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/fd579859-431a-07fc-df3a-f996b89cbc7b.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Afterglow/Chromas/Blue/Melee_Afterglow_Blue_PrimaryAsset"
+        },
+        {
+            "uuid": "bcd0308b-4f12-e460-e34c-dba6b25386df",
+            "displayName": "RGX 11z Pro Blade Level 2 (Variant 1 Red)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/bcd0308b-4f12-e460-e34c-dba6b25386df/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/bcd0308b-4f12-e460-e34c-dba6b25386df/swatch.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Afterglow/Chromas/Red/Melee_Afterglow_Red_PrimaryAsset"
+        },
+        {
+            "uuid": "8ceded3e-4365-9aa6-eb7e-bda2cd553d6f",
+            "displayName": "RGX 11z Pro Blade",
+            "displayIcon": "https://media.valorant-api.com/weaponskinchromas/8ceded3e-4365-9aa6-eb7e-bda2cd553d6f/displayicon.png",
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/8ceded3e-4365-9aa6-eb7e-bda2cd553d6f/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/8ceded3e-4365-9aa6-eb7e-bda2cd553d6f/swatch.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Afterglow/Chromas/Standard/Melee_Afterglow_Standard_PrimaryAsset"
+        },
+        {
+            "uuid": "05029e79-4c74-85c3-30ee-78ab3179b600",
+            "displayName": "RGX 11z Pro Blade Level 2 (Variant 3 Yellow)",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/05029e79-4c74-85c3-30ee-78ab3179b600/fullrender.png",
+            "swatch": "https://media.valorant-api.com/weaponskinchromas/05029e79-4c74-85c3-30ee-78ab3179b600/swatch.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/feda7ab0-4c93-87be-f3a3-d88b4fdab039.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Afterglow/Chromas/Yellow/Melee_Afterglow_Yellow_PrimaryAsset"
+        },
+        {
             "uuid": "2aebc30d-43d9-4501-69a6-b28648c2e4f6",
             "displayName": "VALORANT GO! Vol. 1 Knife",
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2aebc30d-43d9-4501-69a6-b28648c2e4f6/displayicon.png",
@@ -5641,7 +5821,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/f40de922-416b-0d36-49e5-0ebe10332f9a/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/f40de922-416b-0d36-49e5-0ebe10332f9a/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/f40de922-416b-0d36-49e5-0ebe10332f9a/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/a592ed45-439c-925f-464a-ff8ff3e67c94.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/a592ed45-439c-925f-464a-ff8ff3e67c94.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/Atlas/Chromas/v1/Melee_Atlas_v1_PrimaryAsset"
         },
         {
@@ -5650,7 +5830,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/4f97d9b1-4359-6655-64e3-5cbf2707db71/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/4f97d9b1-4359-6655-64e3-5cbf2707db71/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/4f97d9b1-4359-6655-64e3-5cbf2707db71/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/2b3cad09-4594-f01a-41ce-34b90371abc7.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/2b3cad09-4594-f01a-41ce-34b90371abc7.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/Atlas/Chromas/v2/Melee_Atlas_v2_PrimaryAsset"
         },
         {
@@ -5659,7 +5839,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/69f35d1a-486c-dd5a-4989-b7ba11cdadf5/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/69f35d1a-486c-dd5a-4989-b7ba11cdadf5/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/69f35d1a-486c-dd5a-4989-b7ba11cdadf5/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/b5c454ea-4035-0521-3c82-fbad2b64d30d.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/b5c454ea-4035-0521-3c82-fbad2b64d30d.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/Atlas/Chromas/v3/Melee_Atlas_v3_PrimaryAsset"
         },
         {
@@ -5839,7 +6019,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/be97a416-46fe-1539-4bd7-8e9c54f1938b/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/be97a416-46fe-1539-4bd7-8e9c54f1938b/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/be97a416-46fe-1539-4bd7-8e9c54f1938b/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/edfd16d7-45da-74c6-df83-7fa23c923fbb.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/edfd16d7-45da-74c6-df83-7fa23c923fbb.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/King/Chromas/v1/Melee_King_v1_PrimaryAsset"
         },
         {
@@ -5848,7 +6028,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/fda6f206-4741-88fe-cc2a-3eb3233d5328/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/fda6f206-4741-88fe-cc2a-3eb3233d5328/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/fda6f206-4741-88fe-cc2a-3eb3233d5328/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/beb6ceb8-4545-1b86-681d-0c92a584da30.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/beb6ceb8-4545-1b86-681d-0c92a584da30.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/King/Chromas/v2/Melee_King_v2_PrimaryAsset"
         },
         {
@@ -5857,7 +6037,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/dc3845ca-46a1-7501-6b6b-f9b905e3cf44/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/dc3845ca-46a1-7501-6b6b-f9b905e3cf44/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/dc3845ca-46a1-7501-6b6b-f9b905e3cf44/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/5046c283-4d3a-73ca-304e-59a958472496.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/5046c283-4d3a-73ca-304e-59a958472496.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/King/Chromas/v3/Melee_King_v3_PrimaryAsset"
         },
         {
@@ -6028,7 +6208,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/54d0f235-4bef-94ae-6772-c59cb4e8e352/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/54d0f235-4bef-94ae-6772-c59cb4e8e352/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/54d0f235-4bef-94ae-6772-c59cb4e8e352/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/c411e835-4908-2db6-5162-e8b2c7fa118c.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/c411e835-4908-2db6-5162-e8b2c7fa118c.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/SOL/Chromas/v1/Melee_SOL_v1_PrimaryAsset"
         },
         {
@@ -6037,7 +6217,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/4cbf1d8c-4144-a224-c93c-1680b2a28b8a/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/4cbf1d8c-4144-a224-c93c-1680b2a28b8a/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/4cbf1d8c-4144-a224-c93c-1680b2a28b8a/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/a022eb35-4301-fa6f-c6fb-c5b0e8170613.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/a022eb35-4301-fa6f-c6fb-c5b0e8170613.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/SOL/Chromas/v2/Melee_SOL_v2_PrimaryAsset"
         },
         {
@@ -6046,7 +6226,7 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1bd34c76-4cf5-f2a7-7b01-69a60f910941/displayicon.png",
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/1bd34c76-4cf5-f2a7-7b01-69a60f910941/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/1bd34c76-4cf5-f2a7-7b01-69a60f910941/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/9c91445a-4215-2177-122e-649b2b81eec6.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/9c91445a-4215-2177-122e-649b2b81eec6.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/SOL/Chromas/v3/Melee_SOL_v3_PrimaryAsset"
         },
         {
@@ -6091,7 +6271,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/8a68cd7b-4658-bcad-4789-49bc842ab1ae/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/8a68cd7b-4658-bcad-4789-49bc842ab1ae/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/b37743fb-48e0-5dee-1b1c-13b08b6ed246.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/b37743fb-48e0-5dee-1b1c-13b08b6ed246.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/SpecOps/Chromas/v1/Melee_SpecOps_v1_PrimaryAsset"
         },
         {
@@ -6100,7 +6280,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/81877bc3-4227-1973-1af6-86b639bceaca/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/81877bc3-4227-1973-1af6-86b639bceaca/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/0aebce00-416e-db18-b896-1b8cd253e17a.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/0aebce00-416e-db18-b896-1b8cd253e17a.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/SpecOps/Chromas/v2/Melee_SpecOps_v2_PrimaryAsset"
         },
         {
@@ -6109,7 +6289,7 @@
             "displayIcon": null,
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/15129610-4b75-e263-b5d6-e99b8c471cc5/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/15129610-4b75-e263-b5d6-e99b8c471cc5/swatch.png",
-            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.06/5404c57b-4147-f4db-c854-639c62524d84.mp4",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.07/5404c57b-4147-f4db-c854-639c62524d84.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/SpecOps/Chromas/v3/Melee_SpecOps_v3_PrimaryAsset"
         },
         {

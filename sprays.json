@@ -458,6 +458,25 @@
             ]
         },
         {
+            "uuid": "8035dd5d-4ddd-5dbd-165c-9886574fdff5",
+            "displayName": "RGX 11z Pro Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": "5b09613d-470c-74f4-a69a-028474b703a6",
+            "displayIcon": "https://media.valorant-api.com/sprays/8035dd5d-4ddd-5dbd-165c-9886574fdff5/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/8035dd5d-4ddd-5dbd-165c-9886574fdff5/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/8035dd5d-4ddd-5dbd-165c-9886574fdff5/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Afterglow/Afterglow_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "cd431466-46b6-1ea9-abf3-77a9a42082c9",
+                    "sprayLevel": 1,
+                    "displayName": "Afterglow",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/cd431466-46b6-1ea9-abf3-77a9a42082c9/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Afterglow/Afterglow_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "a5ecf58a-44ce-75f6-abf7-bfb616c12f59",
             "displayName": "Spectrum Spray",
             "category": "EAresSprayCategory::Contextual",
@@ -2639,6 +2658,25 @@
                     "displayName": "Celestial Spray",
                     "displayIcon": "https://media.valorant-api.com/spraylevels/5f3a9e28-4c52-8ed4-944c-14b6e00af9a7/displayicon.png",
                     "assetPath": "ShooterGame/Content/Personalization/Sprays/Lunar/Lunar_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "f677065c-449d-dd91-78ef-6fa7d95ded8d",
+            "displayName": "Flames in my Veins Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/f677065c-449d-dd91-78ef-6fa7d95ded8d/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/f677065c-449d-dd91-78ef-6fa7d95ded8d/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/f677065c-449d-dd91-78ef-6fa7d95ded8d/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Miscellaneous_Sprays/BiteLipEmoji/BiteLipEmoji_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a155e9ba-41fa-a677-2e03-58b333ed7013",
+                    "sprayLevel": 1,
+                    "displayName": "BiteLipEmoji",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/a155e9ba-41fa-a677-2e03-58b333ed7013/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Miscellaneous_Sprays/BiteLipEmoji/BiteLipEmoji_Level1_PrimaryAsset"
                 }
             ]
         },

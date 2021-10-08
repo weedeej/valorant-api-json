@@ -492,6 +492,13 @@
             "assetPath": "ShooterGame/Content/Personalization/Titles/VALBirthday2021/PlayerTitle_YR1_PrimaryAsset"
         },
         {
+            "uuid": "00031857-43a9-9545-4e05-58ad0a62b79d",
+            "displayName": "VCT Masters Berlin Winner Title",
+            "titleText": "VCT Masters Berlin Winner",
+            "isHiddenIfNotOwned": true,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/VCT/2021_VCT_Masters_Berlin/PlayerTitle_2021VCTMastersBerlin_PrimaryAsset"
+        },
+        {
             "uuid": "cd19dad9-4975-7e7d-c511-c6a851589c15",
             "displayName": "VCT Masters Reykjavik Winner Title",
             "titleText": "VCT Masters Reykjavik Winner",

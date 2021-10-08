@@ -2,6 +2,18 @@
     "status": 200,
     "data": [
         {
+            "uuid": "d958b181-4e7b-dc60-7c3c-e3a3a376a8d2",
+            "displayName": "RGX 11z Pro",
+            "description": "RGX 11z Pro",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/d958b181-4e7b-dc60-7c3c-e3a3a376a8d2/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/d958b181-4e7b-dc60-7c3c-e3a3a376a8d2/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/d958b181-4e7b-dc60-7c3c-e3a3a376a8d2/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_AfterglowThemeBundle_DataAsset"
+        },
+        {
             "uuid": "b37b6a01-40f9-af81-ed34-fd8563539d44",
             "displayName": "VALORANT GO! Vol. 1",
             "description": "VALORANT GO! Vol. 1",

@@ -2,6 +2,23 @@
     "status": 200,
     "data": [
         {
+            "uuid": "dce731f8-4560-5f30-6eb5-8ab2e36864ec",
+            "displayName": "RGX 11z Pro Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/dce731f8-4560-5f30-6eb5-8ab2e36864ec/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Afterglow/GunBuddy_Afterglow_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a3043ec2-4a5b-ca46-d8f6-0399f1e52565",
+                    "charmLevel": 1,
+                    "displayName": "Afterglow",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/a3043ec2-4a5b-ca46-d8f6-0399f1e52565/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Afterglow/GunBuddy_Afterglow_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "70963a6d-45b7-8fd4-c6aa-62b2155715aa",
             "displayName": "Zedd Buddy",
             "isHiddenIfNotOwned": false,

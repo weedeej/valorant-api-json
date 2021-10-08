@@ -1674,6 +1674,17 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Pride2021/Pride7/Playercard_Pride7_PrimaryAsset"
         },
         {
+            "uuid": "cada2e3f-4b1d-8279-3e1a-49984a71d4d3",
+            "displayName": "RGX 11z Pro Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "5b09613d-470c-74f4-a69a-028474b703a6",
+            "displayIcon": "https://media.valorant-api.com/playercards/cada2e3f-4b1d-8279-3e1a-49984a71d4d3/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/cada2e3f-4b1d-8279-3e1a-49984a71d4d3/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/cada2e3f-4b1d-8279-3e1a-49984a71d4d3/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/cada2e3f-4b1d-8279-3e1a-49984a71d4d3/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Afterglow/Playercard_Afterglow_PrimaryAsset"
+        },
+        {
             "uuid": "a89bd44e-4b47-7ce1-27a6-0189c1ad8c2f",
             "displayName": "VALORANT GO! Vol. 1 Cypher Card",
             "isHiddenIfNotOwned": false,
