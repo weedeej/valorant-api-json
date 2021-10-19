@@ -254,6 +254,18 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_LightningThemeBundle_DataAsset"
         },
         {
+            "uuid": "a4d5c5f5-4647-d984-011d-dea2ef7b56c5",
+            "displayName": "Nunca Olvidados",
+            "description": "Nunca Olvidados",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/a4d5c5f5-4647-d984-011d-dea2ef7b56c5/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/a4d5c5f5-4647-d984-011d-dea2ef7b56c5/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/a4d5c5f5-4647-d984-011d-dea2ef7b56c5/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_LosMuertosThemeBundle_DataAsset"
+        },
+        {
             "uuid": "473e694c-4940-078b-fb49-e994dff766cf",
             "displayName": "Celestial",
             "description": "Celestial",

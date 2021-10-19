@@ -1905,6 +1905,17 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/King/Playercard_King_PrimaryAsset"
         },
         {
+            "uuid": "d33681d4-4168-0107-2b07-a19c57b96e96",
+            "displayName": "Nunca Olvidados Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/d33681d4-4168-0107-2b07-a19c57b96e96/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/d33681d4-4168-0107-2b07-a19c57b96e96/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/d33681d4-4168-0107-2b07-a19c57b96e96/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/d33681d4-4168-0107-2b07-a19c57b96e96/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/LosMuertos/Playercard_LosMuertos_PrimaryAsset"
+        },
+        {
             "uuid": "f7b44175-49be-3909-a34f-c68d6e3cecc3",
             "displayName": "Celestial Card",
             "isHiddenIfNotOwned": false,
