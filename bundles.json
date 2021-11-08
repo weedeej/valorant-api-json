@@ -74,6 +74,18 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_CircleThemeBundle_DataAsset"
         },
         {
+            "uuid": "3a824027-4414-5a08-64f0-c8905a2aaa66",
+            "displayName": "Radiant Crisis 001",
+            "description": "Radiant Crisis 001",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/3a824027-4414-5a08-64f0-c8905a2aaa66/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/3a824027-4414-5a08-64f0-c8905a2aaa66/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/3a824027-4414-5a08-64f0-c8905a2aaa66/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_ComicbookThemeBundle_DataAsset"
+        },
+        {
             "uuid": "c520fbb0-492c-960e-8b77-f69fc4ce1838",
             "displayName": "Nebula",
             "description": "Nebula",
@@ -516,6 +528,18 @@
             "displayIcon2": "https://media.valorant-api.com/bundles/79d2f4b9-4066-8b5b-884f-1d95b33d2ac5/displayicon2.png",
             "verticalPromoImage": "https://media.valorant-api.com/bundles/79d2f4b9-4066-8b5b-884f-1d95b33d2ac5/verticalpromoimage.png",
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_WinterThemeBundle"
+        },
+        {
+            "uuid": "2270b116-4255-8a14-4486-db9de4979b89",
+            "displayName": "Arcane",
+            "description": "Arcane",
+            "extraDescription": "Celebrate RiotX Arcane with this limited edition Collector's Set! Items won\u2019t return to the Store or Night.Market and must be purchased as part of the complete bundle.",
+            "promoDescription": null,
+            "useAdditionalContext": true,
+            "displayIcon": "https://media.valorant-api.com/bundles/2270b116-4255-8a14-4486-db9de4979b89/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/2270b116-4255-8a14-4486-db9de4979b89/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/2270b116-4255-8a14-4486-db9de4979b89/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_XP1ThemeBundle_DataAsset"
         }
     ]
 }

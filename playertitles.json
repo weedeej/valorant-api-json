@@ -149,6 +149,55 @@
             "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act2_BP/PlayerTitle_Lurker_PrimaryAsset"
         },
         {
+            "uuid": "cbab01c3-4626-2418-f52b-9db472572908",
+            "displayName": "Hardstuck Title",
+            "titleText": "Hardstuck",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act3_BP/PlayerTitle_Hardstuck_PrimaryAsset"
+        },
+        {
+            "uuid": "eea7d1b0-4a94-59d7-b131-5998a1b3b9f9",
+            "displayName": "Haunted Title",
+            "titleText": "Haunted",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act3_BP/PlayerTitle_Haunted_PrimaryAsset"
+        },
+        {
+            "uuid": "25c60422-4246-fe96-9ac1-d88e7a379571",
+            "displayName": "Unstoppable Title",
+            "titleText": "Unstoppable",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act3_BP/PlayerTitle_Unstoppable_PrimaryAsset"
+        },
+        {
+            "uuid": "8b426759-4e32-0c61-51cc-289dc0a33073",
+            "displayName": "Jinx Title",
+            "titleText": "Jinx",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act3_Bundle/PlayerTitle_Jinx_PrimaryAsset"
+        },
+        {
+            "uuid": "5c26249f-4396-4bd8-166a-8fbf15ba4219",
+            "displayName": "Arcane Title",
+            "titleText": "Arcane",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act3_EventPass/PlayerTitle_Arcane_PrimaryAsset"
+        },
+        {
+            "uuid": "fc78400c-4356-c491-ab14-3dbb9e481073",
+            "displayName": "Cupcake Title",
+            "titleText": "Cupcake",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act3_EventPass/PlayerTitle_Cupcake_PrimaryAsset"
+        },
+        {
+            "uuid": "2111510b-4dbf-e9b6-9959-60b8fbce5b2b",
+            "displayName": "Liar Title",
+            "titleText": "Liar",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act3_EventPass/PlayerTitle_Liar_PrimaryAsset"
+        },
+        {
             "uuid": "631f4283-48b1-1855-d646-5e8f80e29821",
             "displayName": "Day One Title",
             "titleText": "Day One",

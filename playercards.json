@@ -266,6 +266,28 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Act1_3_BP/Woah/Playercard_Woah_PrimaryAsset"
         },
         {
+            "uuid": "2ee6d025-4aac-3a67-0f6e-dba827acc75f",
+            "displayName": "Arcane Mysteries Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/2ee6d025-4aac-3a67-0f6e-dba827acc75f/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/2ee6d025-4aac-3a67-0f6e-dba827acc75f/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/2ee6d025-4aac-3a67-0f6e-dba827acc75f/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/2ee6d025-4aac-3a67-0f6e-dba827acc75f/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Act3-3_EventPass/PowderBackshot/Playercard_PowderBackshot_PrimaryAsset"
+        },
+        {
+            "uuid": "acf37618-43de-2a3e-ccf9-ea9c3cb4dd33",
+            "displayName": "Welcome to the Undercity Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/acf37618-43de-2a3e-ccf9-ea9c3cb4dd33/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/acf37618-43de-2a3e-ccf9-ea9c3cb4dd33/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/acf37618-43de-2a3e-ccf9-ea9c3cb4dd33/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/acf37618-43de-2a3e-ccf9-ea9c3cb4dd33/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Act3-3_EventPass/Undercity/Playercard_Undercity_PrimaryAsset"
+        },
+        {
             "uuid": "9fb348bc-41a0-91ad-8a3e-818035c4e561",
             "displayName": "VALORANT Card",
             "isHiddenIfNotOwned": false,
@@ -1498,6 +1520,149 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act2_BP/TeknikaSchema/Playercard_TeknikaSchema_PrimaryAsset"
         },
         {
+            "uuid": "f3a3d5d6-4005-58f7-8a87-e5b489b2db70",
+            "displayName": "On Cooldown Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/f3a3d5d6-4005-58f7-8a87-e5b489b2db70/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/f3a3d5d6-4005-58f7-8a87-e5b489b2db70/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/f3a3d5d6-4005-58f7-8a87-e5b489b2db70/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/f3a3d5d6-4005-58f7-8a87-e5b489b2db70/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/AgentsBuildingSnowmen/Playercard_AgentsBuildingSnowmen_PrimaryAsset"
+        },
+        {
+            "uuid": "aa7261e8-49b3-a489-d23f-39b935122f09",
+            "displayName": "Living The Nightmare Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/aa7261e8-49b3-a489-d23f-39b935122f09/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/aa7261e8-49b3-a489-d23f-39b935122f09/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/aa7261e8-49b3-a489-d23f-39b935122f09/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/aa7261e8-49b3-a489-d23f-39b935122f09/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/AgentsInHalloweenCostumes/Playercard_AgentsInHalloweenCostumes_PrimaryAsset"
+        },
+        {
+            "uuid": "f126d573-468e-a790-2c31-228bb651fa79",
+            "displayName": "Live Wire Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/f126d573-468e-a790-2c31-228bb651fa79/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/f126d573-468e-a790-2c31-228bb651fa79/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/f126d573-468e-a790-2c31-228bb651fa79/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/f126d573-468e-a790-2c31-228bb651fa79/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/BigHam/Playercard_BigHam_PrimaryAsset"
+        },
+        {
+            "uuid": "3fb00aef-42de-dd97-8a85-69b127437e8d",
+            "displayName": "Kingdoms Divided Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/3fb00aef-42de-dd97-8a85-69b127437e8d/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/3fb00aef-42de-dd97-8a85-69b127437e8d/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/3fb00aef-42de-dd97-8a85-69b127437e8d/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/3fb00aef-42de-dd97-8a85-69b127437e8d/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/CanyonDuality/Playercard_CanyonDuality_PrimaryAsset"
+        },
+        {
+            "uuid": "c59b3a9b-467b-54b7-3e4d-a0a3107cbefe",
+            "displayName": "Chamber ID Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/c59b3a9b-467b-54b7-3e4d-a0a3107cbefe/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/c59b3a9b-467b-54b7-3e4d-a0a3107cbefe/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/c59b3a9b-467b-54b7-3e4d-a0a3107cbefe/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/c59b3a9b-467b-54b7-3e4d-a0a3107cbefe/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/ChamberID/Playercard_ChamberID_PrimaryAsset"
+        },
+        {
+            "uuid": "89fdd50e-439b-ebeb-0ef2-af8271550943",
+            "displayName": "Goldwing Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/89fdd50e-439b-ebeb-0ef2-af8271550943/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/89fdd50e-439b-ebeb-0ef2-af8271550943/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/89fdd50e-439b-ebeb-0ef2-af8271550943/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/89fdd50e-439b-ebeb-0ef2-af8271550943/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/Hohloma/Playercard_Hohloma_PrimaryAsset"
+        },
+        {
+            "uuid": "1e3fcf2b-44f9-3565-22af-2380d8149329",
+            "displayName": "Versus // KAY/O + Brimstone Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/1e3fcf2b-44f9-3565-22af-2380d8149329/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/1e3fcf2b-44f9-3565-22af-2380d8149329/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/1e3fcf2b-44f9-3565-22af-2380d8149329/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/1e3fcf2b-44f9-3565-22af-2380d8149329/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/KAYOvsBRIMSTONE/Playercard_KAYOvsBRIMSTONE_PrimaryAsset"
+        },
+        {
+            "uuid": "89aab939-4035-ea86-831d-c7964690be09",
+            "displayName": "Kodiak Steel Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/89aab939-4035-ea86-831d-c7964690be09/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/89aab939-4035-ea86-831d-c7964690be09/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/89aab939-4035-ea86-831d-c7964690be09/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/89aab939-4035-ea86-831d-c7964690be09/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/KodiakSteel/Playercard_KodiakSteel_PrimaryAsset"
+        },
+        {
+            "uuid": "5488fcd7-41d5-0890-e90a-8d9099807d9b",
+            "displayName": "Genesis Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/5488fcd7-41d5-0890-e90a-8d9099807d9b/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/5488fcd7-41d5-0890-e90a-8d9099807d9b/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/5488fcd7-41d5-0890-e90a-8d9099807d9b/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/5488fcd7-41d5-0890-e90a-8d9099807d9b/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/Nexus/Playercard_Nexus_PrimaryAsset"
+        },
+        {
+            "uuid": "0bc3b158-40b0-ab2a-4b8b-04be15e3b7d1",
+            "displayName": "Downtime // Omen Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/0bc3b158-40b0-ab2a-4b8b-04be15e3b7d1/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/0bc3b158-40b0-ab2a-4b8b-04be15e3b7d1/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/0bc3b158-40b0-ab2a-4b8b-04be15e3b7d1/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/0bc3b158-40b0-ab2a-4b8b-04be15e3b7d1/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/OmenKnitting/Playercard_OmenKnitting_PrimaryAsset"
+        },
+        {
+            "uuid": "7b240a91-4925-8bb6-7812-60b49543e145",
+            "displayName": "Epilogue: Downtime // Omen Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/7b240a91-4925-8bb6-7812-60b49543e145/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/7b240a91-4925-8bb6-7812-60b49543e145/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/7b240a91-4925-8bb6-7812-60b49543e145/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/7b240a91-4925-8bb6-7812-60b49543e145/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/OmenKnittingGold/Playercard_OmenKnittingGold_PrimaryAsset"
+        },
+        {
+            "uuid": "b7880750-49f6-9623-fc0d-779f0e88fedb",
+            "displayName": "Unstoppable // Viper Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/b7880750-49f6-9623-fc0d-779f0e88fedb/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/b7880750-49f6-9623-fc0d-779f0e88fedb/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/b7880750-49f6-9623-fc0d-779f0e88fedb/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/b7880750-49f6-9623-fc0d-779f0e88fedb/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/PowerFantasyViper/Playercard_PowerFantasyViper_PrimaryAsset"
+        },
+        {
+            "uuid": "a60742e6-418c-365a-9133-7c8e08720bfa",
+            "displayName": "Crying Sage Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/ScaredSage/Playercard_ScaredSage_PrimaryAsset"
+        },
+        {
             "uuid": "bab9caaa-4913-2704-833e-8c89e2128eb9",
             "displayName": "EP 1 // IGNITION Card",
             "isHiddenIfNotOwned": false,
@@ -1551,6 +1716,17 @@
             "wideArt": "https://media.valorant-api.com/playercards/cb7157ed-4fc7-a5c9-714b-1786ca3949f1/wideart.png",
             "largeArt": "https://media.valorant-api.com/playercards/cb7157ed-4fc7-a5c9-714b-1786ca3949f1/largeart.png",
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Miscellaneous/PhoenixVsYoru/Playercard_PhoenixVsYoru_PrimaryAsset"
+        },
+        {
+            "uuid": "1ec054a0-4184-8802-57fb-0ab81599befd",
+            "displayName": "Arcane Jinx Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/1ec054a0-4184-8802-57fb-0ab81599befd/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/1ec054a0-4184-8802-57fb-0ab81599befd/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/1ec054a0-4184-8802-57fb-0ab81599befd/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/1ec054a0-4184-8802-57fb-0ab81599befd/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Miscellaneous/PowderLoadout/Playercard_PowderLoadout_PrimaryAsset"
         },
         {
             "uuid": "bb5cedcd-4ed9-ee2e-f129-48bf60a8e540",
@@ -1969,6 +2145,17 @@
             "wideArt": "https://media.valorant-api.com/playercards/aeca98db-4737-5e0f-3476-7eb8a16eb696/wideart.png",
             "largeArt": "https://media.valorant-api.com/playercards/aeca98db-4737-5e0f-3476-7eb8a16eb696/largeart.png",
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Oni/Playercard_Oni_PrimaryAsset"
+        },
+        {
+            "uuid": "9ef2f845-4ab5-2350-ea38-0795bb21ed05",
+            "displayName": "Arcane Embrace Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/9ef2f845-4ab5-2350-ea38-0795bb21ed05/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/9ef2f845-4ab5-2350-ea38-0795bb21ed05/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/9ef2f845-4ab5-2350-ea38-0795bb21ed05/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/9ef2f845-4ab5-2350-ea38-0795bb21ed05/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/PowderHug/Playercard_PowderHug_PrimaryAsset"
         },
         {
             "uuid": "c2f90c55-49be-93a5-daf4-6393d9d3f6fc",
