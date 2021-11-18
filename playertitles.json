@@ -44,6 +44,20 @@
             "assetPath": "ShooterGame/Content/Personalization/Titles/Act1_3_BP/PlayerTitle_Spicy_PrimaryAsset"
         },
         {
+            "uuid": "703cd95a-4624-16f3-fdd9-f4a881993577",
+            "displayName": "Charmer Title",
+            "titleText": "Charmer",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Deadeye/PlayerTitle_Charmer_PrimaryAsset"
+        },
+        {
+            "uuid": "9f294ab8-4b0a-4c3f-711c-cb89ca4d3ad5",
+            "displayName": "High Class Title",
+            "titleText": "High Class",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Deadeye/PlayerTitle_HighClass_PrimaryAsset"
+        },
+        {
             "uuid": "5bdea980-4397-a1bd-1fab-659153ca196e",
             "displayName": "Boosted Title",
             "titleText": "Boosted",

@@ -302,6 +302,18 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_LuxuryThemeBundle_DataAsset"
         },
         {
+            "uuid": "338cabdb-473f-1f37-fa35-47a3d994517f",
+            "displayName": "Magepunk",
+            "description": "Magepunk",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/338cabdb-473f-1f37-fa35-47a3d994517f/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/338cabdb-473f-1f37-fa35-47a3d994517f/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/338cabdb-473f-1f37-fa35-47a3d994517f/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_Magepunk2ThemeBundle_DataAsset"
+        },
+        {
             "uuid": "a981af4a-4d81-9668-8923-9c84c43da3d3",
             "displayName": "Magepunk",
             "description": "Magepunk",

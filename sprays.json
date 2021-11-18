@@ -743,6 +743,63 @@
             ]
         },
         {
+            "uuid": "90b297b4-4e8f-f87c-8008-36905268fe52",
+            "displayName": "One In The Chamber Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/90b297b4-4e8f-f87c-8008-36905268fe52/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/90b297b4-4e8f-f87c-8008-36905268fe52/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/90b297b4-4e8f-f87c-8008-36905268fe52/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Deadeye/BlowingSmoke/BlowingSmoke_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "783efedd-4872-b0df-2b92-e8bdb3bff360",
+                    "sprayLevel": 1,
+                    "displayName": "One In The Chamber Spray",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/783efedd-4872-b0df-2b92-e8bdb3bff360/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Deadeye/BlowingSmoke/BlowingSmoke_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1be33c9a-48a8-5aa8-3798-3989c40c96e1",
+            "displayName": "Chamber Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/1be33c9a-48a8-5aa8-3798-3989c40c96e1/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/1be33c9a-48a8-5aa8-3798-3989c40c96e1/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/1be33c9a-48a8-5aa8-3798-3989c40c96e1/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Deadeye/DeadeyeCallSign/DeadeyeCallSign_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a12fda45-4dd6-a11a-f28a-b5968edf78df",
+                    "sprayLevel": 1,
+                    "displayName": "DeadeyeCallSign",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/a12fda45-4dd6-a11a-f28a-b5968edf78df/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Deadeye/DeadeyeCallSign/DeadeyeCallSign_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2ebcf963-4e55-e39c-d1aa-94ad6ec87424",
+            "displayName": "Seeing Double Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/2ebcf963-4e55-e39c-d1aa-94ad6ec87424/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/2ebcf963-4e55-e39c-d1aa-94ad6ec87424/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/2ebcf963-4e55-e39c-d1aa-94ad6ec87424/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Deadeye/SeeingDouble/SeeingDouble_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "74e0342d-4f07-b72d-ffd0-d182c982e1b0",
+                    "sprayLevel": 1,
+                    "displayName": "SeeingDouble",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/74e0342d-4f07-b72d-ffd0-d182c982e1b0/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Deadeye/SeeingDouble/SeeingDouble_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "0a6db78c-48b9-a32d-c47a-82be597584c1",
             "displayName": "VALORANT Spray",
             "category": null,
@@ -758,6 +815,25 @@
                     "displayName": "VALORANT Spray",
                     "displayIcon": "https://media.valorant-api.com/spraylevels/af3a4261-4c81-266d-7963-82ad714b190f/displayicon.png",
                     "assetPath": "ShooterGame/Content/Personalization/Sprays/Default_VALLogo/Spray_Default_VALLogo_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e8a8c717-4845-3c69-9c16-d8a78153c51d",
+            "displayName": "Bruno Coin Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/e8a8c717-4845-3c69-9c16-d8a78153c51d/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/e8a8c717-4845-3c69-9c16-d8a78153c51d/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/e8a8c717-4845-3c69-9c16-d8a78153c51d/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Dogecoin/Dogecoin_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "24c74dce-4f29-0fdd-84a3-e0a77dabadee",
+                    "sprayLevel": 1,
+                    "displayName": "Dogecoin",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/24c74dce-4f29-0fdd-84a3-e0a77dabadee/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Dogecoin/Dogecoin_Level1_PrimaryAsset"
                 }
             ]
         },
@@ -2548,6 +2624,25 @@
             ]
         },
         {
+            "uuid": "f9bcf120-42b6-6986-2acd-6aa87bab4089",
+            "displayName": "VCT 2021 Spark Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/f9bcf120-42b6-6986-2acd-6aa87bab4089/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/f9bcf120-42b6-6986-2acd-6aa87bab4089/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/f9bcf120-42b6-6986-2acd-6aa87bab4089/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/EsportsSpark/EsportsSpark_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "9aea356b-41f7-b2eb-be07-138caa0a5dad",
+                    "sprayLevel": 1,
+                    "displayName": "EsportsSpark",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/9aea356b-41f7-b2eb-be07-138caa0a5dad/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/EsportsSpark/EsportsSpark_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "d8cfce74-4bb8-42b2-022e-9dbf9d648823",
             "displayName": "Fist Bump Spray",
             "category": null,
@@ -2981,6 +3076,25 @@
                     "displayName": "Celestial Spray",
                     "displayIcon": "https://media.valorant-api.com/spraylevels/5f3a9e28-4c52-8ed4-944c-14b6e00af9a7/displayicon.png",
                     "assetPath": "ShooterGame/Content/Personalization/Sprays/Lunar/Lunar_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "562a64d8-483c-5853-4e7a-eea5ca95e3ce",
+            "displayName": "Magepunk, Ep 3 Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/562a64d8-483c-5853-4e7a-eea5ca95e3ce/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/562a64d8-483c-5853-4e7a-eea5ca95e3ce/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/562a64d8-483c-5853-4e7a-eea5ca95e3ce/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/MagepunkFairPoster/MagepunkFairPoster_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ddb5c1ee-4d61-e9dd-83a5-62a25a3e2468",
+                    "sprayLevel": 1,
+                    "displayName": "MagepunkFairPoster",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/ddb5c1ee-4d61-e9dd-83a5-62a25a3e2468/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/MagepunkFairPoster/MagepunkFairPoster_Level1_PrimaryAsset"
                 }
             ]
         },

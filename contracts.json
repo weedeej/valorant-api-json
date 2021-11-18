@@ -278,6 +278,144 @@
             "assetPath": "ShooterGame/Content/Contracts/Characters/Clay/Contract_Clay_DataAssetV2"
         },
         {
+            "uuid": "ebfd35c7-4d47-11f6-63f3-0398f055d8ab",
+            "displayName": "Chamber Contract",
+            "displayIcon": null,
+            "shipIt": false,
+            "freeRewardScheduleUuid": "7b39d493-4de0-f0f7-d715-a99514e6a8a8",
+            "content": {
+                "relationType": "Agent",
+                "relationUuid": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
+                "chapters": [
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "90b297b4-4e8f-f87c-8008-36905268fe52",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 20000,
+                                "vpCost": 200,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "f31491e7-4642-ea8b-87fa-ed8fd73e44cf",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 30000,
+                                "vpCost": 200,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Title",
+                                    "uuid": "703cd95a-4624-16f3-fdd9-f4a881993577",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 40000,
+                                "vpCost": 200,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "2ebcf963-4e55-e39c-d1aa-94ad6ec87424",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 50000,
+                                "vpCost": 200,
+                                "isPurchasableWithVP": true
+                            },
+                            {
+                                "reward": {
+                                    "type": "Character",
+                                    "uuid": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 60000,
+                                "vpCost": 200,
+                                "isPurchasableWithVP": true
+                            }
+                        ],
+                        "freeRewards": null
+                    },
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "EquippableCharmLevel",
+                                    "uuid": "9affde6c-4be2-d11b-f1eb-1b9bcc354ed0",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 75000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "1be33c9a-48a8-5aa8-3798-3989c40c96e1",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 100000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "Title",
+                                    "uuid": "9f294ab8-4b0a-4c3f-711c-cb89ca4d3ad5",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 150000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "944e2863-4c07-c6aa-923f-c99a7f00aa58",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 200000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableSkinLevel",
+                                    "uuid": "30f3e881-43d0-a455-b272-e8968c45761f",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 250000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            }
+                        ],
+                        "freeRewards": null
+                    }
+                ],
+                "premiumRewardScheduleUuid": null,
+                "premiumVPCost": -1
+            },
+            "assetPath": "ShooterGame/Content/Contracts/Characters/Deadeye/Contract_Deadeye_DataAssetV2"
+        },
+        {
             "uuid": "9454d42a-471f-27b9-325c-319a355c34ee",
             "displayName": "KAY/O Contract",
             "displayIcon": null,

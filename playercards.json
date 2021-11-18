@@ -442,6 +442,28 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Contracts/Character/Cypher/PlayerCard02/PlayerCard_Cypher_2_PrimaryAsset"
         },
         {
+            "uuid": "f31491e7-4642-ea8b-87fa-ed8fd73e44cf",
+            "displayName": "VALORANT Chamber Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/f31491e7-4642-ea8b-87fa-ed8fd73e44cf/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/f31491e7-4642-ea8b-87fa-ed8fd73e44cf/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/f31491e7-4642-ea8b-87fa-ed8fd73e44cf/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/f31491e7-4642-ea8b-87fa-ed8fd73e44cf/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Contracts/Character/Deadeye/PlayerCard01/Playercard_Deadeye01_PrimaryAsset"
+        },
+        {
+            "uuid": "944e2863-4c07-c6aa-923f-c99a7f00aa58",
+            "displayName": "Joint Venture Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/944e2863-4c07-c6aa-923f-c99a7f00aa58/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/944e2863-4c07-c6aa-923f-c99a7f00aa58/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/944e2863-4c07-c6aa-923f-c99a7f00aa58/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/944e2863-4c07-c6aa-923f-c99a7f00aa58/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Contracts/Character/Deadeye/PlayerCard02/Playercard_Deadeye02_PrimaryAsset"
+        },
+        {
             "uuid": "bc4443d5-449f-b5eb-a179-4c9ff332294b",
             "displayName": "VALORANT KAY/O Card",
             "isHiddenIfNotOwned": false,
@@ -1696,6 +1718,17 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/GiveBack/Playercard_GiveBack_PrimaryAsset"
         },
         {
+            "uuid": "f67a7c8f-4d3f-b76f-2921-478a4da44109",
+            "displayName": "Art of Greatness // Champions Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/f67a7c8f-4d3f-b76f-2921-478a4da44109/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/f67a7c8f-4d3f-b76f-2921-478a4da44109/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/f67a7c8f-4d3f-b76f-2921-478a4da44109/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/f67a7c8f-4d3f-b76f-2921-478a4da44109/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Miscellaneous/2021ChampionsViewer/Playercard_2021ChampionsViewer_PrimaryAsset"
+        },
+        {
             "uuid": "e17c2e94-44fb-9486-8497-9dab8b942b3d",
             "displayName": "Showdown Watch Card",
             "isHiddenIfNotOwned": false,
@@ -2112,6 +2145,17 @@
             "wideArt": "https://media.valorant-api.com/playercards/41fbc848-4ab5-0b1b-7746-20ad95b310ae/wideart.png",
             "largeArt": "https://media.valorant-api.com/playercards/41fbc848-4ab5-0b1b-7746-20ad95b310ae/largeart.png",
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Magepunk/Playercard_Magepunk_PrimaryAsset"
+        },
+        {
+            "uuid": "8918ccff-4fc1-7116-d553-4daf6feb53c9",
+            "displayName": "Magepunk, Ep 3 Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/8918ccff-4fc1-7116-d553-4daf6feb53c9/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/8918ccff-4fc1-7116-d553-4daf6feb53c9/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/8918ccff-4fc1-7116-d553-4daf6feb53c9/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/8918ccff-4fc1-7116-d553-4daf6feb53c9/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Magepunk1-1/Playercard_Magepunk1-1_PrimaryAsset"
         },
         {
             "uuid": "1d0fe8d7-42dd-6f77-50b0-798d1ff90bef",

@@ -206,6 +206,23 @@
             ]
         },
         {
+            "uuid": "5cb098fa-4a93-24e8-4b6c-2396d262de1e",
+            "displayName": "Call Me Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/5cb098fa-4a93-24e8-4b6c-2396d262de1e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/BusinessCard/GunBuddy_BusinessCard_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "9affde6c-4be2-d11b-f1eb-1b9bcc354ed0",
+                    "charmLevel": 1,
+                    "displayName": "BusinessCard",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/9affde6c-4be2-d11b-f1eb-1b9bcc354ed0/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/BusinessCard/GunBuddy_BusinessCard_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "f2f9607f-44b9-c50e-3635-fe9806b6bcb7",
             "displayName": "Get The Picture Buddy",
             "isHiddenIfNotOwned": false,
@@ -1001,6 +1018,23 @@
                     "displayName": "EsportsVCTPurple",
                     "displayIcon": "https://media.valorant-api.com/buddylevels/ef6ddfab-45f9-7938-7ff2-9588dec2f71d/displayicon.png",
                     "assetPath": "ShooterGame/Content/Equippables/Buddies/EsportsVCTPurple/GunBuddy_EsportsVCTPurple_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e2e5ab96-4103-8473-14a7-8d8321a3ae6e",
+            "displayName": "VCT 2021 Spark Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/e2e5ab96-4103-8473-14a7-8d8321a3ae6e/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/EsportsVCTRed/GunBuddy_EsportsVCTRed_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "f470ff75-4f99-c13a-5819-0b8cc78ad839",
+                    "charmLevel": 1,
+                    "displayName": "VCT 2021 Spark Buddy",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/f470ff75-4f99-c13a-5819-0b8cc78ad839/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/EsportsVCTRed/GunBuddy_EsportsVCTRed_Lv1_PrimaryAsset"
                 }
             ]
         },
@@ -1919,6 +1953,23 @@
                     "displayName": "Pizza Buddy",
                     "displayIcon": "https://media.valorant-api.com/buddylevels/aa3661f1-4eef-e8dd-047b-e5b9ed61403b/displayicon.png",
                     "assetPath": "ShooterGame/Content/Equippables/Buddies/Pizza/GunBuddy_Pizza_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1cfa4641-4c44-4067-236c-f7be07d6ded7",
+            "displayName": "Magepunk, Ep 3 Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/1cfa4641-4c44-4067-236c-f7be07d6ded7/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/PocketWatch/GunBuddy_PocketWatch_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "85322f08-47c2-e3dc-3b84-b38b122d6d5a",
+                    "charmLevel": 1,
+                    "displayName": "PocketWatch",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/85322f08-47c2-e3dc-3b84-b38b122d6d5a/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/PocketWatch/GunBuddy_PocketWatch_Lv1_PrimaryAsset"
                 }
             ]
         },
