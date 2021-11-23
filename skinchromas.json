@@ -926,7 +926,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/db4461e5-40dd-1173-3b64-e5836f92f4dd/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/db4461e5-40dd-1173-3b64-e5836f92f4dd/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Chromas/Black/AK_Soulstealer_Black_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Chromas/Black/AK_Soulstealer_Black_PrimaryAsset"
         },
         {
             "uuid": "b2a065c0-4632-ccaa-f496-7681dc2a6185",
@@ -935,7 +935,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b2a065c0-4632-ccaa-f496-7681dc2a6185/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/b2a065c0-4632-ccaa-f496-7681dc2a6185/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Chromas/Red/AK_Soulstealer_Red_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Chromas/Red/AK_Soulstealer_Red_PrimaryAsset"
         },
         {
             "uuid": "2bd28382-48c6-8579-83e8-e9b64b783de3",
@@ -944,7 +944,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/2bd28382-48c6-8579-83e8-e9b64b783de3/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/2bd28382-48c6-8579-83e8-e9b64b783de3/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Chromas/Standard/AK_Soulstealer_Standard_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Chromas/Standard/AK_Soulstealer_Standard_PrimaryAsset"
         },
         {
             "uuid": "b2619c1c-4974-4f06-f37b-c68b1d6d7bd1",
@@ -953,7 +953,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/b2619c1c-4974-4f06-f37b-c68b1d6d7bd1/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/b2619c1c-4974-4f06-f37b-c68b1d6d7bd1/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Chromas/White/AK_Soulstealer_White_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Chromas/White/AK_Soulstealer_White_PrimaryAsset"
         },
         {
             "uuid": "bd02d15d-4b40-d70b-5877-caad6e786f84",
@@ -4895,7 +4895,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e866f273-4acc-806f-becd-56a6bef48fbc/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/e866f273-4acc-806f-becd-56a6bef48fbc/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/Chromas/Blue/DMR_HypeBeast_Blue_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Blue/DMR_HypeBeast_Blue_PrimaryAsset"
         },
         {
             "uuid": "4ca16478-40c7-2cf6-bdd2-099761921e61",
@@ -4904,7 +4904,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/4ca16478-40c7-2cf6-bdd2-099761921e61/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/4ca16478-40c7-2cf6-bdd2-099761921e61/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/Chromas/Orange/DMR_HypeBeast_Orange_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Orange/DMR_HypeBeast_Orange_PrimaryAsset"
         },
         {
             "uuid": "e2f5a979-4e9a-f931-7f52-d99f0ec4a61b",
@@ -4913,7 +4913,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e2f5a979-4e9a-f931-7f52-d99f0ec4a61b/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/e2f5a979-4e9a-f931-7f52-d99f0ec4a61b/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/Chromas/Standard/DMR_HypeBeast_Standard_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Standard/DMR_HypeBeast_Standard_PrimaryAsset"
         },
         {
             "uuid": "22f831db-4e55-6280-9078-d9b63ae93e4d",
@@ -4922,7 +4922,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/22f831db-4e55-6280-9078-d9b63ae93e4d/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/22f831db-4e55-6280-9078-d9b63ae93e4d/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/Chromas/Yellow/DMR_HypeBeast_Yellow_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Yellow/DMR_HypeBeast_Yellow_PrimaryAsset"
         },
         {
             "uuid": "3f621c8c-4fa8-b50c-969f-c5b4e8bdc3c9",
