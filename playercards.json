@@ -1883,6 +1883,39 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Pride2021/Pride7/Playercard_Pride7_PrimaryAsset"
         },
         {
+            "uuid": "99bdfb9b-4ee9-a057-5b62-b2ae6309abf8",
+            "displayName": "Art of Greatness // Unbreakable Player Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/99bdfb9b-4ee9-a057-5b62-b2ae6309abf8/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/99bdfb9b-4ee9-a057-5b62-b2ae6309abf8/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/99bdfb9b-4ee9-a057-5b62-b2ae6309abf8/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/99bdfb9b-4ee9-a057-5b62-b2ae6309abf8/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/2021Champions/2021ChampionsBrimstone/Playercard_2021ChampionsBrimstone_PrimaryAsset"
+        },
+        {
+            "uuid": "c5e7988c-46ec-7742-f1bf-83bdc20b49d9",
+            "displayName": "Art of Greatness // The Flame Player Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/c5e7988c-46ec-7742-f1bf-83bdc20b49d9/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/c5e7988c-46ec-7742-f1bf-83bdc20b49d9/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/c5e7988c-46ec-7742-f1bf-83bdc20b49d9/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/c5e7988c-46ec-7742-f1bf-83bdc20b49d9/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/2021Champions/2021ChampionsPhoenix/Playercard_2021ChampionsPhoenix_PrimaryAsset"
+        },
+        {
+            "uuid": "ca15070b-4ed8-4a4f-f1e7-aea812fd8fef",
+            "displayName": "Art of Greatness // Inspiration Player Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/ca15070b-4ed8-4a4f-f1e7-aea812fd8fef/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/ca15070b-4ed8-4a4f-f1e7-aea812fd8fef/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/ca15070b-4ed8-4a4f-f1e7-aea812fd8fef/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/ca15070b-4ed8-4a4f-f1e7-aea812fd8fef/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/2021Champions/2021ChampionsSage/Playercard_2021ChampionsSage_PrimaryAsset"
+        },
+        {
             "uuid": "cada2e3f-4b1d-8279-3e1a-49984a71d4d3",
             "displayName": "RGX 11z Pro Card",
             "isHiddenIfNotOwned": false,

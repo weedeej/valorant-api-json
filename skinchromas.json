@@ -587,6 +587,15 @@
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/ArtDeco/Chromas/Standard/AK_ArtDeco_Standard_PrimaryAsset"
         },
         {
+            "uuid": "140a48ad-4daf-a6f8-027c-a5b890eac738",
+            "displayName": "Champions 2021 Vandal",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/140a48ad-4daf-a6f8-027c-a5b890eac738/fullrender.png",
+            "swatch": null,
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Champions/Chromas/Standard/AK_Champions_Standard_PrimaryAsset"
+        },
+        {
             "uuid": "de2a2b29-4a65-459e-a822-ccacbff53d46",
             "displayName": "Origin Vandal",
             "displayIcon": "https://media.valorant-api.com/weaponskinchromas/de2a2b29-4a65-459e-a822-ccacbff53d46/displayicon.png",
@@ -4895,7 +4904,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e866f273-4acc-806f-becd-56a6bef48fbc/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/e866f273-4acc-806f-becd-56a6bef48fbc/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Blue/DMR_HypeBeast_Blue_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/Chromas/Blue/DMR_HypeBeast_Blue_PrimaryAsset"
         },
         {
             "uuid": "4ca16478-40c7-2cf6-bdd2-099761921e61",
@@ -4904,7 +4913,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/4ca16478-40c7-2cf6-bdd2-099761921e61/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/4ca16478-40c7-2cf6-bdd2-099761921e61/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Orange/DMR_HypeBeast_Orange_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/Chromas/Orange/DMR_HypeBeast_Orange_PrimaryAsset"
         },
         {
             "uuid": "e2f5a979-4e9a-f931-7f52-d99f0ec4a61b",
@@ -4913,7 +4922,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/e2f5a979-4e9a-f931-7f52-d99f0ec4a61b/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/e2f5a979-4e9a-f931-7f52-d99f0ec4a61b/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Standard/DMR_HypeBeast_Standard_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/Chromas/Standard/DMR_HypeBeast_Standard_PrimaryAsset"
         },
         {
             "uuid": "22f831db-4e55-6280-9078-d9b63ae93e4d",
@@ -4922,7 +4931,7 @@
             "fullRender": "https://media.valorant-api.com/weaponskinchromas/22f831db-4e55-6280-9078-d9b63ae93e4d/fullrender.png",
             "swatch": "https://media.valorant-api.com/weaponskinchromas/22f831db-4e55-6280-9078-d9b63ae93e4d/swatch.png",
             "streamedVideo": null,
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/Chromas/Yellow/DMR_HypeBeast_Yellow_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/Chromas/Yellow/DMR_HypeBeast_Yellow_PrimaryAsset"
         },
         {
             "uuid": "3f621c8c-4fa8-b50c-969f-c5b4e8bdc3c9",
@@ -6363,6 +6372,15 @@
             "swatch": "https://media.valorant-api.com/weaponskinchromas/69f35d1a-486c-dd5a-4989-b7ba11cdadf5/swatch.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/b5c454ea-4035-0521-3c82-fbad2b64d30d.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/Atlas/Chromas/v3/Melee_Atlas_v3_PrimaryAsset"
+        },
+        {
+            "uuid": "62926dfc-4ffb-c65e-dd4b-8b96b6deee77",
+            "displayName": "Champions 2021 Karambit",
+            "displayIcon": null,
+            "fullRender": "https://media.valorant-api.com/weaponskinchromas/62926dfc-4ffb-c65e-dd4b-8b96b6deee77/fullrender.png",
+            "swatch": null,
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Champions/Chromas/Standard/Melee_Champions_Standard_PrimaryAsset"
         },
         {
             "uuid": "3d37799a-4ec1-61c1-ac3a-8db96119897e",

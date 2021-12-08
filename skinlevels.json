@@ -442,6 +442,38 @@
             "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/ArtDeco/Levels/AK_ArtDeco_Lv1_PrimaryAsset"
         },
         {
+            "uuid": "9f51da57-4623-415a-6313-f49588297d0e",
+            "displayName": "Champions 2021 Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9f51da57-4623-415a-6313-f49588297d0e/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/c85b2f7b-4d60-af7c-23a9-41a876ad5810.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Champions/Levels/AK_Champions_Lv1_PrimaryAsset"
+        },
+        {
+            "uuid": "f96ed262-4280-2363-2542-38b5620bfbb5",
+            "displayName": "Champions 2021 Vandal Level 2",
+            "levelItem": "EEquippableSkinLevelItem::InspectAndKill",
+            "displayIcon": null,
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/761eeafc-489b-81c4-dc64-2cbd85be44ce.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Champions/Levels/AK_Champions_Lv2_PrimaryAsset"
+        },
+        {
+            "uuid": "78c44470-4dd0-eb4c-72f6-86961be3d856",
+            "displayName": "Champions 2021 Vandal Level 3",
+            "levelItem": "EEquippableSkinLevelItem::Finisher",
+            "displayIcon": null,
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/4336c6f3-40fb-dac7-4bc1-c3802cc53fdd.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Champions/Levels/AK_Champions_Lv3_PrimaryAsset"
+        },
+        {
+            "uuid": "4c8a49bd-4118-9523-6612-4a924651b4a9",
+            "displayName": "Champions 2021 Vandal Level 4 - Aura is active only when player has the most kills in the game",
+            "levelItem": "EEquippableSkinLevelItem::TopFrag",
+            "displayIcon": null,
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/568aec84-438e-2ad0-ea67-2f8ed0ae401d.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Champions/Levels/AK_Champions_Lv4_PrimaryAsset"
+        },
+        {
             "uuid": "1969e379-40ae-b28a-6fb3-819873a24fb9",
             "displayName": "Origin Vandal",
             "levelItem": null,
@@ -3807,7 +3839,7 @@
             "levelItem": null,
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9336ab9d-445c-0872-a283-9f9b61a0098a/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/bf10d326-196e-4388-b5a0-8fda40d738e2.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/DMR_HypeBeast_Lv1_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/DMR_HypeBeast_Lv1_PrimaryAsset"
         },
         {
             "uuid": "edc646b0-4a5a-6a76-a860-6b8db95bd132",
@@ -3815,7 +3847,7 @@
             "levelItem": "EEquippableSkinLevelItem::VFX",
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/edc646b0-4a5a-6a76-a860-6b8db95bd132/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/26b4a8b8-b28f-493d-8f39-93d19f73a910.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/DMR_HypeBeast_Lv2_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/DMR_HypeBeast_Lv2_PrimaryAsset"
         },
         {
             "uuid": "14b04b38-4359-62a3-ab62-bcbe715e3fa0",
@@ -3823,7 +3855,7 @@
             "levelItem": "EEquippableSkinLevelItem::Animation",
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/14b04b38-4359-62a3-ab62-bcbe715e3fa0/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/9de9bf52-dfca-4d99-8fd3-51a85ca3bcef.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/DMR_HypeBeast_Lv3_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/DMR_HypeBeast_Lv3_PrimaryAsset"
         },
         {
             "uuid": "99b7b761-41b3-e26c-ceeb-b9a1c3a67736",
@@ -3831,7 +3863,7 @@
             "levelItem": "EEquippableSkinLevelItem::Finisher",
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/99b7b761-41b3-e26c-ceeb-b9a1c3a67736/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/70b5e747-f59e-4064-99d3-73a5612c0cab.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/HypeBeast/DMR_HypeBeast_Lv4_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/DMR_HypeBeast_Lv4_PrimaryAsset"
         },
         {
             "uuid": "0e1af0d5-4dee-15db-25b5-31a7da6f1d52",
@@ -4880,6 +4912,30 @@
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fe57fe97-4b0b-4a97-3050-2eb0a236f564/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/7434b0ee-48a0-662d-bacf-b9a0d890e0e7.mp4",
             "assetPath": "ShooterGame/Content/Equippables/Melee/Atlas/Levels/Melee_Atlas_Lv2_PrimaryAsset"
+        },
+        {
+            "uuid": "470e2855-4b86-f62d-258f-4588056a7b23",
+            "displayName": "Champions 2021 Karambit",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/470e2855-4b86-f62d-258f-4588056a7b23/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/11fbf057-4414-bae2-2bf4-ad8106208f80.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Champions/Levels/Melee_Champions_Lv1_PrimaryAsset"
+        },
+        {
+            "uuid": "5f991913-44c1-ba78-9547-5d8de87f04c2",
+            "displayName": "Champions 2021 Karambit Level 2",
+            "levelItem": "EEquippableSkinLevelItem::VFX",
+            "displayIcon": null,
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/01ec485a-41cc-3fa0-b6ba-008f46312d7d.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Champions/Levels/Melee_Champions_Lv2_PrimaryAsset"
+        },
+        {
+            "uuid": "250ff684-42e9-108d-4722-a9a3ac8733e6",
+            "displayName": "Champions 2021 Karambit Level 3 - Aura is active only when player has the most kills in the game",
+            "levelItem": "EEquippableSkinLevelItem::TopFrag",
+            "displayIcon": null,
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.10/2cce17cf-44e8-d2a1-2db5-3b9191811706.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Champions/Levels/Melee_Champions_Lv3_PrimaryAsset"
         },
         {
             "uuid": "5f059d7e-413c-445c-e36f-9a9791fba5b0",

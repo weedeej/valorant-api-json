@@ -62,6 +62,18 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_AvalancheThemeBundle_DataAsset"
         },
         {
+            "uuid": "bf987f36-4a33-45e4-3c49-1ab9a2502607",
+            "displayName": "Champions 2021",
+            "description": "Champions 2021",
+            "extraDescription": "Celebrate Champions 2021 and support your favorite team with this limited edition bundle. From November 24th - December 12th, 50% of net proceeds from the Champions 2021 Collection will go to participating teams. Items won't return to the Store or Night.Market.",
+            "promoDescription": null,
+            "useAdditionalContext": true,
+            "displayIcon": "https://media.valorant-api.com/bundles/bf987f36-4a33-45e4-3c49-1ab9a2502607/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/bf987f36-4a33-45e4-3c49-1ab9a2502607/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/bf987f36-4a33-45e4-3c49-1ab9a2502607/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_Champions2021ThemeBundle_DataAsset"
+        },
+        {
             "uuid": "54f8793c-4daa-6e45-bcfd-e9bfc742dc30",
             "displayName": "Origin",
             "description": "Origin",

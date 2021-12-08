@@ -1005,6 +1005,23 @@
             ]
         },
         {
+            "uuid": "e96e6f84-4315-409a-09bf-788e0cf13ecf",
+            "displayName": "2021 VCT Champions Winner Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/e96e6f84-4315-409a-09bf-788e0cf13ecf/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/EsportsVCTGold/GunBuddy_EsportsVCTGold_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "02b22bd6-42fa-90f6-0574-2091794d3eb1",
+                    "charmLevel": 1,
+                    "displayName": "EsportsVCTGold",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/02b22bd6-42fa-90f6-0574-2091794d3eb1/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/EsportsVCTGold/GunBuddy_EsportsVCTGold_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "82bdb8b5-40bf-9b65-272e-4eb7dad1264e",
             "displayName": "2021 VCT Masters Winner Buddy",
             "isHiddenIfNotOwned": true,

@@ -541,6 +541,13 @@
             "assetPath": "ShooterGame/Content/Personalization/Titles/Pride2021/PlayerTitle_Proud_PrimaryAsset"
         },
         {
+            "uuid": "58e5f5db-4b18-cf8a-afa2-b49574b34456",
+            "displayName": "Champion Title",
+            "titleText": "Champion",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Skinline_Titles/Champions/PlayerTitle_2021Champions_PrimaryAsset"
+        },
+        {
             "uuid": "77b12d01-4209-6b61-16aa-23a7382ae17b",
             "displayName": "Year One Title",
             "titleText": "Year One",
@@ -553,6 +560,13 @@
             "titleText": "YR1",
             "isHiddenIfNotOwned": false,
             "assetPath": "ShooterGame/Content/Personalization/Titles/VALBirthday2021/PlayerTitle_YR1_PrimaryAsset"
+        },
+        {
+            "uuid": "1ba98f24-4989-8778-f8a6-b7af353a1625",
+            "displayName": "2021 VCT Champion Title",
+            "titleText": "2021 VCT Champion",
+            "isHiddenIfNotOwned": true,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/VCT/2021_Champions_Winners/PlayerTitle_2021ChampionsWinners_PrimaryAsset"
         },
         {
             "uuid": "00031857-43a9-9545-4e05-58ad0a62b79d",
