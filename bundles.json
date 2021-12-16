@@ -422,6 +422,18 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_RaygunThemeBundle_DataAsset"
         },
         {
+            "uuid": "332d705c-4852-11e5-c590-88b1f6e47f72",
+            "displayName": "Run It Back",
+            "description": "Run It Back",
+            "extraDescription": "Celebrate the new year with a hand-picked selection of some of our favorite skins from 2021.",
+            "promoDescription": "Celebrate the new year with a hand-picked selection of some of our favorite skins from 2021.",
+            "useAdditionalContext": true,
+            "displayIcon": "https://media.valorant-api.com/bundles/332d705c-4852-11e5-c590-88b1f6e47f72/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/332d705c-4852-11e5-c590-88b1f6e47f72/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/332d705c-4852-11e5-c590-88b1f6e47f72/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/Storefrontitem_RIB2ThemeBundle_DataAsset"
+        },
+        {
             "uuid": "bcdd8956-4588-f586-fda8-fd991c593449",
             "displayName": "Run It Back",
             "description": "Run It Back",
@@ -444,6 +456,18 @@
             "displayIcon2": "https://media.valorant-api.com/bundles/49d7951e-4e5d-304c-31a0-589b79096d5a/displayicon2.png",
             "verticalPromoImage": "https://media.valorant-api.com/bundles/49d7951e-4e5d-304c-31a0-589b79096d5a/verticalpromoimage.png",
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_SakuraThemeBundle_DataAsset"
+        },
+        {
+            "uuid": "8a3507cd-44ef-0695-1d66-4da0f87e7522",
+            "displayName": "Snowfall",
+            "description": "Snowfall",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/8a3507cd-44ef-0695-1d66-4da0f87e7522/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/8a3507cd-44ef-0695-1d66-4da0f87e7522/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/8a3507cd-44ef-0695-1d66-4da0f87e7522/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/Storefrontitem_SnowglobeThemeBundle_DataAsset"
         },
         {
             "uuid": "13d427c1-49d7-44f9-6576-27a9c83d787f",

@@ -1007,7 +1007,7 @@
         {
             "uuid": "e96e6f84-4315-409a-09bf-788e0cf13ecf",
             "displayName": "2021 VCT Champions Winner Buddy",
-            "isHiddenIfNotOwned": false,
+            "isHiddenIfNotOwned": true,
             "themeUuid": null,
             "displayIcon": "https://media.valorant-api.com/buddies/e96e6f84-4315-409a-09bf-788e0cf13ecf/displayicon.png",
             "assetPath": "ShooterGame/Content/Equippables/Buddies/EsportsVCTGold/GunBuddy_EsportsVCTGold_PrimaryAsset",
@@ -2603,6 +2603,23 @@
             ]
         },
         {
+            "uuid": "67310368-40c0-75fc-4853-3192ddf3011a",
+            "displayName": "Snowfall Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": "58df025f-4077-9764-20ec-76a73df87b44",
+            "displayIcon": "https://media.valorant-api.com/buddies/67310368-40c0-75fc-4853-3192ddf3011a/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/SnowglobeTheme/GunBuddy_SnowglobeTheme_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "3ddb3c27-4cf6-59ed-8e17-0e9ab970efb4",
+                    "charmLevel": 1,
+                    "displayName": "SnowglobeTheme",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/3ddb3c27-4cf6-59ed-8e17-0e9ab970efb4/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/SnowglobeTheme/GunBuddy_SnowglobeTheme_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "72a48d20-40b8-8a99-1c96-c7a549af4640",
             "displayName": "Sentinels of Light Buddy",
             "isHiddenIfNotOwned": false,
@@ -2990,6 +3007,23 @@
                     "displayName": "Ego Buddy",
                     "displayIcon": "https://media.valorant-api.com/buddylevels/d3759a6a-4d5c-a322-092f-7290b52566ef/displayicon.png",
                     "assetPath": "ShooterGame/Content/Equippables/Buddies/Unstoppable/GunBuddy_Unstoppable_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "ada5f921-4d81-f439-0017-0e86877a02bd",
+            "displayName": "Exquisitely Wrapped Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/ada5f921-4d81-f439-0017-0e86877a02bd/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/URF/GunBuddy_URFPresent_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "7a098e59-49e4-55ed-7190-e68476edb927",
+                    "charmLevel": 1,
+                    "displayName": "URF",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/7a098e59-49e4-55ed-7190-e68476edb927/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/URF/GunBuddy_URF_Lv1_PrimaryAsset"
                 }
             ]
         },

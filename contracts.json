@@ -2453,8 +2453,8 @@
             "shipIt": false,
             "freeRewardScheduleUuid": "1c8063d9-4ab1-2a77-e7f8-c9b97d90c5c6",
             "content": {
-                "relationType": null,
-                "relationUuid": null,
+                "relationType": "Event",
+                "relationUuid": "cee09894-41d6-7000-848b-ea9de6c28f44",
                 "chapters": [
                     {
                         "isEpilogue": false,
