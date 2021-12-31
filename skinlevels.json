@@ -135,7 +135,7 @@
             "levelItem": null,
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5123ed96-48de-aeab-eaea-2b8ea689f5a2/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/943c425e-4b3d-0d29-15d7-8d88d95b886e.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Urf/Levels/HeavyMachineGun_URF_Lv1_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/URF/Levels/HeavyMachineGun_URF_Lv1_PrimaryAsset"
         },
         {
             "uuid": "35e89d1a-477c-3d54-82aa-3599a832fe0b",
@@ -143,7 +143,7 @@
             "levelItem": "EEquippableSkinLevelItem::VFX",
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/35e89d1a-477c-3d54-82aa-3599a832fe0b/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/3d8cc4ea-4de2-4863-4c9c-c3b86cc6884c.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Urf/Levels/HeavyMachineGun_URF_Lv2_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/URF/Levels/HeavyMachineGun_URF_Lv2_PrimaryAsset"
         },
         {
             "uuid": "31201e02-4873-a6db-1ce6-6e93a620370c",
@@ -151,7 +151,7 @@
             "levelItem": "EEquippableSkinLevelItem::Animation",
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/31201e02-4873-a6db-1ce6-6e93a620370c/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/c3008423-4a36-7d58-51f8-81a2eea188c3.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Urf/Levels/HeavyMachineGun_URF_Lv3_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/URF/Levels/HeavyMachineGun_URF_Lv3_PrimaryAsset"
         },
         {
             "uuid": "7637fff1-4275-590a-6181-be95eae8786a",
@@ -159,7 +159,7 @@
             "levelItem": "EEquippableSkinLevelItem::Finisher",
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7637fff1-4275-590a-6181-be95eae8786a/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/463b382a-4a76-4eb3-a699-bc8e856335c4.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Urf/Levels/HeavyMachineGun_URF_Lv4_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/URF/Levels/HeavyMachineGun_URF_Lv4_PrimaryAsset"
         },
         {
             "uuid": "1203a0b8-4044-a7de-1751-87b30b9574e8",
@@ -783,7 +783,7 @@
             "levelItem": null,
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ba42fe63-457a-78ce-4499-47950a698129/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/a6ee2555-4e3a-049e-916a-7ca853dd4568.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Levels/AK_Soulstealer_Lv1_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Levels/AK_Soulstealer_Lv1_PrimaryAsset"
         },
         {
             "uuid": "6f9ba692-4618-d0e6-3099-42b4dc5fce89",
@@ -791,7 +791,7 @@
             "levelItem": "EEquippableSkinLevelItem::VFX",
             "displayIcon": null,
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/78146b6e-49fc-115d-995e-309c5f18e3fd.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Levels/AK_Soulstealer_Lv2_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Levels/AK_Soulstealer_Lv2_PrimaryAsset"
         },
         {
             "uuid": "98597b95-451c-70cf-46fb-31b4c5a54394",
@@ -799,7 +799,7 @@
             "levelItem": "EEquippableSkinLevelItem::Animation",
             "displayIcon": null,
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/b21243ec-4cf0-37c0-43b4-15bf84de9d1d.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Levels/AK_Soulstealer_Lv3_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Levels/AK_Soulstealer_Lv3_PrimaryAsset"
         },
         {
             "uuid": "8c282914-446a-3e99-095a-cd97df201c8b",
@@ -807,7 +807,7 @@
             "levelItem": "EEquippableSkinLevelItem::Finisher",
             "displayIcon": null,
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/d262fccc-465a-2da6-74ac-049ef3b3f759.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Levels/AK_Soulstealer_Lv4_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Soulstealer/Levels/AK_Soulstealer_Lv4_PrimaryAsset"
         },
         {
             "uuid": "1d2e2fd5-4fef-61f2-a4ec-92819d16fcf2",
@@ -2495,7 +2495,7 @@
             "levelItem": null,
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c7695ce7-4fc9-1c79-64b3-8c8f9e21571c/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/72d67dd0-0d79-4c98-9e1d-c10068b024a8.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Hypebeast/BasePistol_HypeBeast_Lv1_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/HypeBeast/BasePistol_HypeBeast_Lv1_PrimaryAsset"
         },
         {
             "uuid": "7b2c1232-460b-ab9a-1eca-55b5aee9ad08",
@@ -2503,7 +2503,7 @@
             "levelItem": "EEquippableSkinLevelItem::VFX",
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7b2c1232-460b-ab9a-1eca-55b5aee9ad08/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/a670ee4b-a202-4c7f-8021-7e4e11840cff.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Hypebeast/BasePistol_HypeBeast_Lv2_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/HypeBeast/BasePistol_HypeBeast_Lv2_PrimaryAsset"
         },
         {
             "uuid": "4fc58223-43e7-a868-a6df-5e93be31369c",
@@ -2511,7 +2511,7 @@
             "levelItem": "EEquippableSkinLevelItem::Animation",
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4fc58223-43e7-a868-a6df-5e93be31369c/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/4c99c871-f3b6-4bcc-87ff-2c83adaac322.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Hypebeast/BasePistol_HypeBeast_Lv3_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/HypeBeast/BasePistol_HypeBeast_Lv3_PrimaryAsset"
         },
         {
             "uuid": "e8a35ddb-4ce7-3867-154c-94803ed12a24",
@@ -2519,7 +2519,7 @@
             "levelItem": "EEquippableSkinLevelItem::Finisher",
             "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e8a35ddb-4ce7-3867-154c-94803ed12a24/displayicon.png",
             "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-03.12/be82422e-f56b-4a8b-bc1b-b11d8e053618.mp4",
-            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Hypebeast/BasePistol_HypeBeast_Lv4_PrimaryAsset"
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/HypeBeast/BasePistol_HypeBeast_Lv4_PrimaryAsset"
         },
         {
             "uuid": "3800390c-4192-92d1-1703-33ba231fc226",
