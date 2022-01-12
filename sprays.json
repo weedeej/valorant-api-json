@@ -857,6 +857,25 @@
             ]
         },
         {
+            "uuid": "3036069d-46c6-98ca-759f-9bb7f4c9ba15",
+            "displayName": "Quack!! Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/3036069d-46c6-98ca-759f-9bb7f4c9ba15/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/3036069d-46c6-98ca-759f-9bb7f4c9ba15/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/3036069d-46c6-98ca-759f-9bb7f4c9ba15/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/DuckyHorn/DuckyHorn_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "8dd8f61d-4066-40d5-7bd3-419cb53274a6",
+                    "sprayLevel": 1,
+                    "displayName": "DuckyHorn",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/8dd8f61d-4066-40d5-7bd3-419cb53274a6/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/DuckyHorn/DuckyHorn_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "ff4f634c-42f4-77bc-0811-b79681910c8b",
             "displayName": "Spicy Spray",
             "category": null,
@@ -2624,6 +2643,253 @@
             ]
         },
         {
+            "uuid": "08a013c9-4f27-ac03-aa21-7e83d824d945",
+            "displayName": "Bad Hair Day Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/08a013c9-4f27-ac03-aa21-7e83d824d945/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/08a013c9-4f27-ac03-aa21-7e83d824d945/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/08a013c9-4f27-ac03-aa21-7e83d824d945/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/BadHairDay/BadHairDay_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "0aa47c11-4a7f-bfe5-046e-92adc11eb5ce",
+                    "sprayLevel": 1,
+                    "displayName": "BadHairDay",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/0aa47c11-4a7f-bfe5-046e-92adc11eb5ce/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/BadHairDay/BadHairDay_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2f3e8a40-4bdc-0718-3517-978da1bf675a",
+            "displayName": "Sweetest Match Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/2f3e8a40-4bdc-0718-3517-978da1bf675a/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/2f3e8a40-4bdc-0718-3517-978da1bf675a/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/2f3e8a40-4bdc-0718-3517-978da1bf675a/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/CandyHearts/CandyHearts_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a11924ea-4cb5-0780-56d9-43813ae9cd41",
+                    "sprayLevel": 1,
+                    "displayName": "CandyHearts",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/a11924ea-4cb5-0780-56d9-43813ae9cd41/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/CandyHearts/CandyHearts_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "34e36ad8-4b3b-0e30-7ca9-c6bcce709e0f",
+            "displayName": "Head Slapper Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/34e36ad8-4b3b-0e30-7ca9-c6bcce709e0f/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/34e36ad8-4b3b-0e30-7ca9-c6bcce709e0f/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/34e36ad8-4b3b-0e30-7ca9-c6bcce709e0f/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/FacePalmBrim/FacePalmBrim_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "7cb6523c-4823-fd5c-3f47-4592e9b5414e",
+                    "sprayLevel": 1,
+                    "displayName": "FacePalmBrim",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/7cb6523c-4823-fd5c-3f47-4592e9b5414e/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/FacePalmBrim/FacePalmBrim_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "0dc378e3-4936-7c9f-a1ba-fd90999b3a10",
+            "displayName": "A Prime Valentine's Gift Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/0dc378e3-4936-7c9f-a1ba-fd90999b3a10/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/0dc378e3-4936-7c9f-a1ba-fd90999b3a10/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/0dc378e3-4936-7c9f-a1ba-fd90999b3a10/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/GunsAndRoses/GunsAndRoses_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "16f777e2-489b-8fa5-f9b1-26be167e3aac",
+                    "sprayLevel": 1,
+                    "displayName": "GunsAndRoses",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/16f777e2-489b-8fa5-f9b1-26be167e3aac/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/GunsAndRoses/GunsAndRoses_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8ada4719-4769-159c-cb94-44ad49834b25",
+            "displayName": "Hydrodip Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/8ada4719-4769-159c-cb94-44ad49834b25/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/8ada4719-4769-159c-cb94-44ad49834b25/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/8ada4719-4769-159c-cb94-44ad49834b25/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/Hydrodip/Hydrodip_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "049b52e9-499c-31c5-919c-c0847d6da004",
+                    "sprayLevel": 1,
+                    "displayName": "Hydrodip",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/049b52e9-499c-31c5-919c-c0847d6da004/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/Hydrodip/Hydrodip_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "aa658907-4bb8-07b9-c17e-828d62b8ce78",
+            "displayName": "Jett-Bot Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/aa658907-4bb8-07b9-c17e-828d62b8ce78/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/aa658907-4bb8-07b9-c17e-828d62b8ce78/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/aa658907-4bb8-07b9-c17e-828d62b8ce78/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/JettBot/JettBot_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "ae70c365-41b4-c904-9303-e78e50acbffb",
+                    "sprayLevel": 1,
+                    "displayName": "JettBot",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/ae70c365-41b4-c904-9303-e78e50acbffb/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/JettBot/JettBot_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "1f6bab1f-4459-fbd0-ac15-27a993144f21",
+            "displayName": "Lost Connection Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/1f6bab1f-4459-fbd0-ac15-27a993144f21/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/1f6bab1f-4459-fbd0-ac15-27a993144f21/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/1f6bab1f-4459-fbd0-ac15-27a993144f21/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/Lag/Lag_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "e1ac7cc6-4245-ff15-d923-85a7c5474d52",
+                    "sprayLevel": 1,
+                    "displayName": "Lag",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/e1ac7cc6-4245-ff15-d923-85a7c5474d52/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/Lag/Lag_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "16c43be1-452b-8bbc-a9f2-629ded0697dd",
+            "displayName": "Agent Down Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/16c43be1-452b-8bbc-a9f2-629ded0697dd/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/16c43be1-452b-8bbc-a9f2-629ded0697dd/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/16c43be1-452b-8bbc-a9f2-629ded0697dd/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/ManDown/ManDown_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "c84fae0e-440e-9b5d-db93-f29d779f4dd1",
+                    "sprayLevel": 1,
+                    "displayName": "ManDown",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/c84fae0e-440e-9b5d-db93-f29d779f4dd1/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/ManDown/ManDown_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "8b820b5b-4988-4385-610e-d7923724de68",
+            "displayName": "What's That? Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/8b820b5b-4988-4385-610e-d7923724de68/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/8b820b5b-4988-4385-610e-d7923724de68/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/8b820b5b-4988-4385-610e-d7923724de68/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/Nani/Nani_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "75adc407-413b-2d70-4f76-23b345f56f5c",
+                    "sprayLevel": 1,
+                    "displayName": "Nani",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/75adc407-413b-2d70-4f76-23b345f56f5c/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/Nani/Nani_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "a8ea5a21-4dba-be95-6839-89ba93be84b6",
+            "displayName": "Potato Aim Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/a8ea5a21-4dba-be95-6839-89ba93be84b6/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/a8ea5a21-4dba-be95-6839-89ba93be84b6/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/a8ea5a21-4dba-be95-6839-89ba93be84b6/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/PotatoAim/PotatoAim_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "e21f263a-44ae-93ef-1a5d-baaa2ab450b9",
+                    "sprayLevel": 1,
+                    "displayName": "PotatoAim",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/e21f263a-44ae-93ef-1a5d-baaa2ab450b9/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/PotatoAim/PotatoAim_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e1f12119-480e-5979-a1c3-b98fc17f10a9",
+            "displayName": "Missed a Spot Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/e1f12119-480e-5979-a1c3-b98fc17f10a9/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/e1f12119-480e-5979-a1c3-b98fc17f10a9/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/e1f12119-480e-5979-a1c3-b98fc17f10a9/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/PotatoWhiff/PotatoWhiff_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "9e7cf1d6-4285-a5f6-74c4-42a2d70df80f",
+                    "sprayLevel": 1,
+                    "displayName": "PotatoWhiff",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/9e7cf1d6-4285-a5f6-74c4-42a2d70df80f/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/PotatoWhiff/PotatoWhiff_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "bf750412-4514-9e90-c279-feb8919d3824",
+            "displayName": "Shoot Here Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/bf750412-4514-9e90-c279-feb8919d3824/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/bf750412-4514-9e90-c279-feb8919d3824/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/bf750412-4514-9e90-c279-feb8919d3824/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/ShootHere/ShootHere_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "69434822-498e-b68a-bff1-ae94e0d116e9",
+                    "sprayLevel": 1,
+                    "displayName": "ShootHere",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/69434822-498e-b68a-bff1-ae94e0d116e9/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/ShootHere/ShootHere_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "b36b1182-4cf2-ecbf-3146-fbac3ee73348",
+            "displayName": "Use Ult Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/b36b1182-4cf2-ecbf-3146-fbac3ee73348/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/b36b1182-4cf2-ecbf-3146-fbac3ee73348/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/b36b1182-4cf2-ecbf-3146-fbac3ee73348/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/UseUlt/UseUlt_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "2391d455-43ae-d000-6d21-30bd2e748da9",
+                    "sprayLevel": 1,
+                    "displayName": "UseUlt",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/2391d455-43ae-d000-6d21-30bd2e748da9/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Ep4_Act1_BP/UseUlt/UseUlt_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "f9bcf120-42b6-6986-2acd-6aa87bab4089",
             "displayName": "VCT 2021 Spark Spray",
             "category": null,
@@ -3194,6 +3460,25 @@
             ]
         },
         {
+            "uuid": "63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe",
+            "displayName": "Nice One Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/NiceOne/NiceOne_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "8626c534-4d7b-c8f1-2ef2-629fc199ddbb",
+                    "sprayLevel": 1,
+                    "displayName": "NiceOne",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/8626c534-4d7b-c8f1-2ef2-629fc199ddbb/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/NiceOne/NiceOne_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "cd3d4242-4282-9210-f34f-9998e8b1f9e0",
             "displayName": "Octo Attack 2 Spray",
             "category": "EAresSprayCategory::Contextual",
@@ -3342,6 +3627,25 @@
                     "displayName": "PhoenixCollarPop",
                     "displayIcon": "https://media.valorant-api.com/spraylevels/2b72a735-44d7-e76f-ada8-d39166bdcfff/displayicon.png",
                     "assetPath": "ShooterGame/Content/Personalization/Sprays/PhoenixCollarPop/PhoenixCollarPop_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "e428e9d5-4912-ffac-031b-f293375cd14d",
+            "displayName": "Protocol 781-A Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/e428e9d5-4912-ffac-031b-f293375cd14d/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/e428e9d5-4912-ffac-031b-f293375cd14d/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/e428e9d5-4912-ffac-031b-f293375cd14d/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Protocol/Protocol_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "519573ae-4af3-54f8-1563-2cb6035f2e01",
+                    "sprayLevel": 1,
+                    "displayName": "Protocol",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/519573ae-4af3-54f8-1563-2cb6035f2e01/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Protocol/Protocol_Level1_PrimaryAsset"
                 }
             ]
         },
@@ -4045,6 +4349,63 @@
                     "displayName": "Clip It Spray",
                     "displayIcon": "https://media.valorant-api.com/spraylevels/457b5d43-4199-ae99-6866-a8a7342393be/displayicon.png",
                     "assetPath": "ShooterGame/Content/Personalization/Sprays/Spray_ClipIt/Spray_ClipIt_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "bcf042e4-463c-7fc1-a2c7-0ca17791da9c",
+            "displayName": "Neon Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/bcf042e4-463c-7fc1-a2c7-0ca17791da9c/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/bcf042e4-463c-7fc1-a2c7-0ca17791da9c/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/bcf042e4-463c-7fc1-a2c7-0ca17791da9c/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Sprinter/SprinterCallSign/SprinterCallSign_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d0d95667-40f3-005e-fa56-0d8dab5e2974",
+                    "sprayLevel": 1,
+                    "displayName": "SprinterCallSign",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/d0d95667-40f3-005e-fa56-0d8dab5e2974/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Sprinter/SprinterCallSign/SprinterCallSign_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "a465eabf-4bfd-2fef-d6b2-c2b3ce10f2db",
+            "displayName": "Hot Mic Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/a465eabf-4bfd-2fef-d6b2-c2b3ce10f2db/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/a465eabf-4bfd-2fef-d6b2-c2b3ce10f2db/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/a465eabf-4bfd-2fef-d6b2-c2b3ce10f2db/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Sprinter/SprinterKaraoke/SprinterKaraoke_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "4f350204-4219-a038-9e25-668518f7ac32",
+                    "sprayLevel": 1,
+                    "displayName": "SprinterKaraoke",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/4f350204-4219-a038-9e25-668518f7ac32/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Sprinter/SprinterKaraoke/SprinterKaraoke_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "2bd7df88-4915-948f-af55-b2a2dc8b2e0c",
+            "displayName": "Nice to Zap You Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/2bd7df88-4915-948f-af55-b2a2dc8b2e0c/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/2bd7df88-4915-948f-af55-b2a2dc8b2e0c/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/2bd7df88-4915-948f-af55-b2a2dc8b2e0c/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Sprinter/SprinterShock/SprinterShock_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "5258e846-4fc9-9a56-ebb7-67879dcea66f",
+                    "sprayLevel": 1,
+                    "displayName": "SprinterShock",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/5258e846-4fc9-9a56-ebb7-67879dcea66f/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Sprinter/SprinterShock/SprinterShock_Level1_PrimaryAsset"
                 }
             ]
         },

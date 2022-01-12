@@ -212,6 +212,27 @@
             "assetPath": "ShooterGame/Content/Personalization/Titles/Ep3_Act3_EventPass/PlayerTitle_Liar_PrimaryAsset"
         },
         {
+            "uuid": "184e2e0d-4df5-2979-9bb0-93b102cf38fd",
+            "displayName": "Boomer Title",
+            "titleText": "Boomer",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep4_Act1_BP/PlayerTitle_Boomer_PrimaryAsset"
+        },
+        {
+            "uuid": "28a16537-46e1-5b94-be11-788e89dd2f56",
+            "displayName": "Cringe Title",
+            "titleText": "Cringe",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep4_Act1_BP/PlayerTitle_Cringe_PrimaryAsset"
+        },
+        {
+            "uuid": "a87a5216-42d2-7c01-0d88-d69274c35254",
+            "displayName": "Unrivaled Title",
+            "titleText": "Unrivaled",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Ep4_Act1_BP/PlayerTitle_Unrivaled_PrimaryAsset"
+        },
+        {
             "uuid": "631f4283-48b1-1855-d646-5e8f80e29821",
             "displayName": "Day One Title",
             "titleText": "Day One",
@@ -546,6 +567,20 @@
             "titleText": "Champion",
             "isHiddenIfNotOwned": false,
             "assetPath": "ShooterGame/Content/Personalization/Titles/Skinline_Titles/Champions/PlayerTitle_2021Champions_PrimaryAsset"
+        },
+        {
+            "uuid": "e398da6e-4719-eb48-0f79-72b51bf4c49f",
+            "displayName": "Electrifying Title",
+            "titleText": "Electrifying",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Sprinter/PlayerTitle_Electrifying_PrimaryAsset"
+        },
+        {
+            "uuid": "c4285636-4056-8c21-b0d1-55867e74c98f",
+            "displayName": "Zoomer Title",
+            "titleText": "Zoomer",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/Sprinter/PlayerTitle_Zoomer_PrimaryAsset"
         },
         {
             "uuid": "77b12d01-4209-6b61-16aa-23a7382ae17b",

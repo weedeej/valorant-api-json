@@ -4,6 +4,7 @@
         {
             "uuid": "d958b181-4e7b-dc60-7c3c-e3a3a376a8d2",
             "displayName": "RGX 11z Pro",
+            "displayNameSubText": null,
             "description": "RGX 11z Pro",
             "extraDescription": null,
             "promoDescription": null,
@@ -16,6 +17,7 @@
         {
             "uuid": "b37b6a01-40f9-af81-ed34-fd8563539d44",
             "displayName": "VALORANT GO! Vol. 1",
+            "displayNameSubText": null,
             "description": "VALORANT GO! Vol. 1",
             "extraDescription": null,
             "promoDescription": null,
@@ -28,6 +30,7 @@
         {
             "uuid": "5c8b9297-465f-080c-3c0d-c9b9811432ed",
             "displayName": "VALORANT GO! Vol. 2",
+            "displayNameSubText": null,
             "description": "VALORANT GO! Vol. 2",
             "extraDescription": null,
             "promoDescription": null,
@@ -40,6 +43,7 @@
         {
             "uuid": "f7f37856-4af7-9b0e-08aa-91a5207c0439",
             "displayName": "Spectrum",
+            "displayNameSubText": null,
             "description": "Spectrum",
             "extraDescription": null,
             "promoDescription": null,
@@ -52,6 +56,7 @@
         {
             "uuid": "0dee7ef6-d3ea-400a-b15c-5b9524243439",
             "displayName": "Avalanche",
+            "displayNameSubText": null,
             "description": "Avalanche",
             "extraDescription": null,
             "promoDescription": null,
@@ -64,6 +69,7 @@
         {
             "uuid": "bf987f36-4a33-45e4-3c49-1ab9a2502607",
             "displayName": "Champions 2021",
+            "displayNameSubText": null,
             "description": "Champions 2021",
             "extraDescription": "Celebrate Champions 2021 and support your favorite team with this limited edition bundle. From November 24th - December 12th, 50% of net proceeds from the Champions 2021 Collection will go to participating teams. Items won't return to the Store or Night.Market.",
             "promoDescription": null,
@@ -76,6 +82,7 @@
         {
             "uuid": "54f8793c-4daa-6e45-bcfd-e9bfc742dc30",
             "displayName": "Origin",
+            "displayNameSubText": null,
             "description": "Origin",
             "extraDescription": null,
             "promoDescription": null,
@@ -88,6 +95,7 @@
         {
             "uuid": "3a824027-4414-5a08-64f0-c8905a2aaa66",
             "displayName": "Radiant Crisis 001",
+            "displayNameSubText": null,
             "description": "Radiant Crisis 001",
             "extraDescription": null,
             "promoDescription": null,
@@ -100,6 +108,7 @@
         {
             "uuid": "c520fbb0-492c-960e-8b77-f69fc4ce1838",
             "displayName": "Nebula",
+            "displayNameSubText": null,
             "description": "Nebula",
             "extraDescription": null,
             "promoDescription": null,
@@ -112,6 +121,7 @@
         {
             "uuid": "fc723fef-444a-4013-a741-3e85a97382f2",
             "displayName": "Glitchpop",
+            "displayNameSubText": null,
             "description": "Glitchpop",
             "extraDescription": null,
             "promoDescription": null,
@@ -124,6 +134,7 @@
         {
             "uuid": "05e8add9-404d-5d37-8973-9f93f8880e2d",
             "displayName": "Glitchpop",
+            "displayNameSubText": null,
             "description": "Glitchpop",
             "extraDescription": null,
             "promoDescription": null,
@@ -136,6 +147,7 @@
         {
             "uuid": "1ba50cf0-46dd-848f-13a9-dc92fb0a3e3b",
             "displayName": "Elderflame",
+            "displayNameSubText": null,
             "description": "Elderflame",
             "extraDescription": null,
             "promoDescription": null,
@@ -148,6 +160,7 @@
         {
             "uuid": "ef72e3c0-467b-ab15-076a-1e9690d16d6f",
             "displayName": "Singularity",
+            "displayNameSubText": null,
             "description": "Singularity",
             "extraDescription": null,
             "promoDescription": null,
@@ -160,6 +173,7 @@
         {
             "uuid": "1b98ee1c-4d9a-9e9d-0b36-f1a001a76628",
             "displayName": "Forsaken",
+            "displayNameSubText": null,
             "description": "Forsaken",
             "extraDescription": null,
             "promoDescription": null,
@@ -172,6 +186,7 @@
         {
             "uuid": "441117e1-40be-42e2-3aeb-49957e5c03fd",
             "displayName": "Give Back",
+            "displayNameSubText": null,
             "description": "Give Back",
             "extraDescription": "From June 22nd - July 8th, 50% of proceeds from Weapon skins + 100% of proceeds from accessories in the Give Back Bundle will go towards the Riot Games Social Impact Fund in partnership with Impact Assets",
             "promoDescription": "Until July 8, 50% of proceeds from Weapon skins + 100% of proceeds from accessories in the Give Back Bundle will go towards the Riot Games Social Impact Fund in partnership with Impact Assets",
@@ -184,6 +199,7 @@
         {
             "uuid": "9be3549b-4124-7fc2-aa79-8d817f728a18",
             "displayName": "Infantry",
+            "displayNameSubText": null,
             "description": "Infantry",
             "extraDescription": null,
             "promoDescription": null,
@@ -196,6 +212,7 @@
         {
             "uuid": "abba1438-4900-ce9b-8b81-38b6975a419f",
             "displayName": "Horizon",
+            "displayNameSubText": null,
             "description": "Horizon",
             "extraDescription": null,
             "promoDescription": null,
@@ -208,6 +225,7 @@
         {
             "uuid": "de041dd5-4e17-2924-6d09-b4a3ccd82e6f",
             "displayName": "Prime//2.0",
+            "displayNameSubText": null,
             "description": "Prime//2.0",
             "extraDescription": null,
             "promoDescription": null,
@@ -220,6 +238,7 @@
         {
             "uuid": "2116a38e-4b71-f169-0d16-ce9289af4bfa",
             "displayName": "Prime",
+            "displayNameSubText": null,
             "description": "Prime",
             "extraDescription": null,
             "promoDescription": null,
@@ -232,6 +251,7 @@
         {
             "uuid": "224ddcc4-4a2b-cc61-01a2-97835777b3f6",
             "displayName": "Prism II",
+            "displayNameSubText": null,
             "description": "Prism II",
             "extraDescription": null,
             "promoDescription": null,
@@ -244,6 +264,7 @@
         {
             "uuid": "ce6c1fa1-4eae-6db9-779f-f6988b866de4",
             "displayName": "Prism",
+            "displayNameSubText": null,
             "description": "Prism",
             "extraDescription": null,
             "promoDescription": null,
@@ -256,6 +277,7 @@
         {
             "uuid": "ae0c9cc4-4c03-f8d6-745c-84953db684fc",
             "displayName": "Ruination",
+            "displayNameSubText": null,
             "description": "Ruination",
             "extraDescription": null,
             "promoDescription": null,
@@ -268,6 +290,7 @@
         {
             "uuid": "adec612c-4c82-a4b2-a5f2-b7909e638a67",
             "displayName": "Smite",
+            "displayNameSubText": null,
             "description": "Smite",
             "extraDescription": null,
             "promoDescription": null,
@@ -280,6 +303,7 @@
         {
             "uuid": "a4d5c5f5-4647-d984-011d-dea2ef7b56c5",
             "displayName": "Nunca Olvidados",
+            "displayNameSubText": null,
             "description": "Nunca Olvidados",
             "extraDescription": null,
             "promoDescription": null,
@@ -292,6 +316,7 @@
         {
             "uuid": "473e694c-4940-078b-fb49-e994dff766cf",
             "displayName": "Celestial",
+            "displayNameSubText": null,
             "description": "Celestial",
             "extraDescription": null,
             "promoDescription": null,
@@ -304,6 +329,7 @@
         {
             "uuid": "1703b166-4e32-63da-9d16-a7a144aab574",
             "displayName": "Luxe",
+            "displayNameSubText": null,
             "description": "Luxe",
             "extraDescription": null,
             "promoDescription": null,
@@ -316,6 +342,7 @@
         {
             "uuid": "338cabdb-473f-1f37-fa35-47a3d994517f",
             "displayName": "Magepunk",
+            "displayNameSubText": null,
             "description": "Magepunk",
             "extraDescription": null,
             "promoDescription": null,
@@ -328,6 +355,7 @@
         {
             "uuid": "a981af4a-4d81-9668-8923-9c84c43da3d3",
             "displayName": "Magepunk",
+            "displayNameSubText": null,
             "description": "Magepunk",
             "extraDescription": null,
             "promoDescription": null,
@@ -340,6 +368,7 @@
         {
             "uuid": "c1b255e2-411d-b159-6da3-5ab6c011a8cf",
             "displayName": "Spline",
+            "displayNameSubText": null,
             "description": "Spline",
             "extraDescription": null,
             "promoDescription": null,
@@ -352,6 +381,7 @@
         {
             "uuid": "cd095669-4a29-a7f3-e00d-f694186863cc",
             "displayName": "Minima",
+            "displayNameSubText": null,
             "description": "Minima",
             "extraDescription": null,
             "promoDescription": null,
@@ -364,6 +394,7 @@
         {
             "uuid": "3aaeac8c-469f-bf29-7802-a09cc8729a3e",
             "displayName": "Silvanus",
+            "displayNameSubText": null,
             "description": "Silvanus",
             "extraDescription": null,
             "promoDescription": null,
@@ -376,6 +407,7 @@
         {
             "uuid": "693d675e-4ed2-c00a-5e38-6b859b275565",
             "displayName": "Ion",
+            "displayNameSubText": null,
             "description": "Ion",
             "extraDescription": null,
             "promoDescription": null,
@@ -388,6 +420,7 @@
         {
             "uuid": "ebfb909d-45ba-c514-3369-55bf014ba293",
             "displayName": "Oni",
+            "displayNameSubText": null,
             "description": "Oni",
             "extraDescription": null,
             "promoDescription": null,
@@ -398,8 +431,22 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_OniThemeBundle_DataAsset"
         },
         {
+            "uuid": "ab83f73d-485f-e010-8ea0-24b538468a1a",
+            "displayName": "Protocol 781-A",
+            "displayNameSubText": null,
+            "description": "Protocol 781-A",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/ab83f73d-485f-e010-8ea0-24b538468a1a/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/ab83f73d-485f-e010-8ea0-24b538468a1a/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/ab83f73d-485f-e010-8ea0-24b538468a1a/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/Storefrontitem_ProtocolThemeBundle_DataAsset"
+        },
+        {
             "uuid": "54cbf45c-4b92-5cd9-07ab-3d98175fafa6",
             "displayName": "Sensation",
+            "displayNameSubText": null,
             "description": "Sensation",
             "extraDescription": null,
             "promoDescription": null,
@@ -412,6 +459,7 @@
         {
             "uuid": "e84d5a16-462f-6fbf-bee0-5a80191a19e5",
             "displayName": "Gravitational Uranium Neuroblaster",
+            "displayNameSubText": null,
             "description": "Gravitational Uranium Neuroblaster",
             "extraDescription": null,
             "promoDescription": null,
@@ -424,6 +472,7 @@
         {
             "uuid": "332d705c-4852-11e5-c590-88b1f6e47f72",
             "displayName": "Run It Back",
+            "displayNameSubText": null,
             "description": "Run It Back",
             "extraDescription": "Celebrate the new year with a hand-picked selection of some of our favorite skins from 2021.",
             "promoDescription": "Celebrate the new year with a hand-picked selection of some of our favorite skins from 2021.",
@@ -436,6 +485,7 @@
         {
             "uuid": "bcdd8956-4588-f586-fda8-fd991c593449",
             "displayName": "Run It Back",
+            "displayNameSubText": null,
             "description": "Run It Back",
             "extraDescription": "From June 22 - July 8, 50% of proceeds from Weapon skins and 100% of proceeds from accessories will go towards the Riot Games Social Impact Fund in partnership with ImpactAssets.",
             "promoDescription": "From June 22 - July 8, 50% of proceeds from Weapon skins and 100% of proceeds from accessories will go towards the Riot Games Social Impact Fund in partnership with ImpactAssets.",
@@ -448,6 +498,7 @@
         {
             "uuid": "49d7951e-4e5d-304c-31a0-589b79096d5a",
             "displayName": "Sakura",
+            "displayNameSubText": null,
             "description": "Sakura",
             "extraDescription": null,
             "promoDescription": null,
@@ -460,6 +511,7 @@
         {
             "uuid": "8a3507cd-44ef-0695-1d66-4da0f87e7522",
             "displayName": "Snowfall",
+            "displayNameSubText": null,
             "description": "Snowfall",
             "extraDescription": null,
             "promoDescription": null,
@@ -472,6 +524,7 @@
         {
             "uuid": "13d427c1-49d7-44f9-6576-27a9c83d787f",
             "displayName": "Sentinels of Light",
+            "displayNameSubText": null,
             "description": "Sentinels of Light",
             "extraDescription": null,
             "promoDescription": null,
@@ -484,6 +537,7 @@
         {
             "uuid": "81d85522-4651-4f66-72de-5fa057b3514c",
             "displayName": "Reaver",
+            "displayNameSubText": null,
             "description": "Reaver",
             "extraDescription": null,
             "promoDescription": null,
@@ -496,6 +550,7 @@
         {
             "uuid": "fd9fd08f-446f-018f-c632-0e96428f2978",
             "displayName": "Sovereign",
+            "displayNameSubText": null,
             "description": "Sovereign",
             "extraDescription": null,
             "promoDescription": null,
@@ -508,6 +563,7 @@
         {
             "uuid": "1b632bcd-4e3d-eb8e-cca6-cebf937e6ebb",
             "displayName": "Tethered Realms",
+            "displayNameSubText": null,
             "description": "Tethered Realms",
             "extraDescription": null,
             "promoDescription": null,
@@ -520,6 +576,7 @@
         {
             "uuid": "b6b1b7ea-4a10-f810-a416-03adbb69d379",
             "displayName": "Recon",
+            "displayNameSubText": null,
             "description": "Recon",
             "extraDescription": null,
             "promoDescription": null,
@@ -532,6 +589,7 @@
         {
             "uuid": "2d6ec1d9-4152-8a43-5f7f-ff96b29c857f",
             "displayName": "Ego",
+            "displayNameSubText": null,
             "description": "Ego",
             "extraDescription": null,
             "promoDescription": null,
@@ -544,6 +602,7 @@
         {
             "uuid": "a31f7d1f-89d8-47ae-875b-1ae2117655c2",
             "displayName": "BlastX",
+            "displayNameSubText": null,
             "description": "BlastX",
             "extraDescription": null,
             "promoDescription": null,
@@ -556,6 +615,7 @@
         {
             "uuid": "4e3a244b-4482-0541-3eab-b8912cdb72d6",
             "displayName": "Wasteland",
+            "displayNameSubText": null,
             "description": "Wasteland",
             "extraDescription": null,
             "promoDescription": null,
@@ -568,6 +628,7 @@
         {
             "uuid": "79d2f4b9-4066-8b5b-884f-1d95b33d2ac5",
             "displayName": "Winterwunderland",
+            "displayNameSubText": null,
             "description": "Winterwunderland",
             "extraDescription": null,
             "promoDescription": null,
@@ -580,6 +641,7 @@
         {
             "uuid": "2270b116-4255-8a14-4486-db9de4979b89",
             "displayName": "Arcane",
+            "displayNameSubText": "COLLECTOR'S SET",
             "description": "Arcane",
             "extraDescription": "Celebrate RiotX Arcane with this limited edition Collector's Set! Items won\u2019t return to the Store or Night.Market and must be purchased as part of the complete bundle.",
             "promoDescription": null,

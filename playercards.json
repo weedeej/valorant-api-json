@@ -706,6 +706,28 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Contracts/Character/Sova/PlayerCard02/Playercard_Sova_2_PrimaryAsset"
         },
         {
+            "uuid": "cec2424b-483e-da2e-4369-f0a8822f96b5",
+            "displayName": "VALORANT Neon Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/cec2424b-483e-da2e-4369-f0a8822f96b5/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/cec2424b-483e-da2e-4369-f0a8822f96b5/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/cec2424b-483e-da2e-4369-f0a8822f96b5/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/cec2424b-483e-da2e-4369-f0a8822f96b5/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Contracts/Character/Sprinter/Sprinter01/Playercard_Sprinter01_PrimaryAsset"
+        },
+        {
+            "uuid": "5b025468-4810-96e1-d19d-2ea35074586c",
+            "displayName": "Eye of the Storm Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/5b025468-4810-96e1-d19d-2ea35074586c/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/5b025468-4810-96e1-d19d-2ea35074586c/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/5b025468-4810-96e1-d19d-2ea35074586c/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/5b025468-4810-96e1-d19d-2ea35074586c/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Contracts/Character/Sprinter/Sprinter02/Playercard_Sprinter02_PrimaryAsset"
+        },
+        {
             "uuid": "14a59263-4028-9a76-a65e-c8891387db0c",
             "displayName": "VALORANT Yoru Card",
             "isHiddenIfNotOwned": false,
@@ -1685,6 +1707,149 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep3_Act3_BP/ScaredSage/Playercard_ScaredSage_PrimaryAsset"
         },
         {
+            "uuid": "9e337954-41e5-8ea9-dee9-10a1e0101d4a",
+            "displayName": "Bind Schema Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/9e337954-41e5-8ea9-dee9-10a1e0101d4a/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/9e337954-41e5-8ea9-dee9-10a1e0101d4a/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/9e337954-41e5-8ea9-dee9-10a1e0101d4a/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/9e337954-41e5-8ea9-dee9-10a1e0101d4a/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/BindSchema/Playercard_BindSchema_PrimaryAsset"
+        },
+        {
+            "uuid": "bb6ae873-43ec-efb4-3ea6-93ac00a82d4e",
+            "displayName": "Be Mine: Jett Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/bb6ae873-43ec-efb4-3ea6-93ac00a82d4e/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/bb6ae873-43ec-efb4-3ea6-93ac00a82d4e/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/bb6ae873-43ec-efb4-3ea6-93ac00a82d4e/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/bb6ae873-43ec-efb4-3ea6-93ac00a82d4e/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/ChibiJettValentinesDay/Playercard_ChibiJettValentinesDay_PrimaryAsset"
+        },
+        {
+            "uuid": "f0ed2c16-4152-9dd9-694b-19873d209492",
+            "displayName": "Be Mine: Phoenix Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/f0ed2c16-4152-9dd9-694b-19873d209492/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/f0ed2c16-4152-9dd9-694b-19873d209492/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/f0ed2c16-4152-9dd9-694b-19873d209492/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/f0ed2c16-4152-9dd9-694b-19873d209492/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/ChibiPhoenixValentinesDay/Playercard_ChibiPhoenixValentinesDay_PrimaryAsset"
+        },
+        {
+            "uuid": "8c93837c-435d-d19d-447f-3e8dcd1a6bb8",
+            "displayName": "Be Mine: Sova Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/8c93837c-435d-d19d-447f-3e8dcd1a6bb8/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/8c93837c-435d-d19d-447f-3e8dcd1a6bb8/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/8c93837c-435d-d19d-447f-3e8dcd1a6bb8/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/8c93837c-435d-d19d-447f-3e8dcd1a6bb8/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/ChibiSovaValentinesDay/Playercard_ChibiSovaValentinesDay_PrimaryAsset"
+        },
+        {
+            "uuid": "514ea59a-448c-ba70-9ebb-5faff372b6e2",
+            "displayName": "Valentine's Tactics Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/514ea59a-448c-ba70-9ebb-5faff372b6e2/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/514ea59a-448c-ba70-9ebb-5faff372b6e2/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/514ea59a-448c-ba70-9ebb-5faff372b6e2/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/514ea59a-448c-ba70-9ebb-5faff372b6e2/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/CrittersValentine/Playercard_CrittersValentine_PrimaryAsset"
+        },
+        {
+            "uuid": "2e2ca053-43d0-e2ed-8def-8e9e3fa366cb",
+            "displayName": "Velocity Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/2e2ca053-43d0-e2ed-8def-8e9e3fa366cb/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/2e2ca053-43d0-e2ed-8def-8e9e3fa366cb/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/2e2ca053-43d0-e2ed-8def-8e9e3fa366cb/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/2e2ca053-43d0-e2ed-8def-8e9e3fa366cb/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/Fiberglass/Playercard_Fiberglass_PrimaryAsset"
+        },
+        {
+            "uuid": "e9fbb6df-44e3-93fa-18e8-dca0fdbe6e55",
+            "displayName": "Operation: Fracture Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/e9fbb6df-44e3-93fa-18e8-dca0fdbe6e55/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/e9fbb6df-44e3-93fa-18e8-dca0fdbe6e55/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/e9fbb6df-44e3-93fa-18e8-dca0fdbe6e55/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/e9fbb6df-44e3-93fa-18e8-dca0fdbe6e55/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/Fracture/Playercard_Fracture_PrimaryAsset"
+        },
+        {
+            "uuid": "4f378427-4574-e06d-190e-88b9db420337",
+            "displayName": "Distracted Duelist Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/4f378427-4574-e06d-190e-88b9db420337/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/4f378427-4574-e06d-190e-88b9db420337/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/4f378427-4574-e06d-190e-88b9db420337/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/4f378427-4574-e06d-190e-88b9db420337/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/HeadTurner/Playercard_HeadTurner_PrimaryAsset"
+        },
+        {
+            "uuid": "992b83fb-4947-5bb3-a080-ebbfff029ca9",
+            "displayName": "Hydrodip Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/Hydrodip/Playercard_Hydrodip_PrimaryAsset"
+        },
+        {
+            "uuid": "7b3bfdba-4340-7e05-ef75-17873ed03902",
+            "displayName": "Neon ID Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/7b3bfdba-4340-7e05-ef75-17873ed03902/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/7b3bfdba-4340-7e05-ef75-17873ed03902/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/7b3bfdba-4340-7e05-ef75-17873ed03902/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/7b3bfdba-4340-7e05-ef75-17873ed03902/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/NeonID/Playercard_NeonID_PrimaryAsset"
+        },
+        {
+            "uuid": "16ac5364-471a-fd97-5a44-8ab9c48c7c84",
+            "displayName": "Unstoppable // Sage Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/16ac5364-471a-fd97-5a44-8ab9c48c7c84/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/16ac5364-471a-fd97-5a44-8ab9c48c7c84/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/16ac5364-471a-fd97-5a44-8ab9c48c7c84/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/16ac5364-471a-fd97-5a44-8ab9c48c7c84/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/PowerFantasySage/Playercard_PowerFantasySage_PrimaryAsset"
+        },
+        {
+            "uuid": "382519d7-4422-d868-95ca-e9b3d9825934",
+            "displayName": "PlayZilla Rubber Ducky Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/382519d7-4422-d868-95ca-e9b3d9825934/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/382519d7-4422-d868-95ca-e9b3d9825934/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/382519d7-4422-d868-95ca-e9b3d9825934/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/382519d7-4422-d868-95ca-e9b3d9825934/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/ToyDuck/Playercard_ToyDuck_PrimaryAsset"
+        },
+        {
+            "uuid": "9ee85a55-4b94-e382-b8a8-f985a33c1cc2",
+            "displayName": "Epilogue: PlayZilla Rubber Ducky Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Ep4_Act1_BP/ToyDuck_Epilogue/Playercard_ToyDuck_Epilogue_PrimaryAsset"
+        },
+        {
             "uuid": "bab9caaa-4913-2704-833e-8c89e2128eb9",
             "displayName": "EP 1 // IGNITION Card",
             "isHiddenIfNotOwned": false,
@@ -2233,6 +2398,17 @@
             "wideArt": "https://media.valorant-api.com/playercards/9ef2f845-4ab5-2350-ea38-0795bb21ed05/wideart.png",
             "largeArt": "https://media.valorant-api.com/playercards/9ef2f845-4ab5-2350-ea38-0795bb21ed05/largeart.png",
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/PowderHug/Playercard_PowderHug_PrimaryAsset"
+        },
+        {
+            "uuid": "66554177-4970-fea5-22d2-c0bd8514888c",
+            "displayName": "Protocol 781-A Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/66554177-4970-fea5-22d2-c0bd8514888c/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/66554177-4970-fea5-22d2-c0bd8514888c/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/66554177-4970-fea5-22d2-c0bd8514888c/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/66554177-4970-fea5-22d2-c0bd8514888c/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Protocol/Playercard_Protocol_PrimaryAsset"
         },
         {
             "uuid": "c2f90c55-49be-93a5-daf4-6393d9d3f6fc",
