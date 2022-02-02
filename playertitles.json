@@ -2,6 +2,20 @@
     "status": 200,
     "data": [
         {
+            "uuid": "48d870a2-4493-ebf8-7d6f-979be914dc43",
+            "displayName": "Fortune Title",
+            "titleText": "Fortune",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/2022LNY/PlayerTitle_Fortune_PrimaryAsset"
+        },
+        {
+            "uuid": "f8c974b0-4e0c-c0e6-174d-c1b6d990b2a6",
+            "displayName": "Tiger Title",
+            "titleText": "Tiger",
+            "isHiddenIfNotOwned": false,
+            "assetPath": "ShooterGame/Content/Personalization/Titles/2022LNY/PlayerTitle_Tiger_PrimaryAsset"
+        },
+        {
             "uuid": "a65074fd-4937-734e-20fe-3cafa842c631",
             "displayName": "Catalyst Title",
             "titleText": "Catalyst",

@@ -587,6 +587,19 @@
             "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/StorefrontItem_SpecOpsThemeBundle_DataAsset"
         },
         {
+            "uuid": "f1befd6b-4270-01b6-8a43-06b52fa417ae",
+            "displayName": "Tigris",
+            "displayNameSubText": null,
+            "description": "Tigris",
+            "extraDescription": null,
+            "promoDescription": null,
+            "useAdditionalContext": false,
+            "displayIcon": "https://media.valorant-api.com/bundles/f1befd6b-4270-01b6-8a43-06b52fa417ae/displayicon.png",
+            "displayIcon2": "https://media.valorant-api.com/bundles/f1befd6b-4270-01b6-8a43-06b52fa417ae/displayicon2.png",
+            "verticalPromoImage": "https://media.valorant-api.com/bundles/f1befd6b-4270-01b6-8a43-06b52fa417ae/verticalpromoimage.png",
+            "assetPath": "ShooterGame/Content/UI/OutOfGame/MainMenu/Store/Bundles/Storefrontitem_TigerThemeBundle_DataAsset"
+        },
+        {
             "uuid": "2d6ec1d9-4152-8a43-5f7f-ff96b29c857f",
             "displayName": "Ego",
             "displayNameSubText": null,

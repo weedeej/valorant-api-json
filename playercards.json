@@ -1905,6 +1905,17 @@
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Miscellaneous/AfreecaTV/Playercard_AfreecaTV_PrimaryAsset"
         },
         {
+            "uuid": "546c9535-4671-e7cf-d5f9-1b90e3e2d7e4",
+            "displayName": "Wishing You Happiness Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/546c9535-4671-e7cf-d5f9-1b90e3e2d7e4/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/546c9535-4671-e7cf-d5f9-1b90e3e2d7e4/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/546c9535-4671-e7cf-d5f9-1b90e3e2d7e4/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/546c9535-4671-e7cf-d5f9-1b90e3e2d7e4/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Miscellaneous/AgentsCelebrateLNY/Playercard_AgentsCelebrateLNY_PrimaryAsset"
+        },
+        {
             "uuid": "cb7157ed-4fc7-a5c9-714b-1786ca3949f1",
             "displayName": "Versus // Yoru + Phoenix Card",
             "isHiddenIfNotOwned": false,
@@ -2486,6 +2497,17 @@
             "wideArt": "https://media.valorant-api.com/playercards/8eb39b3d-443e-05e7-b8ec-6aa210da6e2e/wideart.png",
             "largeArt": "https://media.valorant-api.com/playercards/8eb39b3d-443e-05e7-b8ec-6aa210da6e2e/largeart.png",
             "assetPath": "ShooterGame/Content/Personalization/PlayerCards/SkinCards/Urf/Playercard_Urf_PrimaryAsset"
+        },
+        {
+            "uuid": "53ebe88a-4548-6582-9dd0-edaf67ad8c1e",
+            "displayName": "Tigris Card",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/displayicon.png",
+            "smallArt": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/smallart.png",
+            "wideArt": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/wideart.png",
+            "largeArt": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/largeart.png",
+            "assetPath": "ShooterGame/Content/Personalization/PlayerCards/Tiger/Playercard_Tiger_PrimaryAsset"
         },
         {
             "uuid": "2d91369b-4fb5-28c6-3111-c285c9a32c2c",

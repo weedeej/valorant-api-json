@@ -1039,6 +1039,23 @@
             ]
         },
         {
+            "uuid": "0911b78d-48a7-fb01-3ccd-0ca9a3996f75",
+            "displayName": "Happy Dumpling Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/0911b78d-48a7-fb01-3ccd-0ca9a3996f75/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Dumplings/GunBuddy_Dumplings_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "a4e3fe97-4de9-c133-7dd0-f2b294a2ead2",
+                    "charmLevel": 1,
+                    "displayName": "Dumplings",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/a4e3fe97-4de9-c133-7dd0-f2b294a2ead2/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Dumplings/GunBuddy_Dumplings_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "5e4482b8-4c85-d570-d9b6-929a8d6094d5",
             "displayName": "Dumpster Fire Buddy",
             "isHiddenIfNotOwned": false,
@@ -3245,6 +3262,23 @@
                     "displayName": "Radianite Orb Buddy",
                     "displayIcon": "https://media.valorant-api.com/buddylevels/45d9b8f8-41a6-0ff5-01eb-7987fb000d31/displayicon.png",
                     "assetPath": "ShooterGame/Content/Equippables/Buddies/Thorne/GunBuddy_Thorne_Lv1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "d3cc1856-4df9-ca86-deee-3f80af0edf79",
+            "displayName": "Tigris Buddy",
+            "isHiddenIfNotOwned": false,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/buddies/d3cc1856-4df9-ca86-deee-3f80af0edf79/displayicon.png",
+            "assetPath": "ShooterGame/Content/Equippables/Buddies/Tiger/GunBuddy_Tiger_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "d95a6ed0-4ce4-9730-a3ac-59af093dbdbf",
+                    "charmLevel": 1,
+                    "displayName": "Tiger",
+                    "displayIcon": "https://media.valorant-api.com/buddylevels/d95a6ed0-4ce4-9730-a3ac-59af093dbdbf/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Equippables/Buddies/Tiger/GunBuddy_Tiger_Lv1_PrimaryAsset"
                 }
             ]
         },

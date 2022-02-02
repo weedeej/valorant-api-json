@@ -2486,6 +2486,105 @@
             "assetPath": "ShooterGame/Content/Contracts/Characters/Yoru/Contract_Yoru_DataAssetV2"
         },
         {
+            "uuid": "641ce18d-4360-8e20-2340-339a7422158a",
+            "displayName": "Lunar Celebration Event Pass",
+            "displayIcon": null,
+            "shipIt": false,
+            "freeRewardScheduleUuid": "d74ee7ff-4bde-b5af-4d3b-f0a3784d8542",
+            "content": {
+                "relationType": "Event",
+                "relationUuid": "024d36a7-46e3-8a29-30c6-09a7fb81bebe",
+                "chapters": [
+                    {
+                        "isEpilogue": false,
+                        "levels": [
+                            {
+                                "reward": {
+                                    "type": "Title",
+                                    "uuid": "f8c974b0-4e0c-c0e6-174d-c1b6d990b2a6",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 6000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "Spray",
+                                    "uuid": "efd0d001-4edb-34eb-c05c-139817d4840a",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 7000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 8000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "Title",
+                                    "uuid": "48d870a2-4493-ebf8-7d6f-979be914dc43",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 9000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "EquippableCharmLevel",
+                                    "uuid": "a4e3fe97-4de9-c133-7dd0-f2b294a2ead2",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 10000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "Currency",
+                                    "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 11000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            },
+                            {
+                                "reward": {
+                                    "type": "PlayerCard",
+                                    "uuid": "546c9535-4671-e7cf-d5f9-1b90e3e2d7e4",
+                                    "amount": 1,
+                                    "isHighlighted": false
+                                },
+                                "xp": 12000,
+                                "vpCost": 0,
+                                "isPurchasableWithVP": false
+                            }
+                        ],
+                        "freeRewards": null
+                    }
+                ],
+                "premiumRewardScheduleUuid": null,
+                "premiumVPCost": -1
+            },
+            "assetPath": "ShooterGame/Content/Contracts/Events/2022LNY_Event_Pass/Contract_Event_2022LNY_DataAssetV2"
+        },
+        {
             "uuid": "f3d0a6ce-48a3-8a63-203c-8fae5155db9b",
             "displayName": "YR1 ANNIVERSARY PASS",
             "displayIcon": null,

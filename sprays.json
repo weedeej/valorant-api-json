@@ -3327,6 +3327,25 @@
             ]
         },
         {
+            "uuid": "efd0d001-4edb-34eb-c05c-139817d4840a",
+            "displayName": "Lucky Tiger Spray",
+            "category": "EAresSprayCategory::Contextual",
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/efd0d001-4edb-34eb-c05c-139817d4840a/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/efd0d001-4edb-34eb-c05c-139817d4840a/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/efd0d001-4edb-34eb-c05c-139817d4840a/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/LuckyTiger/LuckyTiger_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "702907a2-4980-4bcb-48bb-4586a7777ba1",
+                    "sprayLevel": 1,
+                    "displayName": "LuckyTiger",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/702907a2-4980-4bcb-48bb-4586a7777ba1/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/LuckyTiger/LuckyTiger_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
             "uuid": "cd9986f8-4473-914d-7918-caa21d23710f",
             "displayName": "Celestial Spray",
             "category": "EAresSprayCategory::Contextual",
@@ -4558,6 +4577,25 @@
                     "displayName": "Pulse Check Spray",
                     "displayIcon": "https://media.valorant-api.com/spraylevels/28b0da71-4d01-825c-a7d5-d480f5d37ca7/displayicon.png",
                     "assetPath": "ShooterGame/Content/Personalization/Sprays/Thorne/Spray03/Spray_Thorne03_Level1_PrimaryAsset"
+                }
+            ]
+        },
+        {
+            "uuid": "5cbab592-4571-be90-e1fa-268898ebd23c",
+            "displayName": "Tigris Spray",
+            "category": null,
+            "themeUuid": null,
+            "displayIcon": "https://media.valorant-api.com/sprays/5cbab592-4571-be90-e1fa-268898ebd23c/displayicon.png",
+            "fullIcon": "https://media.valorant-api.com/sprays/5cbab592-4571-be90-e1fa-268898ebd23c/fullicon.png",
+            "fullTransparentIcon": "https://media.valorant-api.com/sprays/5cbab592-4571-be90-e1fa-268898ebd23c/fulltransparenticon.png",
+            "assetPath": "ShooterGame/Content/Personalization/Sprays/Tiger/Tiger_PrimaryAsset",
+            "levels": [
+                {
+                    "uuid": "e93166d8-4485-59e7-f065-82be40c7899a",
+                    "sprayLevel": 1,
+                    "displayName": "Tiger",
+                    "displayIcon": "https://media.valorant-api.com/spraylevels/e93166d8-4485-59e7-f065-82be40c7899a/displayicon.png",
+                    "assetPath": "ShooterGame/Content/Personalization/Sprays/Tiger/Tiger_Level1_PrimaryAsset"
                 }
             ]
         },
